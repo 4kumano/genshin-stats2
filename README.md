@@ -4,16 +4,16 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 0
+Total rewards claimed: 1
 \
-Last checked: 30.06.2021 16:56:38 UTC
+Last checked: 01.07.2021 16:54:37 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>157</td></tr>
-    <tr><td>Active days</td><td>173</td></tr>
-    <tr><td>Characters</td><td>21</td></tr>
+    <tr><td>Achievements</td><td>160</td></tr>
+    <tr><td>Active days</td><td>174</td></tr>
+    <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>50</td></tr>
     <tr><td>Geoculi</td><td>104</td></tr>
@@ -249,7 +249,7 @@ Last checked: 30.06.2021 16:56:38 UTC
     <tr><td>Ascension</td><td>3</td></tr>
     <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>4 x Bloodstained Chivalry<br>1 x Maiden Beloved</td></tr>
+    <tr><td>Artifacts</td><td>2 x Adventurer<br>1 x Traveling Doctor<br>1 x Maiden Beloved</td></tr>
 </table>
 
 </td>
@@ -279,12 +279,12 @@ Last checked: 30.06.2021 16:56:38 UTC
 
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Element</td><td>Geo</td></tr>
+    <tr><td>Element</td><td>Anemo</td></tr>
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Ascension</td><td>1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
-    <tr><td>Artifacts</td><td>2 x Adventurer<br>1 x Traveling Doctor</td></tr>
+    <tr><td>Artifacts</td><td>4 x Bloodstained Chivalry<br>1 x Noblesse Oblige</td></tr>
 </table>
 
 </td>
@@ -678,6 +678,41 @@ Last checked: 30.06.2021 16:56:38 UTC
 
 <table>
     <tr><td>Name</td><td>Hunter's Bow</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+### Razor
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Razor.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Electro</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Ascension</td><td>-1</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Waster Greatsword</td></tr>
     <tr><td>Rarity</td><td>1</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>

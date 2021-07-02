@@ -4,15 +4,15 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 1
+Total rewards claimed: 2
 \
-Last checked: 01.07.2021 16:54:37 UTC
+Last checked: 02.07.2021 16:55:33 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>160</td></tr>
-    <tr><td>Active days</td><td>174</td></tr>
+    <tr><td>Active days</td><td>175</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>50</td></tr>
@@ -22,7 +22,7 @@ Last checked: 01.07.2021 16:54:37 UTC
     <tr><td>Precious chests</td><td>129</td></tr>
     <tr><td>Luxurious chests</td><td>39</td></tr>
     <tr><td>Unlocked waypoints</td><td>90</td></tr>
-    <tr><td>Unlocked domains</td><td>36</td></tr>
+    <tr><td>Unlocked domains</td><td>37</td></tr>
 </table>
 
 ## Spiral Abys
@@ -540,7 +540,7 @@ Last checked: 01.07.2021 16:54:37 UTC
     <tr><td>Name</td><td>The Bell</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>3</td></tr>
 </table>
 
 </td></tr>

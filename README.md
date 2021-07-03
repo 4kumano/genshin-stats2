@@ -4,15 +4,15 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 2
+Total rewards claimed: 3
 \
-Last checked: 02.07.2021 16:55:33 UTC
+Last checked: 03.07.2021 02:02:50 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>160</td></tr>
-    <tr><td>Active days</td><td>175</td></tr>
+    <tr><td>Active days</td><td>176</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>50</td></tr>
@@ -283,7 +283,7 @@ Last checked: 02.07.2021 16:55:33 UTC
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Ascension</td><td>1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>2</td></tr>
+    <tr><td>Constellation</td><td>6</td></tr>
     <tr><td>Artifacts</td><td>4 x Bloodstained Chivalry<br>1 x Noblesse Oblige</td></tr>
 </table>
 

@@ -6,7 +6,7 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 Total rewards claimed: 3
 \
-Last checked: 03.07.2021 02:02:50 UTC
+Last checked: 03.07.2021 16:52:04 UTC
 
 ## Stats
 

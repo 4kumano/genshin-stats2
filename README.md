@@ -4,24 +4,24 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 3
+Total rewards claimed: 4
 \
-Last checked: 03.07.2021 16:52:04 UTC
+Last checked: 04.07.2021 16:51:47 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>160</td></tr>
-    <tr><td>Active days</td><td>176</td></tr>
+    <tr><td>Achievements</td><td>161</td></tr>
+    <tr><td>Active days</td><td>177</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>50</td></tr>
     <tr><td>Geoculi</td><td>104</td></tr>
-    <tr><td>Common chests</td><td>433</td></tr>
-    <tr><td>Exquisite chests</td><td>503</td></tr>
+    <tr><td>Common chests</td><td>436</td></tr>
+    <tr><td>Exquisite chests</td><td>505</td></tr>
     <tr><td>Precious chests</td><td>129</td></tr>
     <tr><td>Luxurious chests</td><td>39</td></tr>
-    <tr><td>Unlocked waypoints</td><td>90</td></tr>
+    <tr><td>Unlocked waypoints</td><td>91</td></tr>
     <tr><td>Unlocked domains</td><td>37</td></tr>
 </table>
 
@@ -63,7 +63,7 @@ Last checked: 03.07.2021 16:52:04 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>72.1%</td>
+                    <td>72.4%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -75,7 +75,7 @@ Last checked: 03.07.2021 16:52:04 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>61.5%</td>
+                    <td>61.9%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -189,7 +189,7 @@ Last checked: 03.07.2021 16:52:04 UTC
 <table>
     <tr><td>Name</td><td>Blackcliff Pole</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
@@ -224,7 +224,7 @@ Last checked: 03.07.2021 16:52:04 UTC
 <table>
     <tr><td>Name</td><td>Royal Greatsword</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>50</td></tr>
+    <tr><td>Level</td><td>60</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 

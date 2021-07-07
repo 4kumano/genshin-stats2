@@ -4,20 +4,20 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 6
+Total rewards claimed: 7
 \
-Last checked: 06.07.2021 16:53:16 UTC
+Last checked: 07.07.2021 17:01:59 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>161</td></tr>
-    <tr><td>Active days</td><td>179</td></tr>
+    <tr><td>Achievements</td><td>162</td></tr>
+    <tr><td>Active days</td><td>180</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>50</td></tr>
     <tr><td>Geoculi</td><td>104</td></tr>
-    <tr><td>Common chests</td><td>436</td></tr>
+    <tr><td>Common chests</td><td>437</td></tr>
     <tr><td>Exquisite chests</td><td>505</td></tr>
     <tr><td>Precious chests</td><td>129</td></tr>
     <tr><td>Luxurious chests</td><td>39</td></tr>
@@ -75,7 +75,7 @@ Last checked: 06.07.2021 16:53:16 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>61.9%</td>
+                    <td>62.0%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -249,7 +249,7 @@ Last checked: 06.07.2021 16:53:16 UTC
     <tr><td>Ascension</td><td>3</td></tr>
     <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x Adventurer<br>1 x Traveling Doctor<br>1 x Maiden Beloved</td></tr>
+    <tr><td>Artifacts</td><td>4 x Bloodstained Chivalry<br>1 x Maiden Beloved</td></tr>
 </table>
 
 </td>
@@ -284,7 +284,7 @@ Last checked: 06.07.2021 16:53:16 UTC
     <tr><td>Ascension</td><td>1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>6</td></tr>
-    <tr><td>Artifacts</td><td>4 x Bloodstained Chivalry<br>1 x Noblesse Oblige</td></tr>
+    <tr><td>Artifacts</td><td>2 x Adventurer<br>1 x Traveling Doctor<br>1 x Noblesse Oblige</td></tr>
 </table>
 
 </td>
@@ -371,6 +371,41 @@ Last checked: 06.07.2021 16:53:16 UTC
 </td></tr>
 </table>
 
+### Barbara
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Hydro</td></tr>
+    <tr><td>Level</td><td>40</td></tr>
+    <tr><td>Ascension</td><td>3</td></tr>
+    <tr><td>Friendship</td><td>2</td></tr>
+    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Artifacts</td><td>3 x Berserker<br>2 x Gambler</td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Thrilling Tales of Dragon Slayers</td></tr>
+    <tr><td>Rarity</td><td>3</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
+</table>
+
+</td></tr>
+</table>
+
 ### Xinyan
 
 <table>
@@ -398,41 +433,6 @@ Last checked: 06.07.2021 16:53:16 UTC
 
 <table>
     <tr><td>Name</td><td>Bloodtainted Greatsword</td></tr>
-    <tr><td>Rarity</td><td>3</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Barbara
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Hydro</td></tr>
-    <tr><td>Level</td><td>40</td></tr>
-    <tr><td>Ascension</td><td>3</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>3 x Berserker<br>2 x Gambler</td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Thrilling Tales of Dragon Slayers</td></tr>
     <tr><td>Rarity</td><td>3</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>5</td></tr>

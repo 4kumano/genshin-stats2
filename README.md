@@ -4,25 +4,25 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 8
+Total rewards claimed: 9
 \
-Last checked: 08.07.2021 17:00:17 UTC
+Last checked: 09.07.2021 16:54:49 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>162</td></tr>
-    <tr><td>Active days</td><td>181</td></tr>
-    <tr><td>Characters</td><td>22</td></tr>
+    <tr><td>Achievements</td><td>165</td></tr>
+    <tr><td>Active days</td><td>182</td></tr>
+    <tr><td>Characters</td><td>23</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>50</td></tr>
-    <tr><td>Geoculi</td><td>104</td></tr>
-    <tr><td>Common chests</td><td>437</td></tr>
-    <tr><td>Exquisite chests</td><td>505</td></tr>
-    <tr><td>Precious chests</td><td>129</td></tr>
-    <tr><td>Luxurious chests</td><td>39</td></tr>
+    <tr><td>Geoculi</td><td>106</td></tr>
+    <tr><td>Common chests</td><td>441</td></tr>
+    <tr><td>Exquisite chests</td><td>507</td></tr>
+    <tr><td>Precious chests</td><td>132</td></tr>
+    <tr><td>Luxurious chests</td><td>40</td></tr>
     <tr><td>Unlocked waypoints</td><td>91</td></tr>
-    <tr><td>Unlocked domains</td><td>36</td></tr>
+    <tr><td>Unlocked domains</td><td>37</td></tr>
 </table>
 
 ## Spiral Abys
@@ -75,7 +75,7 @@ Last checked: 08.07.2021 17:00:17 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>62.0%</td>
+                    <td>62.4%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -210,11 +210,11 @@ Last checked: 08.07.2021 17:00:17 UTC
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
-    <tr><td>Level</td><td>50</td></tr>
-    <tr><td>Ascension</td><td>4</td></tr>
+    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Ascension</td><td>5</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>3 x Pale Flame<br>1 x Crimson Witch of Flames<br>1 x Blizzard Strayer</td></tr>
+    <tr><td>Artifacts</td><td>4 x Pale Flame<br>1 x Gladiator's Finale</td></tr>
 </table>
 
 </td>
@@ -818,6 +818,41 @@ Last checked: 08.07.2021 17:00:17 UTC
 
 <table>
     <tr><td>Name</td><td>Hunter's Bow</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+### Bennett
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Pyro</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Ascension</td><td>-1</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Dull Blade</td></tr>
     <tr><td>Rarity</td><td>1</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>

@@ -4,16 +4,16 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 11
+Total rewards claimed: 12
 \
-Last checked: 11.07.2021 16:51:53 UTC
+Last checked: 12.07.2021 16:55:54 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>166</td></tr>
-    <tr><td>Active days</td><td>184</td></tr>
-    <tr><td>Characters</td><td>23</td></tr>
+    <tr><td>Active days</td><td>185</td></tr>
+    <tr><td>Characters</td><td>24</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>50</td></tr>
     <tr><td>Geoculi</td><td>106</td></tr>
@@ -22,7 +22,7 @@ Last checked: 11.07.2021 16:51:53 UTC
     <tr><td>Precious chests</td><td>132</td></tr>
     <tr><td>Luxurious chests</td><td>40</td></tr>
     <tr><td>Unlocked waypoints</td><td>91</td></tr>
-    <tr><td>Unlocked domains</td><td>37</td></tr>
+    <tr><td>Unlocked domains</td><td>36</td></tr>
 </table>
 
 ## Spiral Abys
@@ -214,7 +214,7 @@ Last checked: 11.07.2021 16:51:53 UTC
     <tr><td>Ascension</td><td>5</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>4 x Pale Flame<br>1 x Gladiator's Finale</td></tr>
+    <tr><td>Artifacts</td><td>4 x Pale Flame<br>1 x Tenacity of the Millelith</td></tr>
 </table>
 
 </td>
@@ -387,7 +387,7 @@ Last checked: 11.07.2021 16:51:53 UTC
     <tr><td>Element</td><td>Hydro</td></tr>
     <tr><td>Level</td><td>40</td></tr>
     <tr><td>Ascension</td><td>3</td></tr>
-    <tr><td>Friendship</td><td>2</td></tr>
+    <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>3 x Berserker<br>2 x Gambler</td></tr>
 </table>
@@ -669,7 +669,7 @@ Last checked: 11.07.2021 16:51:53 UTC
     <tr><td>Ascension</td><td>-1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Artifacts</td><td>5 x Tenacity of the Millelith</td></tr>
 </table>
 
 </td>
@@ -853,6 +853,41 @@ Last checked: 11.07.2021 16:51:53 UTC
 
 <table>
     <tr><td>Name</td><td>Dull Blade</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+### Rosaria
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Cryo</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Ascension</td><td>-1</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Beginner's Protector</td></tr>
     <tr><td>Rarity</td><td>1</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>

@@ -4,15 +4,15 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 13
+Total rewards claimed: 14
 \
-Last checked: 13.07.2021 16:54:32 UTC
+Last checked: 14.07.2021 16:54:07 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>166</td></tr>
-    <tr><td>Active days</td><td>186</td></tr>
+    <tr><td>Achievements</td><td>167</td></tr>
+    <tr><td>Active days</td><td>187</td></tr>
     <tr><td>Characters</td><td>24</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>50</td></tr>
@@ -214,7 +214,7 @@ Last checked: 13.07.2021 16:54:32 UTC
     <tr><td>Ascension</td><td>5</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>4 x Pale Flame<br>1 x Tenacity of the Millelith</td></tr>
+    <tr><td>Artifacts</td><td>4 x Pale Flame<br>1 x Noblesse Oblige</td></tr>
 </table>
 
 </td>
@@ -831,7 +831,7 @@ Last checked: 13.07.2021 16:54:32 UTC
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Mitsurugi.png"></p></td>
 </tr>
 
 <tr>
@@ -844,7 +844,7 @@ Last checked: 13.07.2021 16:54:32 UTC
     <tr><td>Ascension</td><td>-1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Crimson Witch of Flames</td></tr>
 </table>
 
 </td>
@@ -852,10 +852,10 @@ Last checked: 13.07.2021 16:54:32 UTC
 <td>
 
 <table>
-    <tr><td>Name</td><td>Dull Blade</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Name</td><td>Skyrider Sword</td></tr>
+    <tr><td>Rarity</td><td>3</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -901,7 +901,7 @@ Last checked: 13.07.2021 16:54:32 UTC
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Feiyan.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Phoney.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Ludiharpastum.png"></p></td>
 </tr>
 
 <tr>
@@ -922,10 +922,10 @@ Last checked: 13.07.2021 16:54:32 UTC
 <td>
 
 <table>
-    <tr><td>Name</td><td>Twin Nephrite</td></tr>
-    <tr><td>Rarity</td><td>3</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>4</td></tr>
+    <tr><td>Name</td><td>Dodoco Tales</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>

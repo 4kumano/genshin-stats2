@@ -4,20 +4,20 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 15
+Total rewards claimed: 16
 \
-Last checked: 15.07.2021 16:53:59 UTC
+Last checked: 16.07.2021 16:55:54 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>167</td></tr>
-    <tr><td>Active days</td><td>188</td></tr>
+    <tr><td>Active days</td><td>189</td></tr>
     <tr><td>Characters</td><td>24</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>50</td></tr>
     <tr><td>Geoculi</td><td>106</td></tr>
-    <tr><td>Common chests</td><td>441</td></tr>
+    <tr><td>Common chests</td><td>442</td></tr>
     <tr><td>Exquisite chests</td><td>507</td></tr>
     <tr><td>Precious chests</td><td>132</td></tr>
     <tr><td>Luxurious chests</td><td>40</td></tr>

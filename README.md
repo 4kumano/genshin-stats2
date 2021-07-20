@@ -4,9 +4,9 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 19
+Total rewards claimed: 20
 \
-Last checked: 19.07.2021 16:54:31 UTC
+Last checked: 20.07.2021 16:54:03 UTC
 
 ## Stats
 

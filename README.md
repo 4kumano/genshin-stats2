@@ -4,25 +4,25 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 20
+Total rewards claimed: 21
 \
-Last checked: 20.07.2021 16:54:03 UTC
+Last checked: 21.07.2021 16:55:28 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>168</td></tr>
-    <tr><td>Active days</td><td>192</td></tr>
+    <tr><td>Achievements</td><td>169</td></tr>
+    <tr><td>Active days</td><td>194</td></tr>
     <tr><td>Characters</td><td>24</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>50</td></tr>
     <tr><td>Geoculi</td><td>106</td></tr>
-    <tr><td>Common chests</td><td>442</td></tr>
+    <tr><td>Common chests</td><td>443</td></tr>
     <tr><td>Exquisite chests</td><td>507</td></tr>
     <tr><td>Precious chests</td><td>132</td></tr>
     <tr><td>Luxurious chests</td><td>40</td></tr>
-    <tr><td>Unlocked waypoints</td><td>91</td></tr>
-    <tr><td>Unlocked domains</td><td>36</td></tr>
+    <tr><td>Unlocked waypoints</td><td>83</td></tr>
+    <tr><td>Unlocked domains</td><td>22</td></tr>
 </table>
 
 ## Spiral Abys
@@ -42,11 +42,24 @@ Last checked: 20.07.2021 16:54:03 UTC
 
 <table>
     <tr>
+        <th>Inazuma</th>
         <th>Dragonspine</th>
-        <th>Mondstadt</th>
         <th>Liyue</th>
+        <th>Mondstadt</th>
     </tr>
     <tr>
+        <td>
+            <table>
+                <tr>
+                    <td>Explored</td>
+                    <td>0.0%</td>
+                </tr>
+                <tr>
+                    <td>Reputation level</td>
+                    <td>1</td>
+                </tr>
+            </table>
+        </td>
         <td>
             <table>
                 <tr>
@@ -63,11 +76,11 @@ Last checked: 20.07.2021 16:54:03 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>72.4%</td>
+                    <td>62.4%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
-                    <td>2</td>
+                    <td>3</td>
                 </tr>
             </table>
         </td>
@@ -75,11 +88,11 @@ Last checked: 20.07.2021 16:54:03 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>62.4%</td>
+                    <td>72.5%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
-                    <td>3</td>
+                    <td>2</td>
                 </tr>
             </table>
         </td>

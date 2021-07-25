@@ -4,15 +4,15 @@ For some reason this is broken in mobile app, but works in browser, both on mobi
 
 # My Genshin Stats
 
-Total rewards claimed: 23
+Total rewards claimed: 25
 \
-Last checked: 23.07.2021 16:54:59 UTC
+Last checked: 25.07.2021 16:52:15 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>178</td></tr>
-    <tr><td>Active days</td><td>196</td></tr>
+    <tr><td>Achievements</td><td>179</td></tr>
+    <tr><td>Active days</td><td>198</td></tr>
     <tr><td>Characters</td><td>24</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>50</td></tr>
@@ -21,7 +21,7 @@ Last checked: 23.07.2021 16:54:59 UTC
     <tr><td>Exquisite chests</td><td>510</td></tr>
     <tr><td>Precious chests</td><td>133</td></tr>
     <tr><td>Luxurious chests</td><td>40</td></tr>
-    <tr><td>Unlocked waypoints</td><td>97</td></tr>
+    <tr><td>Unlocked waypoints</td><td>106</td></tr>
     <tr><td>Unlocked domains</td><td>22</td></tr>
 </table>
 
@@ -52,7 +52,7 @@ Last checked: 23.07.2021 16:54:59 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>6.0%</td>
+                    <td>10.6%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -227,7 +227,7 @@ Last checked: 23.07.2021 16:54:59 UTC
     <tr><td>Ascension</td><td>5</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>4 x Pale Flame<br>1 x Noblesse Oblige</td></tr>
+    <tr><td>Artifacts</td><td>5 x Pale Flame</td></tr>
 </table>
 
 </td>
@@ -330,7 +330,7 @@ Last checked: 23.07.2021 16:54:59 UTC
     <tr><td>Element</td><td>Hydro</td></tr>
     <tr><td>Level</td><td>60</td></tr>
     <tr><td>Ascension</td><td>5</td></tr>
-    <tr><td>Friendship</td><td>9</td></tr>
+    <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>5</td></tr>
     <tr><td>Artifacts</td><td>4 x Berserker<br>1 x Instructor</td></tr>
 </table>

@@ -1,24 +1,21 @@
-<!---
-For some reason this is broken in mobile app, but works in browser, both on mobile and desktop... ¯\_(ツ)_/¯
--->
-
 # My Genshin Stats
 
-Total rewards claimed: 26
+Total rewards claimed: 28
 \
-Last checked: 26.07.2021 16:54:45 UTC
+Last checked: 28.07.2021 15:20:56 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>179</td></tr>
-    <tr><td>Active days</td><td>199</td></tr>
+    <tr><td>Active days</td><td>201</td></tr>
     <tr><td>Characters</td><td>24</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>50</td></tr>
     <tr><td>Geoculi</td><td>106</td></tr>
+    <tr><td>Electroculi</td><td>1</td></tr>
     <tr><td>Common chests</td><td>446</td></tr>
-    <tr><td>Exquisite chests</td><td>510</td></tr>
+    <tr><td>Exquisite chests</td><td>511</td></tr>
     <tr><td>Precious chests</td><td>133</td></tr>
     <tr><td>Luxurious chests</td><td>40</td></tr>
     <tr><td>Unlocked waypoints</td><td>106</td></tr>
@@ -46,6 +43,12 @@ Last checked: 26.07.2021 16:54:45 UTC
         <th>Dragonspine</th>
         <th>Liyue</th>
         <th>Mondstadt</th>
+    </tr>
+    <tr>
+        <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Daoqi.png" width="180"></p></td>
+        <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Dragonspine.png" width="180"></p></td>
+        <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Liyue.png" width="180"></p></td>
+        <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Mengde.png" width="180"></p></td>
     </tr>
     <tr>
         <td>
@@ -76,7 +79,7 @@ Last checked: 26.07.2021 16:54:45 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>62.4%</td>
+                    <td>62.5%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -119,10 +122,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Anemo</td></tr>
     <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Ascension</td><td>6</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
     <tr><td>Artifacts</td><td>2 x Viridescent Venerer<br>2 x Gladiator's Finale<br>1 x Noblesse Oblige</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -154,10 +157,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Ascension</td><td>6</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>2 x Gladiator's Finale<br>2 x Blizzard Strayer<br>1 x Bloodstained Chivalry</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -189,10 +192,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Ascension</td><td>6</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>2 x Noblesse Oblige<br>2 x Crimson Witch of Flames<br>1 x Viridescent Venerer</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -224,10 +227,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>60</td></tr>
-    <tr><td>Ascension</td><td>5</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>5 x Pale Flame</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -259,10 +262,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>40</td></tr>
-    <tr><td>Ascension</td><td>3</td></tr>
     <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Bloodstained Chivalry<br>1 x Maiden Beloved</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -294,10 +297,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Anemo</td></tr>
     <tr><td>Level</td><td>20</td></tr>
-    <tr><td>Ascension</td><td>1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>6</td></tr>
     <tr><td>Artifacts</td><td>2 x Adventurer<br>1 x Traveling Doctor<br>1 x Noblesse Oblige</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -329,10 +332,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Hydro</td></tr>
     <tr><td>Level</td><td>60</td></tr>
-    <tr><td>Ascension</td><td>5</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>5</td></tr>
     <tr><td>Artifacts</td><td>4 x Berserker<br>1 x Instructor</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -364,10 +367,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>60</td></tr>
-    <tr><td>Ascension</td><td>5</td></tr>
     <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>5</td></tr>
     <tr><td>Artifacts</td><td>2 x Gladiator's Finale<br>2 x Crimson Witch of Flames<br>1 x Adventurer</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -399,10 +402,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Hydro</td></tr>
     <tr><td>Level</td><td>40</td></tr>
-    <tr><td>Ascension</td><td>3</td></tr>
     <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>3 x Berserker<br>2 x Gambler</td></tr>
+    <tr><td>Outfits</td><td>Summertime Sparkle</td></tr>
 </table>
 
 </td>
@@ -434,10 +437,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>40</td></tr>
-    <tr><td>Ascension</td><td>3</td></tr>
     <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>2 x Gambler<br>1 x Instructor<br>1 x Berserker</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -469,10 +472,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>38</td></tr>
-    <tr><td>Ascension</td><td>2</td></tr>
     <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>2 x The Exile<br>2 x Berserker<br>1 x Traveling Doctor</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -504,10 +507,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>30</td></tr>
-    <tr><td>Ascension</td><td>2</td></tr>
     <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>2 x Traveling Doctor<br>2 x Adventurer<br>1 x Lucky Dog</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -539,10 +542,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Geo</td></tr>
     <tr><td>Level</td><td>20</td></tr>
-    <tr><td>Ascension</td><td>1</td></tr>
     <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
     <tr><td>Artifacts</td><td>2 x Lucky Dog<br>2 x Berserker<br>1 x The Exile</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -574,10 +577,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>17</td></tr>
-    <tr><td>Ascension</td><td>0</td></tr>
     <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>3 x Traveling Doctor<br>1 x Lucky Dog<br>1 x Adventurer</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -609,10 +612,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Ascension</td><td>-1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>3</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -644,10 +647,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Anemo</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Ascension</td><td>-1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
     <tr><td>Artifacts</td><td>4 x Instructor<br>1 x Gladiator's Finale</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -679,10 +682,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Ascension</td><td>-1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>5 x Tenacity of the Millelith</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -714,10 +717,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Ascension</td><td>-1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -749,10 +752,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Ascension</td><td>-1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -784,10 +787,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Geo</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Ascension</td><td>-1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>3 x Berserker<br>1 x Gladiator's Finale</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -819,10 +822,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Ascension</td><td>-1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -854,10 +857,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Ascension</td><td>-1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Crimson Witch of Flames</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -889,10 +892,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Ascension</td><td>-1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>
@@ -924,10 +927,10 @@ Last checked: 26.07.2021 16:54:45 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Ascension</td><td>-1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
 </table>
 
 </td>

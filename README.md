@@ -1,24 +1,24 @@
 # My Genshin Stats
 
-Total rewards claimed: 29
+Total rewards claimed: 30
 \
-Last checked: 29.07.2021 16:54:54 UTC
+Last checked: 30.07.2021 16:53:24 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>179</td></tr>
-    <tr><td>Active days</td><td>202</td></tr>
+    <tr><td>Active days</td><td>203</td></tr>
     <tr><td>Characters</td><td>24</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
-    <tr><td>Anemoculi</td><td>50</td></tr>
+    <tr><td>Anemoculi</td><td>51</td></tr>
     <tr><td>Geoculi</td><td>106</td></tr>
-    <tr><td>Electroculi</td><td>1</td></tr>
-    <tr><td>Common chests</td><td>446</td></tr>
-    <tr><td>Exquisite chests</td><td>511</td></tr>
-    <tr><td>Precious chests</td><td>133</td></tr>
-    <tr><td>Luxurious chests</td><td>40</td></tr>
-    <tr><td>Unlocked waypoints</td><td>106</td></tr>
+    <tr><td>Electroculi</td><td>5</td></tr>
+    <tr><td>Common chests</td><td>453</td></tr>
+    <tr><td>Exquisite chests</td><td>518</td></tr>
+    <tr><td>Precious chests</td><td>134</td></tr>
+    <tr><td>Luxurious chests</td><td>41</td></tr>
+    <tr><td>Unlocked waypoints</td><td>108</td></tr>
     <tr><td>Unlocked domains</td><td>22</td></tr>
 </table>
 
@@ -55,7 +55,7 @@ Last checked: 29.07.2021 16:54:54 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>10.6%</td>
+                    <td>13.6%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -91,7 +91,7 @@ Last checked: 29.07.2021 16:54:54 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>72.5%</td>
+                    <td>76.1%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -121,7 +121,7 @@ Last checked: 29.07.2021 16:54:54 UTC
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Anemo</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
     <tr><td>Artifacts</td><td>2 x Viridescent Venerer<br>2 x Gladiator's Finale<br>1 x Noblesse Oblige</td></tr>
@@ -156,7 +156,7 @@ Last checked: 29.07.2021 16:54:54 UTC
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>2 x Gladiator's Finale<br>2 x Blizzard Strayer<br>1 x Bloodstained Chivalry</td></tr>
@@ -191,10 +191,10 @@ Last checked: 29.07.2021 16:54:54 UTC
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Pyro</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x Noblesse Oblige<br>2 x Crimson Witch of Flames<br>1 x Viridescent Venerer</td></tr>
+    <tr><td>Artifacts</td><td>2 x Crimson Witch of Flames<br>1 x Viridescent Venerer<br>1 x Tenacity of the Millelith<br>1 x Noblesse Oblige</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 

@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 1
+Total rewards claimed: 2
 \
-Last checked: 01.08.2021 16:51:54 UTC
+Last checked: 02.08.2021 16:53:59 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>188</td></tr>
-    <tr><td>Active days</td><td>205</td></tr>
+    <tr><td>Active days</td><td>206</td></tr>
     <tr><td>Characters</td><td>24</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>52</td></tr>
@@ -194,7 +194,7 @@ Last checked: 01.08.2021 16:51:54 UTC
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x Crimson Witch of Flames<br>1 x Viridescent Venerer<br>1 x Tenacity of the Millelith<br>1 x Noblesse Oblige</td></tr>
+    <tr><td>Artifacts</td><td>2 x Noblesse Oblige<br>2 x Crimson Witch of Flames<br>1 x Viridescent Venerer</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 

@@ -2,13 +2,13 @@
 
 Total rewards claimed: 3
 \
-Last checked: 03.08.2021 17:00:44 UTC
+Last checked: 04.08.2021 16:57:40 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>188</td></tr>
-    <tr><td>Active days</td><td>207</td></tr>
+    <tr><td>Active days</td><td>208</td></tr>
     <tr><td>Characters</td><td>24</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>52</td></tr>
@@ -19,7 +19,7 @@ Last checked: 03.08.2021 17:00:44 UTC
     <tr><td>Precious chests</td><td>136</td></tr>
     <tr><td>Luxurious chests</td><td>42</td></tr>
     <tr><td>Unlocked waypoints</td><td>109</td></tr>
-    <tr><td>Unlocked domains</td><td>23</td></tr>
+    <tr><td>Unlocked domains</td><td>24</td></tr>
 </table>
 
 ## Spiral Abys

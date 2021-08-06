@@ -2,13 +2,13 @@
 
 Total rewards claimed: 5
 \
-Last checked: 06.08.2021 10:53:24 UTC
+Last checked: 06.08.2021 16:54:13 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>189</td></tr>
-    <tr><td>Active days</td><td>209</td></tr>
+    <tr><td>Achievements</td><td>191</td></tr>
+    <tr><td>Active days</td><td>210</td></tr>
     <tr><td>Characters</td><td>24</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>52</td></tr>
@@ -262,7 +262,7 @@ Last checked: 06.08.2021 10:53:24 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>40</td></tr>
-    <tr><td>Friendship</td><td>5</td></tr>
+    <tr><td>Friendship</td><td>6</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Bloodstained Chivalry<br>1 x Maiden Beloved</td></tr>
     <tr><td>Outfits</td><td></td></tr>

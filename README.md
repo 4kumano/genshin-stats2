@@ -1,20 +1,20 @@
 # My Genshin Stats
 
-Total rewards claimed: 5
+Total rewards claimed: 6
 \
-Last checked: 06.08.2021 16:54:13 UTC
+Last checked: 07.08.2021 16:51:45 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>191</td></tr>
-    <tr><td>Active days</td><td>210</td></tr>
+    <tr><td>Active days</td><td>211</td></tr>
     <tr><td>Characters</td><td>24</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>52</td></tr>
     <tr><td>Geoculi</td><td>106</td></tr>
-    <tr><td>Electroculi</td><td>6</td></tr>
-    <tr><td>Common chests</td><td>462</td></tr>
+    <tr><td>Electroculi</td><td>8</td></tr>
+    <tr><td>Common chests</td><td>463</td></tr>
     <tr><td>Exquisite chests</td><td>526</td></tr>
     <tr><td>Precious chests</td><td>136</td></tr>
     <tr><td>Luxurious chests</td><td>42</td></tr>
@@ -55,7 +55,7 @@ Last checked: 06.08.2021 16:54:13 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>15.4%</td>
+                    <td>16.3%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -227,9 +227,9 @@ Last checked: 06.08.2021 16:54:13 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>5 x Pale Flame</td></tr>
+    <tr><td>Artifacts</td><td>4 x Pale Flame<br>1 x Emblem of Severed Fate</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 

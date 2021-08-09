@@ -1,20 +1,20 @@
 # My Genshin Stats
 
-Total rewards claimed: 6
+Total rewards claimed: 8
 \
-Last checked: 07.08.2021 16:51:45 UTC
+Last checked: 09.08.2021 16:53:21 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>191</td></tr>
-    <tr><td>Active days</td><td>211</td></tr>
+    <tr><td>Active days</td><td>213</td></tr>
     <tr><td>Characters</td><td>24</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
-    <tr><td>Anemoculi</td><td>52</td></tr>
+    <tr><td>Anemoculi</td><td>53</td></tr>
     <tr><td>Geoculi</td><td>106</td></tr>
     <tr><td>Electroculi</td><td>8</td></tr>
-    <tr><td>Common chests</td><td>463</td></tr>
+    <tr><td>Common chests</td><td>464</td></tr>
     <tr><td>Exquisite chests</td><td>526</td></tr>
     <tr><td>Precious chests</td><td>136</td></tr>
     <tr><td>Luxurious chests</td><td>42</td></tr>
@@ -91,7 +91,7 @@ Last checked: 07.08.2021 16:51:45 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>76.5%</td>
+                    <td>77.0%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -240,7 +240,7 @@ Last checked: 07.08.2021 16:51:45 UTC
 <table>
     <tr><td>Name</td><td>Royal Greatsword</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
@@ -261,7 +261,7 @@ Last checked: 07.08.2021 16:51:45 UTC
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
-    <tr><td>Level</td><td>40</td></tr>
+    <tr><td>Level</td><td>50</td></tr>
     <tr><td>Friendship</td><td>6</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Bloodstained Chivalry<br>1 x Maiden Beloved</td></tr>

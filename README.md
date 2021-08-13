@@ -2,22 +2,22 @@
 
 Total rewards claimed: 11
 \
-Last checked: 12.08.2021 16:53:38 UTC
+Last checked: 13.08.2021 16:52:37 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>196</td></tr>
-    <tr><td>Active days</td><td>216</td></tr>
+    <tr><td>Active days</td><td>217</td></tr>
     <tr><td>Characters</td><td>24</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>53</td></tr>
     <tr><td>Geoculi</td><td>106</td></tr>
-    <tr><td>Electroculi</td><td>9</td></tr>
-    <tr><td>Common chests</td><td>469</td></tr>
-    <tr><td>Exquisite chests</td><td>527</td></tr>
+    <tr><td>Electroculi</td><td>16</td></tr>
+    <tr><td>Common chests</td><td>478</td></tr>
+    <tr><td>Exquisite chests</td><td>530</td></tr>
     <tr><td>Precious chests</td><td>137</td></tr>
-    <tr><td>Luxurious chests</td><td>42</td></tr>
+    <tr><td>Luxurious chests</td><td>43</td></tr>
     <tr><td>Unlocked waypoints</td><td>110</td></tr>
     <tr><td>Unlocked domains</td><td>24</td></tr>
 </table>
@@ -55,7 +55,7 @@ Last checked: 12.08.2021 16:53:38 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>18.3%</td>
+                    <td>22.7%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -227,7 +227,7 @@ Last checked: 12.08.2021 16:53:38 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>2</td></tr>
+    <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>5 x Pale Flame</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -439,7 +439,7 @@ Last checked: 12.08.2021 16:53:38 UTC
     <tr><td>Level</td><td>40</td></tr>
     <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>3 x Berserker<br>2 x Gambler</td></tr>
+    <tr><td>Artifacts</td><td>4 x Maiden Beloved<br>1 x Heart of Depth</td></tr>
     <tr><td>Outfits</td><td>Summertime Sparkle</td></tr>
 </table>
 

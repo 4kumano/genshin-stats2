@@ -1,21 +1,21 @@
 # My Genshin Stats
 
-Total rewards claimed: 11
+Total rewards claimed: 12
 \
-Last checked: 13.08.2021 16:52:37 UTC
+Last checked: 14.08.2021 16:51:16 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>196</td></tr>
-    <tr><td>Active days</td><td>217</td></tr>
+    <tr><td>Active days</td><td>218</td></tr>
     <tr><td>Characters</td><td>24</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>53</td></tr>
     <tr><td>Geoculi</td><td>106</td></tr>
-    <tr><td>Electroculi</td><td>16</td></tr>
+    <tr><td>Electroculi</td><td>18</td></tr>
     <tr><td>Common chests</td><td>478</td></tr>
-    <tr><td>Exquisite chests</td><td>530</td></tr>
+    <tr><td>Exquisite chests</td><td>532</td></tr>
     <tr><td>Precious chests</td><td>137</td></tr>
     <tr><td>Luxurious chests</td><td>43</td></tr>
     <tr><td>Unlocked waypoints</td><td>110</td></tr>
@@ -55,7 +55,7 @@ Last checked: 13.08.2021 16:52:37 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>22.7%</td>
+                    <td>23.7%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -648,7 +648,7 @@ Last checked: 13.08.2021 16:52:37 UTC
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>5</td></tr>
+    <tr><td>Constellation</td><td>6</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>

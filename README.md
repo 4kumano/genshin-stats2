@@ -2,7 +2,7 @@
 
 Total rewards claimed: 13
 \
-Last checked: 15.08.2021 16:51:05 UTC
+Last checked: 16.08.2021 16:54:28 UTC
 
 ## Stats
 
@@ -10,7 +10,7 @@ Last checked: 15.08.2021 16:51:05 UTC
     <tr><td>Achievements</td><td>197</td></tr>
     <tr><td>Active days</td><td>219</td></tr>
     <tr><td>Characters</td><td>24</td></tr>
-    <tr><td>Spiral abyss</td><td>3-3</td></tr>
+    <tr><td>Spiral abyss</td><td>-</td></tr>
     <tr><td>Anemoculi</td><td>53</td></tr>
     <tr><td>Geoculi</td><td>106</td></tr>
     <tr><td>Electroculi</td><td>18</td></tr>

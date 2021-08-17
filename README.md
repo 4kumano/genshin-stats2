@@ -1,22 +1,22 @@
 # My Genshin Stats
 
-Total rewards claimed: 13
+Total rewards claimed: 14
 \
-Last checked: 16.08.2021 16:54:28 UTC
+Last checked: 17.08.2021 16:52:34 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>197</td></tr>
-    <tr><td>Active days</td><td>219</td></tr>
+    <tr><td>Active days</td><td>221</td></tr>
     <tr><td>Characters</td><td>24</td></tr>
-    <tr><td>Spiral abyss</td><td>-</td></tr>
+    <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>53</td></tr>
     <tr><td>Geoculi</td><td>106</td></tr>
     <tr><td>Electroculi</td><td>18</td></tr>
-    <tr><td>Common chests</td><td>478</td></tr>
-    <tr><td>Exquisite chests</td><td>532</td></tr>
-    <tr><td>Precious chests</td><td>137</td></tr>
+    <tr><td>Common chests</td><td>480</td></tr>
+    <tr><td>Exquisite chests</td><td>536</td></tr>
+    <tr><td>Precious chests</td><td>138</td></tr>
     <tr><td>Luxurious chests</td><td>43</td></tr>
     <tr><td>Unlocked waypoints</td><td>110</td></tr>
     <tr><td>Unlocked domains</td><td>24</td></tr>
@@ -55,7 +55,7 @@ Last checked: 16.08.2021 16:54:28 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>23.7%</td>
+                    <td>24.5%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -437,7 +437,7 @@ Last checked: 16.08.2021 16:54:28 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Hydro</td></tr>
     <tr><td>Level</td><td>40</td></tr>
-    <tr><td>Friendship</td><td>3</td></tr>
+    <tr><td>Friendship</td><td>4</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>4 x Maiden Beloved<br>1 x Heart of Depth</td></tr>
     <tr><td>Outfits</td><td>Summertime Sparkle</td></tr>

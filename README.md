@@ -2,13 +2,13 @@
 
 Total rewards claimed: 23
 \
-Last checked: 26.08.2021 16:53:47 UTC
+Last checked: 27.08.2021 16:52:14 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>202</td></tr>
-    <tr><td>Active days</td><td>229</td></tr>
+    <tr><td>Active days</td><td>230</td></tr>
     <tr><td>Characters</td><td>24</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>53</td></tr>
@@ -17,7 +17,7 @@ Last checked: 26.08.2021 16:53:47 UTC
     <tr><td>Common chests</td><td>480</td></tr>
     <tr><td>Exquisite chests</td><td>536</td></tr>
     <tr><td>Precious chests</td><td>138</td></tr>
-    <tr><td>Luxurious chests</td><td>43</td></tr>
+    <tr><td>Luxurious chests</td><td>44</td></tr>
     <tr><td>Unlocked waypoints</td><td>110</td></tr>
     <tr><td>Unlocked domains</td><td>24</td></tr>
 </table>
@@ -79,7 +79,7 @@ Last checked: 26.08.2021 16:53:47 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>62.5%</td>
+                    <td>63.3%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>

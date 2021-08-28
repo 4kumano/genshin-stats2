@@ -1,25 +1,25 @@
 # My Genshin Stats
 
-Total rewards claimed: 23
+Total rewards claimed: 24
 \
-Last checked: 27.08.2021 16:52:14 UTC
+Last checked: 28.08.2021 16:51:17 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>202</td></tr>
-    <tr><td>Active days</td><td>230</td></tr>
+    <tr><td>Achievements</td><td>206</td></tr>
+    <tr><td>Active days</td><td>231</td></tr>
     <tr><td>Characters</td><td>24</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>53</td></tr>
     <tr><td>Geoculi</td><td>106</td></tr>
-    <tr><td>Electroculi</td><td>19</td></tr>
-    <tr><td>Common chests</td><td>480</td></tr>
-    <tr><td>Exquisite chests</td><td>536</td></tr>
-    <tr><td>Precious chests</td><td>138</td></tr>
-    <tr><td>Luxurious chests</td><td>44</td></tr>
-    <tr><td>Unlocked waypoints</td><td>110</td></tr>
-    <tr><td>Unlocked domains</td><td>24</td></tr>
+    <tr><td>Electroculi</td><td>37</td></tr>
+    <tr><td>Common chests</td><td>500</td></tr>
+    <tr><td>Exquisite chests</td><td>543</td></tr>
+    <tr><td>Precious chests</td><td>142</td></tr>
+    <tr><td>Luxurious chests</td><td>46</td></tr>
+    <tr><td>Unlocked waypoints</td><td>111</td></tr>
+    <tr><td>Unlocked domains</td><td>25</td></tr>
 </table>
 
 ## Spiral Abys
@@ -55,7 +55,7 @@ Last checked: 27.08.2021 16:52:14 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>24.9%</td>
+                    <td>37.4%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -311,6 +311,41 @@ Last checked: 27.08.2021 16:52:14 UTC
     <tr><td>Name</td><td>The Flute</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+### Diona
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Cryo</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Artifacts</td><td>5 x Tenacity of the Millelith</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Hunter's Bow</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
@@ -729,41 +764,6 @@ Last checked: 27.08.2021 16:52:14 UTC
 
 <table>
     <tr><td>Name</td><td>Waster Greatsword</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Diona
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Cryo</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>5 x Tenacity of the Millelith</td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Hunter's Bow</td></tr>
     <tr><td>Rarity</td><td>1</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>

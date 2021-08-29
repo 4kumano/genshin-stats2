@@ -1,21 +1,21 @@
 # My Genshin Stats
 
-Total rewards claimed: 24
+Total rewards claimed: 25
 \
-Last checked: 28.08.2021 16:51:17 UTC
+Last checked: 29.08.2021 16:51:14 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>206</td></tr>
-    <tr><td>Active days</td><td>231</td></tr>
+    <tr><td>Active days</td><td>232</td></tr>
     <tr><td>Characters</td><td>24</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>53</td></tr>
     <tr><td>Geoculi</td><td>106</td></tr>
     <tr><td>Electroculi</td><td>37</td></tr>
     <tr><td>Common chests</td><td>500</td></tr>
-    <tr><td>Exquisite chests</td><td>543</td></tr>
+    <tr><td>Exquisite chests</td><td>544</td></tr>
     <tr><td>Precious chests</td><td>142</td></tr>
     <tr><td>Luxurious chests</td><td>46</td></tr>
     <tr><td>Unlocked waypoints</td><td>111</td></tr>
@@ -79,7 +79,7 @@ Last checked: 28.08.2021 16:51:17 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>63.3%</td>
+                    <td>63.4%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -159,7 +159,7 @@ Last checked: 28.08.2021 16:51:17 UTC
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x Gladiator's Finale<br>2 x Blizzard Strayer<br>1 x Bloodstained Chivalry</td></tr>
+    <tr><td>Artifacts</td><td>2 x Gladiator's Finale<br>2 x Blizzard Strayer<br>1 x Emblem of Severed Fate</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -472,7 +472,7 @@ Last checked: 28.08.2021 16:51:17 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Hydro</td></tr>
     <tr><td>Level</td><td>40</td></tr>
-    <tr><td>Friendship</td><td>4</td></tr>
+    <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>4 x Maiden Beloved<br>1 x Heart of Depth</td></tr>
     <tr><td>Outfits</td><td>Summertime Sparkle</td></tr>

@@ -1,21 +1,21 @@
 # My Genshin Stats
 
-Total rewards claimed: 26
+Total rewards claimed: 0
 \
-Last checked: 30.08.2021 16:53:03 UTC
+Last checked: 31.08.2021 16:52:35 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>206</td></tr>
-    <tr><td>Active days</td><td>233</td></tr>
+    <tr><td>Active days</td><td>234</td></tr>
     <tr><td>Characters</td><td>24</td></tr>
     <tr><td>Spiral abyss</td><td>3-3</td></tr>
     <tr><td>Anemoculi</td><td>53</td></tr>
     <tr><td>Geoculi</td><td>106</td></tr>
     <tr><td>Electroculi</td><td>37</td></tr>
-    <tr><td>Common chests</td><td>500</td></tr>
-    <tr><td>Exquisite chests</td><td>544</td></tr>
+    <tr><td>Common chests</td><td>501</td></tr>
+    <tr><td>Exquisite chests</td><td>545</td></tr>
     <tr><td>Precious chests</td><td>142</td></tr>
     <tr><td>Luxurious chests</td><td>46</td></tr>
     <tr><td>Unlocked waypoints</td><td>111</td></tr>
@@ -55,7 +55,7 @@ Last checked: 30.08.2021 16:53:03 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>37.4%</td>
+                    <td>37.6%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -124,7 +124,7 @@ Last checked: 30.08.2021 16:53:03 UTC
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
-    <tr><td>Artifacts</td><td>2 x Viridescent Venerer<br>2 x Gladiator's Finale<br>1 x Noblesse Oblige</td></tr>
+    <tr><td>Artifacts</td><td>2 x Viridescent Venerer<br>2 x Gladiator's Finale<br>1 x Bloodstained Chivalry</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -229,7 +229,7 @@ Last checked: 30.08.2021 16:53:03 UTC
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>4</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>5 x Pale Flame</td></tr>
+    <tr><td>Artifacts</td><td>4 x Pale Flame<br>1 x Gladiator's Finale</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 

@@ -1,37 +1,39 @@
 # My Genshin Stats
 
-Total rewards claimed: 1
+Total rewards claimed: 7
 \
-Last checked: 01.09.2021 16:53:44 UTC
+Last checked: 07.09.2021 16:53:46 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>208</td></tr>
-    <tr><td>Active days</td><td>235</td></tr>
-    <tr><td>Characters</td><td>25</td></tr>
-    <tr><td>Spiral abyss</td><td>3-3</td></tr>
+    <tr><td>Achievements</td><td>255</td></tr>
+    <tr><td>Active days</td><td>241</td></tr>
+    <tr><td>Characters</td><td>26</td></tr>
+    <tr><td>Spiral abyss</td><td>9-1</td></tr>
     <tr><td>Anemoculi</td><td>54</td></tr>
     <tr><td>Geoculi</td><td>106</td></tr>
-    <tr><td>Electroculi</td><td>43</td></tr>
-    <tr><td>Common chests</td><td>527</td></tr>
-    <tr><td>Exquisite chests</td><td>561</td></tr>
-    <tr><td>Precious chests</td><td>146</td></tr>
-    <tr><td>Luxurious chests</td><td>46</td></tr>
+    <tr><td>Electroculi</td><td>133</td></tr>
+    <tr><td>Common chests</td><td>734</td></tr>
+    <tr><td>Exquisite chests</td><td>676</td></tr>
+    <tr><td>Precious chests</td><td>192</td></tr>
+    <tr><td>Luxurious chests</td><td>72</td></tr>
     <tr><td>Unlocked waypoints</td><td>111</td></tr>
-    <tr><td>Unlocked domains</td><td>25</td></tr>
+    <tr><td>Unlocked domains</td><td>27</td></tr>
 </table>
 
 ## Spiral Abys
 
 <table>
-    <tr><td>Total battles</td><td>0</td></tr>
-    <tr><td>Total wins</td><td>0</td></tr>
-    <tr><td>Max floor</td><td>0-0</td></tr>
-    <tr><td>Total stars</td><td>0</td></tr>
-    <tr><td>Strongest hit</td><td>no strongest hit this seasson -> no strongest hit this seasson DMG</td></tr>
-    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
-    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
+    <tr><td>Total battles</td><td>17</td></tr>
+    <tr><td>Total wins</td><td>16</td></tr>
+    <tr><td>Max floor</td><td>9-1</td></tr>
+    <tr><td>Total stars</td><td>48</td></tr>
+    <tr><td>Strongest hit</td><td>Hu Tao -> 114495 DMG</td></tr>
+    <tr><td>Most kills</td><td>Hu Tao -> 13</td></tr>
+    <tr><td>Most damage taken</td><td>Eula -> 10944 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Ganyu -> 3</td></tr>
+    <tr><td>Most bursts used</td><td>Jean -> 16</td></tr>
 </table>
 
 
@@ -55,11 +57,11 @@ Last checked: 01.09.2021 16:53:44 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>27.3%</td>
+                    <td>89.6%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
-                    <td>1</td>
+                    <td>2</td>
                 </tr>
             </table>
         </td>
@@ -67,11 +69,11 @@ Last checked: 01.09.2021 16:53:44 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>46.8%</td>
+                    <td>73.8%</td>
                 </tr>
                 <tr>
                     <td>Offering level</td>
-                    <td>3</td>
+                    <td>6</td>
                 </tr>
             </table>
         </td>
@@ -79,7 +81,7 @@ Last checked: 01.09.2021 16:53:44 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>63.7%</td>
+                    <td>64.6%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -91,7 +93,7 @@ Last checked: 01.09.2021 16:53:44 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>78.0%</td>
+                    <td>80.1%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -159,7 +161,7 @@ Last checked: 01.09.2021 16:53:44 UTC
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x Gladiator's Finale<br>2 x Blizzard Strayer<br>1 x Emblem of Severed Fate</td></tr>
+    <tr><td>Artifacts</td><td>2 x Gladiator's Finale<br>2 x Blizzard Strayer<br>1 x Pale Flame</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -227,7 +229,7 @@ Last checked: 01.09.2021 16:53:44 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>4</td></tr>
+    <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Pale Flame<br>1 x Gladiator's Finale</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -282,6 +284,41 @@ Last checked: 01.09.2021 16:53:44 UTC
 </td></tr>
 </table>
 
+### Raiden Shogun
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Electro</td></tr>
+    <tr><td>Level</td><td>50</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>3 x Emblem of Severed Fate</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Favonius Lance</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>2</td></tr>
+</table>
+
+</td></tr>
+</table>
+
 ### Traveler
 
 <table>
@@ -295,10 +332,10 @@ Last checked: 01.09.2021 16:53:44 UTC
 
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Element</td><td>Anemo</td></tr>
+    <tr><td>Element</td><td>Geo</td></tr>
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>6</td></tr>
+    <tr><td>Constellation</td><td>2</td></tr>
     <tr><td>Artifacts</td><td>2 x Adventurer<br>1 x Traveling Doctor<br>1 x Noblesse Oblige</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
@@ -332,7 +369,7 @@ Last checked: 01.09.2021 16:53:44 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>5 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -345,7 +382,7 @@ Last checked: 01.09.2021 16:53:44 UTC
 <table>
     <tr><td>Name</td><td>Sacrificial Bow</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
@@ -404,7 +441,7 @@ Last checked: 01.09.2021 16:53:44 UTC
     <tr><td>Level</td><td>60</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>5</td></tr>
-    <tr><td>Artifacts</td><td>4 x Berserker<br>1 x Instructor</td></tr>
+    <tr><td>Artifacts</td><td>3 x Berserker<br>2 x Heart of Depth</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -473,7 +510,7 @@ Last checked: 01.09.2021 16:53:44 UTC
     <tr><td>Element</td><td>Hydro</td></tr>
     <tr><td>Level</td><td>40</td></tr>
     <tr><td>Friendship</td><td>5</td></tr>
-    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>2</td></tr>
     <tr><td>Artifacts</td><td>4 x Maiden Beloved<br>1 x Heart of Depth</td></tr>
     <tr><td>Outfits</td><td>Summertime Sparkle</td></tr>
 </table>
@@ -718,8 +755,8 @@ Last checked: 01.09.2021 16:53:44 UTC
     <tr><td>Element</td><td>Anemo</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>2</td></tr>
-    <tr><td>Artifacts</td><td>4 x Instructor<br>1 x Gladiator's Finale</td></tr>
+    <tr><td>Constellation</td><td>3</td></tr>
+    <tr><td>Artifacts</td><td>4 x Viridescent Venerer<br>1 x Pale Flame</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -730,6 +767,41 @@ Last checked: 01.09.2021 16:53:44 UTC
 <table>
     <tr><td>Name</td><td>Sacrificial Fragments</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+### Kujou Sara
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sara.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Electro</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>3</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Hunter's Bow</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
@@ -772,6 +844,41 @@ Last checked: 01.09.2021 16:53:44 UTC
 </td></tr>
 </table>
 
+### Ningguang
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Geo</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Artifacts</td><td>3 x Berserker<br>1 x Gladiator's Finale</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Apprentice's Notes</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
 ### Razor
 
 <table>
@@ -799,41 +906,6 @@ Last checked: 01.09.2021 16:53:44 UTC
 
 <table>
     <tr><td>Name</td><td>Waster Greatsword</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Ningguang
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Geo</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>3 x Berserker<br>1 x Gladiator's Finale</td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Apprentice's Notes</td></tr>
     <tr><td>Rarity</td><td>1</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
@@ -942,41 +1014,6 @@ Last checked: 01.09.2021 16:53:44 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Refinement</td><td>5</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Kujou Sara
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sara.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Electro</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td></td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Hunter's Bow</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>

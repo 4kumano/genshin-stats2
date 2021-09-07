@@ -29,9 +29,11 @@ Last checked: replace_this_with_check_time
     <tr><td>Total wins</td><td>replace_this_with_abys_total_wins</td></tr>
     <tr><td>Max floor</td><td>replace_this_with_abys_max_floor</td></tr>
     <tr><td>Total stars</td><td>replace_this_with_abys_total_stars</td></tr>
-    <tr><td>Strongest hit</td><td>replace_this_with_abys_strongest_hit_name -> replace_this_with_abys_strongest_hit_value DMG</td></tr>
-    <tr><td>Most damage taken</td><td>replace_this_with_abys_most_damage_taken_nth-0_name -> replace_this_with_abys_most_damage_taken_nth-0_value DMG</td></tr>
-    <tr><td>Most skills used</td><td>replace_this_with_abys_most_skills_used_nth-0_name -> replace_this_with_abys_most_skills_used_nth-0_value</td></tr>
+    <tr><td>Strongest hit</td><td>replace_this_with_abys_strongest_strike_name -> replace_this_with_abys_strongest_strike_value DMG</td></tr>
+    <tr><td>Most kills</td><td>replace_this_with_abys_most_kills_name -> replace_this_with_abys_most_kills_value</td></tr>
+    <tr><td>Most damage taken</td><td>replace_this_with_abys_most_damage_taken_name -> replace_this_with_abys_most_damage_taken_value DMG</td></tr>
+    <tr><td>Most skills used</td><td>replace_this_with_abys_most_skills_used_name -> replace_this_with_abys_most_skills_used_value</td></tr>
+    <tr><td>Most bursts used</td><td>replace_this_with_abys_most_bursts_used_name -> replace_this_with_abys_most_bursts_used_value</td></tr>
 </table>
 
 

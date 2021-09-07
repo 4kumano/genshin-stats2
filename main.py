@@ -79,24 +79,30 @@ for key, value in spiral_abys["stats"].items():
 
 # done any abys this seasson?
 if spiral_abys["stats"]["total_battles"] != 0:
-    # abys strongest hit
+    # abys strongest strike
     for key, value in spiral_abys["character_ranks"].get("strongest_strike")[0].items():
-        data = data.replace(f"replace_this_with_abys_strongest_hit_{key}", str(value))
+        data = data.replace(f"replace_this_with_abys_strongest_strike_{key}", str(value))
+
+    # abys most kills
+    for key, value in spiral_abys["character_ranks"].get("most_kills")[0].items():
+        data = data.replace(f"replace_this_with_abys_most_kills_{key}", str(value))
+
+    # abys most bursts used
+    for key, value in spiral_abys["character_ranks"].get("most_bursts_used")[0].items():
+        data = data.replace(f"replace_this_with_abys_most_bursts_used_{key}", str(value))
 
     # abys most damage taken
-    for i, character in enumerate(spiral_abys["character_ranks"].get("most_damage_taken")):
-        for key, value in character.items():
-            data = data.replace(f"replace_this_with_abys_most_damage_taken_nth-{i}_{key}", str(value))
+    for key, value in spiral_abys["character_ranks"].get("most_damage_taken")[0].items():
+        data = data.replace(f"replace_this_with_abys_most_damage_taken_{key}", str(value))
 
     # abys most skills used
-    for i, character in enumerate(spiral_abys["character_ranks"].get("most_skills_used")):
-        for key, value in character.items():
-            data = data.replace(f"replace_this_with_abys_most_skills_used_nth-{i}_{key}", str(value))
+    for key, value in spiral_abys["character_ranks"].get("most_skills_used")[0].items():
+        data = data.replace(f"replace_this_with_abys_most_skills_used_{key}", str(value))
 else:
     # replace with some data
-    data = re.sub(r"replace_this_with_abys_strongest_hit_[a-z]+", "no strongest hit this seasson", data)
-    data = re.sub(r"replace_this_with_abys_most_damage_taken_nth-\d_[a-z]+", "no most damage taken this seasson", data)
-    data = re.sub(r"replace_this_with_abys_most_skills_used_nth-\d_[a-z]+", "no most skills used this seasson", data)
+    data = re.sub(r"replace_this_with_abys_strongest_strike_[a-z]+", "no strongest strike this seasson", data)
+    data = re.sub(r"replace_this_with_abys_most_damage_taken_[a-z]+", "no most damage taken this seasson", data)
+    data = re.sub(r"replace_this_with_abys_most_skills_used_[a-z]+", "no most skills used this seasson", data)
 
 
 # characters

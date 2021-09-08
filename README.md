@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 7
+Total rewards claimed: 8
 \
-Last checked: 07.09.2021 16:53:46 UTC
+Last checked: 08.09.2021 16:52:51 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>255</td></tr>
-    <tr><td>Active days</td><td>241</td></tr>
+    <tr><td>Active days</td><td>242</td></tr>
     <tr><td>Characters</td><td>26</td></tr>
     <tr><td>Spiral abyss</td><td>9-1</td></tr>
     <tr><td>Anemoculi</td><td>54</td></tr>
@@ -249,6 +249,41 @@ Last checked: 07.09.2021 16:53:46 UTC
 </td></tr>
 </table>
 
+### Raiden Shogun
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Electro</td></tr>
+    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>3 x Emblem of Severed Fate</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Favonius Lance</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Refinement</td><td>2</td></tr>
+</table>
+
+</td></tr>
+</table>
+
 ### Qiqi
 
 <table>
@@ -265,7 +300,7 @@ Last checked: 07.09.2021 16:53:46 UTC
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>50</td></tr>
     <tr><td>Friendship</td><td>6</td></tr>
-    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>2</td></tr>
     <tr><td>Artifacts</td><td>4 x Bloodstained Chivalry<br>1 x Maiden Beloved</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
@@ -279,41 +314,6 @@ Last checked: 07.09.2021 16:53:46 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>40</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Raiden Shogun
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Element</td><td>Electro</td></tr>
-    <tr><td>Level</td><td>50</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>3 x Emblem of Severed Fate</td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Favonius Lance</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>2</td></tr>
 </table>
 
 </td></tr>

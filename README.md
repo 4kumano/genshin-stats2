@@ -1,22 +1,22 @@
 # My Genshin Stats
 
-Total rewards claimed: 8
+Total rewards claimed: 9
 \
-Last checked: 08.09.2021 16:52:51 UTC
+Last checked: 09.09.2021 16:52:21 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>255</td></tr>
-    <tr><td>Active days</td><td>242</td></tr>
+    <tr><td>Achievements</td><td>261</td></tr>
+    <tr><td>Active days</td><td>243</td></tr>
     <tr><td>Characters</td><td>26</td></tr>
     <tr><td>Spiral abyss</td><td>9-1</td></tr>
     <tr><td>Anemoculi</td><td>54</td></tr>
-    <tr><td>Geoculi</td><td>106</td></tr>
+    <tr><td>Geoculi</td><td>107</td></tr>
     <tr><td>Electroculi</td><td>133</td></tr>
-    <tr><td>Common chests</td><td>734</td></tr>
-    <tr><td>Exquisite chests</td><td>676</td></tr>
-    <tr><td>Precious chests</td><td>192</td></tr>
+    <tr><td>Common chests</td><td>738</td></tr>
+    <tr><td>Exquisite chests</td><td>678</td></tr>
+    <tr><td>Precious chests</td><td>193</td></tr>
     <tr><td>Luxurious chests</td><td>72</td></tr>
     <tr><td>Unlocked waypoints</td><td>111</td></tr>
     <tr><td>Unlocked domains</td><td>27</td></tr>
@@ -81,7 +81,7 @@ Last checked: 08.09.2021 16:52:51 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>64.6%</td>
+                    <td>64.8%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -93,7 +93,7 @@ Last checked: 08.09.2021 16:52:51 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>80.1%</td>
+                    <td>80.4%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -229,7 +229,7 @@ Last checked: 08.09.2021 16:52:51 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>5</td></tr>
+    <tr><td>Friendship</td><td>6</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Pale Flame<br>1 x Gladiator's Finale</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -277,7 +277,7 @@ Last checked: 08.09.2021 16:52:51 UTC
 <table>
     <tr><td>Name</td><td>Favonius Lance</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Level</td><td>40</td></tr>
     <tr><td>Refinement</td><td>2</td></tr>
 </table>
 

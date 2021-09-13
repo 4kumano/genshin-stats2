@@ -1,22 +1,22 @@
 # My Genshin Stats
 
-Total rewards claimed: 12
+Total rewards claimed: 13
 \
-Last checked: 12.09.2021 16:50:51 UTC
+Last checked: 13.09.2021 16:51:09 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>261</td></tr>
-    <tr><td>Active days</td><td>246</td></tr>
+    <tr><td>Active days</td><td>247</td></tr>
     <tr><td>Characters</td><td>26</td></tr>
     <tr><td>Spiral abyss</td><td>9-1</td></tr>
     <tr><td>Anemoculi</td><td>54</td></tr>
     <tr><td>Geoculi</td><td>107</td></tr>
     <tr><td>Electroculi</td><td>133</td></tr>
-    <tr><td>Common chests</td><td>738</td></tr>
-    <tr><td>Exquisite chests</td><td>679</td></tr>
-    <tr><td>Precious chests</td><td>193</td></tr>
+    <tr><td>Common chests</td><td>740</td></tr>
+    <tr><td>Exquisite chests</td><td>681</td></tr>
+    <tr><td>Precious chests</td><td>194</td></tr>
     <tr><td>Luxurious chests</td><td>72</td></tr>
     <tr><td>Unlocked waypoints</td><td>111</td></tr>
     <tr><td>Unlocked domains</td><td>27</td></tr>
@@ -371,7 +371,7 @@ Last checked: 12.09.2021 16:50:51 UTC
     <tr><td>Level</td><td>70</td></tr>
     <tr><td>Friendship</td><td>4</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>5 x Tenacity of the Millelith</td></tr>
+    <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 

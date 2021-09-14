@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 13
+Total rewards claimed: 14
 \
-Last checked: 13.09.2021 16:51:09 UTC
+Last checked: 14.09.2021 16:51:34 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>261</td></tr>
-    <tr><td>Active days</td><td>247</td></tr>
+    <tr><td>Achievements</td><td>262</td></tr>
+    <tr><td>Active days</td><td>248</td></tr>
     <tr><td>Characters</td><td>26</td></tr>
     <tr><td>Spiral abyss</td><td>9-1</td></tr>
     <tr><td>Anemoculi</td><td>54</td></tr>
@@ -371,7 +371,7 @@ Last checked: 13.09.2021 16:51:09 UTC
     <tr><td>Level</td><td>70</td></tr>
     <tr><td>Friendship</td><td>4</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
+    <tr><td>Artifacts</td><td>5 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 

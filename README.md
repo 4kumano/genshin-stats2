@@ -1,23 +1,23 @@
 # My Genshin Stats
 
-Total rewards claimed: 15
+Total rewards claimed: 16
 \
-Last checked: 15.09.2021 16:48:49 UTC
+Last checked: 16.09.2021 16:50:53 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>262</td></tr>
-    <tr><td>Active days</td><td>249</td></tr>
+    <tr><td>Achievements</td><td>263</td></tr>
+    <tr><td>Active days</td><td>250</td></tr>
     <tr><td>Characters</td><td>26</td></tr>
-    <tr><td>Spiral abyss</td><td>9-1</td></tr>
+    <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>54</td></tr>
     <tr><td>Geoculi</td><td>107</td></tr>
     <tr><td>Electroculi</td><td>133</td></tr>
     <tr><td>Common chests</td><td>740</td></tr>
     <tr><td>Exquisite chests</td><td>681</td></tr>
     <tr><td>Precious chests</td><td>194</td></tr>
-    <tr><td>Luxurious chests</td><td>72</td></tr>
+    <tr><td>Luxurious chests</td><td>73</td></tr>
     <tr><td>Unlocked waypoints</td><td>111</td></tr>
     <tr><td>Unlocked domains</td><td>27</td></tr>
 </table>
@@ -25,15 +25,15 @@ Last checked: 15.09.2021 16:48:49 UTC
 ## Spiral Abys
 
 <table>
-    <tr><td>Total battles</td><td>17</td></tr>
-    <tr><td>Total wins</td><td>16</td></tr>
-    <tr><td>Max floor</td><td>9-1</td></tr>
-    <tr><td>Total stars</td><td>48</td></tr>
-    <tr><td>Strongest hit</td><td>Hu Tao -> 114495 DMG</td></tr>
-    <tr><td>Most kills</td><td>Hu Tao -> 13</td></tr>
-    <tr><td>Most damage taken</td><td>Eula -> 10944 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Ganyu -> 3</td></tr>
-    <tr><td>Most bursts used</td><td>Jean -> 16</td></tr>
+    <tr><td>Total battles</td><td>0</td></tr>
+    <tr><td>Total wins</td><td>0</td></tr>
+    <tr><td>Max floor</td><td>0-0</td></tr>
+    <tr><td>Total stars</td><td>0</td></tr>
+    <tr><td>Strongest hit</td><td>no strongest strike this seasson -> no strongest strike this seasson DMG</td></tr>
+    <tr><td>Most kills</td><td>replace_this_with_abys_most_kills_name -> replace_this_with_abys_most_kills_value</td></tr>
+    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
+    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
+    <tr><td>Most bursts used</td><td>replace_this_with_abys_most_bursts_used_name -> replace_this_with_abys_most_bursts_used_value</td></tr>
 </table>
 
 
@@ -57,7 +57,7 @@ Last checked: 15.09.2021 16:48:49 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>89.7%</td>
+                    <td>89.8%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -266,7 +266,7 @@ Last checked: 15.09.2021 16:48:49 UTC
     <tr><td>Level</td><td>60</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>3 x Emblem of Severed Fate</td></tr>
+    <tr><td>Artifacts</td><td>4 x Emblem of Severed Fate<br>1 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -369,7 +369,7 @@ Last checked: 15.09.2021 16:48:49 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Friendship</td><td>4</td></tr>
+    <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>5 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>

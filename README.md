@@ -1,23 +1,23 @@
 # My Genshin Stats
 
-Total rewards claimed: 16
+Total rewards claimed: 17
 \
-Last checked: 16.09.2021 16:50:53 UTC
+Last checked: 17.09.2021 16:52:28 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>263</td></tr>
-    <tr><td>Active days</td><td>250</td></tr>
+    <tr><td>Achievements</td><td>266</td></tr>
+    <tr><td>Active days</td><td>251</td></tr>
     <tr><td>Characters</td><td>26</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>54</td></tr>
     <tr><td>Geoculi</td><td>107</td></tr>
-    <tr><td>Electroculi</td><td>133</td></tr>
-    <tr><td>Common chests</td><td>740</td></tr>
-    <tr><td>Exquisite chests</td><td>681</td></tr>
+    <tr><td>Electroculi</td><td>139</td></tr>
+    <tr><td>Common chests</td><td>758</td></tr>
+    <tr><td>Exquisite chests</td><td>685</td></tr>
     <tr><td>Precious chests</td><td>194</td></tr>
-    <tr><td>Luxurious chests</td><td>73</td></tr>
+    <tr><td>Luxurious chests</td><td>75</td></tr>
     <tr><td>Unlocked waypoints</td><td>111</td></tr>
     <tr><td>Unlocked domains</td><td>27</td></tr>
 </table>
@@ -57,7 +57,7 @@ Last checked: 16.09.2021 16:50:53 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>89.8%</td>
+                    <td>93.3%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -229,7 +229,7 @@ Last checked: 16.09.2021 16:50:53 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>6</td></tr>
+    <tr><td>Friendship</td><td>7</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Pale Flame<br>1 x Gladiator's Finale</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -263,7 +263,7 @@ Last checked: 16.09.2021 16:50:53 UTC
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
-    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Emblem of Severed Fate<br>1 x Tenacity of the Millelith</td></tr>
@@ -277,7 +277,7 @@ Last checked: 16.09.2021 16:50:53 UTC
 <table>
     <tr><td>Name</td><td>Favonius Lance</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>40</td></tr>
+    <tr><td>Level</td><td>50</td></tr>
     <tr><td>Refinement</td><td>2</td></tr>
 </table>
 

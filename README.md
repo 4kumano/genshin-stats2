@@ -1,21 +1,21 @@
 # My Genshin Stats
 
-Total rewards claimed: 18
+Total rewards claimed: 19
 \
-Last checked: 18.09.2021 16:49:28 UTC
+Last checked: 19.09.2021 16:49:16 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>266</td></tr>
-    <tr><td>Active days</td><td>251</td></tr>
+    <tr><td>Achievements</td><td>267</td></tr>
+    <tr><td>Active days</td><td>253</td></tr>
     <tr><td>Characters</td><td>26</td></tr>
-    <tr><td>Spiral abyss</td><td>8-3</td></tr>
+    <tr><td>Spiral abyss</td><td>9-1</td></tr>
     <tr><td>Anemoculi</td><td>54</td></tr>
     <tr><td>Geoculi</td><td>107</td></tr>
-    <tr><td>Electroculi</td><td>139</td></tr>
-    <tr><td>Common chests</td><td>758</td></tr>
-    <tr><td>Exquisite chests</td><td>685</td></tr>
+    <tr><td>Electroculi</td><td>142</td></tr>
+    <tr><td>Common chests</td><td>782</td></tr>
+    <tr><td>Exquisite chests</td><td>695</td></tr>
     <tr><td>Precious chests</td><td>194</td></tr>
     <tr><td>Luxurious chests</td><td>75</td></tr>
     <tr><td>Unlocked waypoints</td><td>111</td></tr>
@@ -25,15 +25,15 @@ Last checked: 18.09.2021 16:49:28 UTC
 ## Spiral Abys
 
 <table>
-    <tr><td>Total battles</td><td>0</td></tr>
-    <tr><td>Total wins</td><td>0</td></tr>
-    <tr><td>Max floor</td><td>0-0</td></tr>
-    <tr><td>Total stars</td><td>0</td></tr>
-    <tr><td>Strongest hit</td><td>no strongest strike this seasson -> no strongest strike this seasson DMG</td></tr>
-    <tr><td>Most kills</td><td>replace_this_with_abys_most_kills_name -> replace_this_with_abys_most_kills_value</td></tr>
-    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
-    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
-    <tr><td>Most bursts used</td><td>replace_this_with_abys_most_bursts_used_name -> replace_this_with_abys_most_bursts_used_value</td></tr>
+    <tr><td>Total battles</td><td>3</td></tr>
+    <tr><td>Total wins</td><td>1</td></tr>
+    <tr><td>Max floor</td><td>9-1</td></tr>
+    <tr><td>Total stars</td><td>3</td></tr>
+    <tr><td>Strongest hit</td><td>Eula -> 35600 DMG</td></tr>
+    <tr><td>Most kills</td><td>Ganyu -> 7</td></tr>
+    <tr><td>Most damage taken</td><td>Diona -> 4345 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Eula -> 2</td></tr>
+    <tr><td>Most bursts used</td><td>Eula -> 8</td></tr>
 </table>
 
 
@@ -57,7 +57,7 @@ Last checked: 18.09.2021 16:49:28 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>93.3%</td>
+                    <td>96.9%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -264,7 +264,7 @@ Last checked: 18.09.2021 16:49:28 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Emblem of Severed Fate<br>1 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -277,8 +277,8 @@ Last checked: 18.09.2021 16:49:28 UTC
 <table>
     <tr><td>Name</td><td>Favonius Lance</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>50</td></tr>
-    <tr><td>Refinement</td><td>2</td></tr>
+    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Refinement</td><td>3</td></tr>
 </table>
 
 </td></tr>
@@ -313,7 +313,7 @@ Last checked: 18.09.2021 16:49:28 UTC
     <tr><td>Name</td><td>Sacrificial Sword</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>40</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>2</td></tr>
 </table>
 
 </td></tr>
@@ -371,7 +371,7 @@ Last checked: 18.09.2021 16:49:28 UTC
     <tr><td>Level</td><td>70</td></tr>
     <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>5 x Tenacity of the Millelith</td></tr>
+    <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -382,7 +382,42 @@ Last checked: 18.09.2021 16:49:28 UTC
 <table>
     <tr><td>Name</td><td>Sacrificial Bow</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Level</td><td>40</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+### Bennett
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Pyro</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Friendship</td><td>3</td></tr>
+    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Crimson Witch of Flames</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Favonius Sword</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
@@ -452,42 +487,7 @@ Last checked: 18.09.2021 16:49:28 UTC
 <table>
     <tr><td>Name</td><td>Prototype Rancour</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>20</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Bennett
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Pyro</td></tr>
-    <tr><td>Level</td><td>60</td></tr>
-    <tr><td>Friendship</td><td>3</td></tr>
-    <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Crimson Witch of Flames</td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Favonius Sword</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Level</td><td>40</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 

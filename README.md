@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 19
+Total rewards claimed: 20
 \
-Last checked: 19.09.2021 16:49:16 UTC
+Last checked: 20.09.2021 16:46:46 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>267</td></tr>
-    <tr><td>Active days</td><td>253</td></tr>
+    <tr><td>Achievements</td><td>268</td></tr>
+    <tr><td>Active days</td><td>254</td></tr>
     <tr><td>Characters</td><td>26</td></tr>
     <tr><td>Spiral abyss</td><td>9-1</td></tr>
     <tr><td>Anemoculi</td><td>54</td></tr>
@@ -30,9 +30,9 @@ Last checked: 19.09.2021 16:49:16 UTC
     <tr><td>Max floor</td><td>9-1</td></tr>
     <tr><td>Total stars</td><td>3</td></tr>
     <tr><td>Strongest hit</td><td>Eula -> 35600 DMG</td></tr>
-    <tr><td>Most kills</td><td>Ganyu -> 7</td></tr>
+    <tr><td>Most kills</td><td>Hu Tao -> 7</td></tr>
     <tr><td>Most damage taken</td><td>Diona -> 4345 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Eula -> 2</td></tr>
+    <tr><td>Most skills used</td><td>Hu Tao -> 2</td></tr>
     <tr><td>Most bursts used</td><td>Eula -> 8</td></tr>
 </table>
 
@@ -242,7 +242,7 @@ Last checked: 19.09.2021 16:49:16 UTC
 <table>
     <tr><td>Name</td><td>Royal Greatsword</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 

@@ -1,21 +1,21 @@
 # My Genshin Stats
 
-Total rewards claimed: 20
+Total rewards claimed: 21
 \
-Last checked: 20.09.2021 16:46:46 UTC
+Last checked: 21.09.2021 16:51:40 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>268</td></tr>
-    <tr><td>Active days</td><td>254</td></tr>
+    <tr><td>Achievements</td><td>269</td></tr>
+    <tr><td>Active days</td><td>255</td></tr>
     <tr><td>Characters</td><td>26</td></tr>
     <tr><td>Spiral abyss</td><td>9-1</td></tr>
     <tr><td>Anemoculi</td><td>54</td></tr>
     <tr><td>Geoculi</td><td>107</td></tr>
     <tr><td>Electroculi</td><td>142</td></tr>
-    <tr><td>Common chests</td><td>782</td></tr>
-    <tr><td>Exquisite chests</td><td>695</td></tr>
+    <tr><td>Common chests</td><td>783</td></tr>
+    <tr><td>Exquisite chests</td><td>696</td></tr>
     <tr><td>Precious chests</td><td>194</td></tr>
     <tr><td>Luxurious chests</td><td>75</td></tr>
     <tr><td>Unlocked waypoints</td><td>111</td></tr>
@@ -30,7 +30,7 @@ Last checked: 20.09.2021 16:46:46 UTC
     <tr><td>Max floor</td><td>9-1</td></tr>
     <tr><td>Total stars</td><td>3</td></tr>
     <tr><td>Strongest hit</td><td>Eula -> 35600 DMG</td></tr>
-    <tr><td>Most kills</td><td>Hu Tao -> 7</td></tr>
+    <tr><td>Most kills</td><td>Ganyu -> 7</td></tr>
     <tr><td>Most damage taken</td><td>Diona -> 4345 DMG</td></tr>
     <tr><td>Most skills used</td><td>Hu Tao -> 2</td></tr>
     <tr><td>Most bursts used</td><td>Eula -> 8</td></tr>
@@ -93,7 +93,7 @@ Last checked: 20.09.2021 16:46:46 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>80.4%</td>
+                    <td>80.6%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -263,7 +263,7 @@ Last checked: 20.09.2021 16:46:46 UTC
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Emblem of Severed Fate<br>1 x Tenacity of the Millelith</td></tr>

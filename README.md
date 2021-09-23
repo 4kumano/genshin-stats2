@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 22
+Total rewards claimed: 23
 \
-Last checked: 22.09.2021 16:52:09 UTC
+Last checked: 23.09.2021 16:50:11 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>269</td></tr>
-    <tr><td>Active days</td><td>256</td></tr>
+    <tr><td>Active days</td><td>257</td></tr>
     <tr><td>Characters</td><td>26</td></tr>
     <tr><td>Spiral abyss</td><td>9-1</td></tr>
     <tr><td>Anemoculi</td><td>54</td></tr>
@@ -32,7 +32,7 @@ Last checked: 22.09.2021 16:52:09 UTC
     <tr><td>Strongest hit</td><td>Eula -> 35600 DMG</td></tr>
     <tr><td>Most kills</td><td>Ganyu -> 7</td></tr>
     <tr><td>Most damage taken</td><td>Diona -> 4345 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Eula -> 2</td></tr>
+    <tr><td>Most skills used</td><td>Hu Tao -> 2</td></tr>
     <tr><td>Most bursts used</td><td>Eula -> 8</td></tr>
 </table>
 
@@ -369,7 +369,7 @@ Last checked: 22.09.2021 16:52:09 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Friendship</td><td>5</td></tr>
+    <tr><td>Friendship</td><td>6</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -767,7 +767,7 @@ Last checked: 22.09.2021 16:52:09 UTC
 <table>
     <tr><td>Name</td><td>Sacrificial Fragments</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 

@@ -1,8 +1,8 @@
 # My Genshin Stats
 
-Total rewards claimed: 25
+Total rewards claimed: 26
 \
-Last checked: 25.09.2021 16:49:38 UTC
+Last checked: 26.09.2021 16:49:21 UTC
 
 ## Stats
 
@@ -32,7 +32,7 @@ Last checked: 25.09.2021 16:49:38 UTC
     <tr><td>Strongest hit</td><td>Eula -> 35600 DMG</td></tr>
     <tr><td>Most kills</td><td>Ganyu -> 7</td></tr>
     <tr><td>Most damage taken</td><td>Diona -> 4345 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Eula -> 2</td></tr>
+    <tr><td>Most skills used</td><td>Jean -> 2</td></tr>
     <tr><td>Most bursts used</td><td>Eula -> 8</td></tr>
 </table>
 

@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 29
+Total rewards claimed: 0
 \
-Last checked: 29.09.2021 16:50:54 UTC
+Last checked: 30.09.2021 16:50:53 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>272</td></tr>
-    <tr><td>Active days</td><td>263</td></tr>
+    <tr><td>Active days</td><td>264</td></tr>
     <tr><td>Characters</td><td>26</td></tr>
     <tr><td>Spiral abyss</td><td>9-1</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -32,7 +32,7 @@ Last checked: 29.09.2021 16:50:54 UTC
     <tr><td>Strongest hit</td><td>Eula -> 35600 DMG</td></tr>
     <tr><td>Most kills</td><td>Ganyu -> 7</td></tr>
     <tr><td>Most damage taken</td><td>Diona -> 4345 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Hu Tao -> 2</td></tr>
+    <tr><td>Most skills used</td><td>Eula -> 2</td></tr>
     <tr><td>Most bursts used</td><td>Eula -> 8</td></tr>
 </table>
 
@@ -126,7 +126,7 @@ Last checked: 29.09.2021 16:50:54 UTC
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
-    <tr><td>Artifacts</td><td>2 x Viridescent Venerer<br>2 x Gladiator's Finale<br>1 x Bloodstained Chivalry</td></tr>
+    <tr><td>Artifacts</td><td>3 x Gladiator's Finale<br>2 x Viridescent Venerer</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -369,7 +369,7 @@ Last checked: 29.09.2021 16:50:54 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Friendship</td><td>6</td></tr>
+    <tr><td>Friendship</td><td>7</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -476,7 +476,7 @@ Last checked: 29.09.2021 16:50:54 UTC
     <tr><td>Level</td><td>60</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>5</td></tr>
-    <tr><td>Artifacts</td><td>2 x Wanderer's Troupe<br>2 x Heart of Depth<br>1 x Maiden Beloved</td></tr>
+    <tr><td>Artifacts</td><td>2 x Wanderer's Troupe<br>2 x Heart of Depth<br>1 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 

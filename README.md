@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 2
+Total rewards claimed: 3
 \
-Last checked: 02.10.2021 16:49:25 UTC
+Last checked: 03.10.2021 15:35:50 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>272</td></tr>
-    <tr><td>Active days</td><td>265</td></tr>
+    <tr><td>Active days</td><td>266</td></tr>
     <tr><td>Characters</td><td>26</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -264,7 +264,7 @@ Last checked: 02.10.2021 16:49:25 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>4</td></tr>
+    <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Emblem of Severed Fate<br>1 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>

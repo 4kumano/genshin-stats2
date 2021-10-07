@@ -1,22 +1,22 @@
 # My Genshin Stats
 
-Total rewards claimed: 5
+Total rewards claimed: 7
 \
-Last checked: 05.10.2021 16:51:23 UTC
+Last checked: 07.10.2021 01:09:01 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>272</td></tr>
-    <tr><td>Active days</td><td>268</td></tr>
+    <tr><td>Achievements</td><td>275</td></tr>
+    <tr><td>Active days</td><td>271</td></tr>
     <tr><td>Characters</td><td>26</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>107</td></tr>
     <tr><td>Electroculi</td><td>142</td></tr>
-    <tr><td>Common chests</td><td>790</td></tr>
-    <tr><td>Exquisite chests</td><td>700</td></tr>
-    <tr><td>Precious chests</td><td>194</td></tr>
+    <tr><td>Common chests</td><td>800</td></tr>
+    <tr><td>Exquisite chests</td><td>703</td></tr>
+    <tr><td>Precious chests</td><td>196</td></tr>
     <tr><td>Luxurious chests</td><td>75</td></tr>
     <tr><td>Unlocked waypoints</td><td>111</td></tr>
     <tr><td>Unlocked domains</td><td>27</td></tr>
@@ -69,7 +69,7 @@ Last checked: 05.10.2021 16:51:23 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>73.8%</td>
+                    <td>80.6%</td>
                 </tr>
                 <tr>
                     <td>Offering level</td>
@@ -93,7 +93,7 @@ Last checked: 05.10.2021 16:51:23 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>85.2%</td>
+                    <td>85.7%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -219,7 +219,7 @@ Last checked: 05.10.2021 16:51:23 UTC
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Theocrat.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_MillenniaTuna.png"></p></td>
 </tr>
 
 <tr>
@@ -229,7 +229,7 @@ Last checked: 05.10.2021 16:51:23 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>8</td></tr>
+    <tr><td>Friendship</td><td>9</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Pale Flame<br>1 x Gladiator's Finale</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -240,10 +240,10 @@ Last checked: 05.10.2021 16:51:23 UTC
 <td>
 
 <table>
-    <tr><td>Name</td><td>Royal Greatsword</td></tr>
+    <tr><td>Name</td><td>Luxurious Sea-Lord</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -354,6 +354,41 @@ Last checked: 05.10.2021 16:51:23 UTC
 </td></tr>
 </table>
 
+### Xingqiu
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Proto.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Hydro</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Friendship</td><td>10</td></tr>
+    <tr><td>Constellation</td><td>5</td></tr>
+    <tr><td>Artifacts</td><td>2 x Wanderer's Troupe<br>2 x Heart of Depth<br>1 x Tenacity of the Millelith</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Prototype Rancour</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>40</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
 ### Diona
 
 <table>
@@ -371,7 +406,7 @@ Last checked: 05.10.2021 16:51:23 UTC
     <tr><td>Level</td><td>70</td></tr>
     <tr><td>Friendship</td><td>7</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
-    <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
+    <tr><td>Artifacts</td><td>5 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -417,7 +452,7 @@ Last checked: 05.10.2021 16:51:23 UTC
 <table>
     <tr><td>Name</td><td>Favonius Sword</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Level</td><td>60</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
@@ -454,41 +489,6 @@ Last checked: 05.10.2021 16:51:23 UTC
     <tr><td>Rarity</td><td>3</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>5</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Xingqiu
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Proto.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Hydro</td></tr>
-    <tr><td>Level</td><td>60</td></tr>
-    <tr><td>Friendship</td><td>10</td></tr>
-    <tr><td>Constellation</td><td>5</td></tr>
-    <tr><td>Artifacts</td><td>2 x Wanderer's Troupe<br>2 x Heart of Depth<br>1 x Tenacity of the Millelith</td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Prototype Rancour</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>40</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>

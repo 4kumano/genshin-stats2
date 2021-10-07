@@ -9,8 +9,6 @@ import re
 
 GAME_UID = int(os.environ.get("GAME_UID"))
 gs.set_cookie(os.environ.get("COOKIE"))
-hoyolab_uid = os.environ.get("COOKIE").split("ltuid=")[1].split(";")[0]
-gs.set_authkey(os.environ.get("AUTHKEY"))
 
 #%% check in and get exp on hoyolab
 
@@ -21,18 +19,6 @@ except gs.SignInException as e:
     print("Exp for hoyolab was already claimed.")
 
 
-#%% Claim daily rewards
-
-daily_reward = gs.claim_daily_reward()
-if daily_reward is not None:
-    print(f"Claimed daily reward - {daily_reward['cnt']}x {daily_reward['name']}")
-else:
-    if bool(os.environ.get("DAILY_OR_ERR")):
-        raise Exception("Could not claim daily reward")
-    else:
-        print("Could not claim daily reward")
-
-
 #%% get data
 
 user_info = gs.get_user_stats(GAME_UID)
@@ -40,17 +26,9 @@ characters = gs.get_characters(GAME_UID)
 spiral_abys = gs.get_spiral_abyss(GAME_UID)
 (daily_reward_info_is_sign, daily_reward_info_total_sign_day) = gs.get_daily_reward_info()
 
-record_card = gs.get_record_card(hoyolab_uid)
-(user_nickname, user_level) = (record_card["nickname"], record_card["level"])
-
-if daily_reward is None:
-    monthly_reward = gs.get_monthly_rewards()
-    daily_reward = monthly_reward[daily_reward_info_total_sign_day - 1]
-
 
 #%% create readme from template
 
-import io
 import pathlib
 
 root = pathlib.Path(__file__).parent.resolve()
@@ -58,41 +36,10 @@ readme_template = root / "README_template.md"
 data = readme_template.open().read()
 
 
-#%% primos
-primos_file = root / "primos.txt"
-(primos_date, primos_amount) = primos_file.open().read().split("\n")
-primos_amount = int(primos_amount)
-
-try:
-    for i, record in enumerate(gs.get_primogem_log()):
-        if i == 0:
-            new_primos_date = record["time"]
-        if record["time"] == primos_date:
-            break
-        primos_amount += record["amount"]
-
-    primos_date = new_primos_date
-    io.open(primos_file, "w", newline="\n").write(f"{str(primos_date)}\n{str(primos_amount)}")
-except gs.AuthkeyTimeout:
-    print("Authkey expired")
-
-data = data.replace(f"replace_this_with_primos_amount", str(primos_amount))
-data = data.replace(f"replace_this_with_primos_date", str(primos_date))
-
-
-#%% other stats
-
 import datetime
 data = data.replace("replace_this_with_check_time", datetime.datetime.utcnow().strftime("%d.%m.%Y %H:%M:%S UTC"))
 
-# daily reward
-data = data.replace(f"replace_this_with_daily_reward_name", str(daily_reward['name']))
-data = data.replace(f"replace_this_with_daily_reward_icon", str(daily_reward['icon']))
-data = data.replace(f"replace_this_with_daily_reward_count", str(daily_reward['cnt']))
-
 # stats filling
-data = data.replace(f"replace_this_with_nickname", str(user_nickname))
-data = data.replace(f"replace_this_with_ar", str(user_level))
 data = data.replace(f"replace_this_with_reward_info_total_sign_day", str(daily_reward_info_total_sign_day))
 data = data.replace(f"replace_this_with_reward_info_is_sign", str(daily_reward_info_is_sign))
 
@@ -210,6 +157,7 @@ while True:
 for key, value in user_info["stats"].items():
     data = data.replace(f"replace_this_with_{key}", str(value))
 
+import io
 readme = root / "README.md"
 io.open(readme, "w", newline="\n").write(data)
 
@@ -226,7 +174,7 @@ active_codes = [code.text.strip() for code in soup.find("div", {"class":"entry-c
 
 codes_file = root / "codes.txt"
 used_codes = codes_file.open().read().split("\n")
-new_codes = list(filter(lambda x: x not in used_codes and x != "", active_codes))
+new_codes = list(filter(lambda x: x not in used_codes, active_codes))
 
 
 #%% Redeem new codes

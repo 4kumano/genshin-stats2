@@ -1,8 +1,19 @@
 # My Genshin Stats
 
-Total rewards claimed: replace_this_with_reward_info_total_sign_day
-\
-Last checked: replace_this_with_check_time
+<table>
+    <tr><td>Nickname</td><td>replace_this_with_nickname</td></tr>
+    <tr><td>Adventure rank</td><td>replace_this_with_ar</td></tr>
+    <tr><td>Primogems</td><td>replace_this_with_primos_amount<br>(replace_this_with_primos_date)</td></tr>
+    <tr><td>Total rewards claimed</td><td>replace_this_with_reward_info_total_sign_day</td></tr>
+    <tr><td>Last reward</td>
+        <td>
+            <img src="replace_this_with_daily_reward_icon" width="120px">
+            <br>
+            replace_this_with_daily_reward_count x replace_this_with_daily_reward_name
+        </td>
+    </tr>
+    <tr><td>Last checked</td><td>replace_this_with_check_time</td></tr>
+</table>
 
 ## Stats
 

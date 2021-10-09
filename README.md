@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 8
+Total rewards claimed: 9
 \
-Last checked: 08.10.2021 16:52:12 UTC
+Last checked: 09.10.2021 16:49:47 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>275</td></tr>
-    <tr><td>Active days</td><td>272</td></tr>
+    <tr><td>Achievements</td><td>276</td></tr>
+    <tr><td>Active days</td><td>273</td></tr>
     <tr><td>Characters</td><td>26</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -57,7 +57,7 @@ Last checked: 08.10.2021 16:52:12 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>96.9%</td>
+                    <td>97.0%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -126,7 +126,7 @@ Last checked: 08.10.2021 16:52:12 UTC
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
-    <tr><td>Artifacts</td><td>3 x Gladiator's Finale<br>2 x Viridescent Venerer</td></tr>
+    <tr><td>Artifacts</td><td>2 x Viridescent Venerer<br>2 x Gladiator's Finale<br>1 x Maiden Beloved</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -137,7 +137,7 @@ Last checked: 08.10.2021 16:52:12 UTC
 <table>
     <tr><td>Name</td><td>Harbinger of Dawn</td></tr>
     <tr><td>Rarity</td><td>3</td></tr>
-    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
     <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
@@ -242,7 +242,7 @@ Last checked: 08.10.2021 16:52:12 UTC
 <table>
     <tr><td>Name</td><td>Luxurious Sea-Lord</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
     <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
@@ -417,7 +417,7 @@ Last checked: 08.10.2021 16:52:12 UTC
 <table>
     <tr><td>Name</td><td>Sacrificial Bow</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>40</td></tr>
+    <tr><td>Level</td><td>50</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
@@ -524,6 +524,41 @@ Last checked: 08.10.2021 16:52:12 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+### Yanfei
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Feiyan.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Ludiharpastum.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Pyro</td></tr>
+    <tr><td>Level</td><td>50</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>4 x Shimenawa's Reminiscence<br>1 x Maiden Beloved</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Dodoco Tales</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>40</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -839,41 +874,6 @@ Last checked: 08.10.2021 16:52:12 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>4</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Yanfei
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Feiyan.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Ludiharpastum.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Pyro</td></tr>
-    <tr><td>Level</td><td>20</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td></td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Dodoco Tales</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>20</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>

@@ -1,25 +1,25 @@
 # My Genshin Stats
 
-Total rewards claimed: 9
+Total rewards claimed: 10
 \
-Last checked: 09.10.2021 16:49:47 UTC
+Last checked: 10.10.2021 16:49:53 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>276</td></tr>
-    <tr><td>Active days</td><td>273</td></tr>
+    <tr><td>Achievements</td><td>277</td></tr>
+    <tr><td>Active days</td><td>274</td></tr>
     <tr><td>Characters</td><td>26</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>107</td></tr>
-    <tr><td>Electroculi</td><td>142</td></tr>
-    <tr><td>Common chests</td><td>800</td></tr>
-    <tr><td>Exquisite chests</td><td>703</td></tr>
-    <tr><td>Precious chests</td><td>196</td></tr>
-    <tr><td>Luxurious chests</td><td>75</td></tr>
-    <tr><td>Unlocked waypoints</td><td>111</td></tr>
-    <tr><td>Unlocked domains</td><td>27</td></tr>
+    <tr><td>Electroculi</td><td>150</td></tr>
+    <tr><td>Common chests</td><td>801</td></tr>
+    <tr><td>Exquisite chests</td><td>704</td></tr>
+    <tr><td>Precious chests</td><td>197</td></tr>
+    <tr><td>Luxurious chests</td><td>78</td></tr>
+    <tr><td>Unlocked waypoints</td><td>112</td></tr>
+    <tr><td>Unlocked domains</td><td>28</td></tr>
 </table>
 
 ## Spiral Abys
@@ -57,7 +57,7 @@ Last checked: 09.10.2021 16:49:47 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>97.0%</td>
+                    <td>100.0%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -264,7 +264,7 @@ Last checked: 09.10.2021 16:49:47 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>5</td></tr>
+    <tr><td>Friendship</td><td>6</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Emblem of Severed Fate<br>1 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>

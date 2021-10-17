@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 16
+Total rewards claimed: 17
 \
-Last checked: 16.10.2021 16:49:32 UTC
+Last checked: 17.10.2021 16:50:02 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>278</td></tr>
-    <tr><td>Active days</td><td>280</td></tr>
+    <tr><td>Active days</td><td>281</td></tr>
     <tr><td>Characters</td><td>27</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -172,7 +172,7 @@ Last checked: 16.10.2021 16:49:32 UTC
 <table>
     <tr><td>Name</td><td>Blackcliff Warbow</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
@@ -264,7 +264,7 @@ Last checked: 16.10.2021 16:49:32 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>6</td></tr>
+    <tr><td>Friendship</td><td>7</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Emblem of Severed Fate<br>1 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>

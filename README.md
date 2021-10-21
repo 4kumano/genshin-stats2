@@ -2,24 +2,24 @@
 
 Total rewards claimed: 20
 \
-Last checked: 20.10.2021 16:51:43 UTC
+Last checked: 21.10.2021 17:01:08 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>278</td></tr>
-    <tr><td>Active days</td><td>284</td></tr>
+    <tr><td>Achievements</td><td>282</td></tr>
+    <tr><td>Active days</td><td>285</td></tr>
     <tr><td>Characters</td><td>27</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>107</td></tr>
-    <tr><td>Electroculi</td><td>150</td></tr>
-    <tr><td>Common chests</td><td>801</td></tr>
-    <tr><td>Exquisite chests</td><td>704</td></tr>
+    <tr><td>Electroculi</td><td>151</td></tr>
+    <tr><td>Common chests</td><td>804</td></tr>
+    <tr><td>Exquisite chests</td><td>707</td></tr>
     <tr><td>Precious chests</td><td>197</td></tr>
-    <tr><td>Luxurious chests</td><td>78</td></tr>
-    <tr><td>Unlocked waypoints</td><td>112</td></tr>
-    <tr><td>Unlocked domains</td><td>28</td></tr>
+    <tr><td>Luxurious chests</td><td>79</td></tr>
+    <tr><td>Unlocked waypoints</td><td>134</td></tr>
+    <tr><td>Unlocked domains</td><td>30</td></tr>
 </table>
 
 ## Spiral Abys
@@ -57,7 +57,7 @@ Last checked: 20.10.2021 16:51:43 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>80.3%</td>
+                    <td>82.2%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -439,7 +439,7 @@ Last checked: 20.10.2021 16:51:43 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Friendship</td><td>8</td></tr>
+    <tr><td>Friendship</td><td>9</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
     <tr><td>Artifacts</td><td>5 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>

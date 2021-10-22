@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 20
+Total rewards claimed: 21
 \
-Last checked: 21.10.2021 17:01:08 UTC
+Last checked: 22.10.2021 16:51:31 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>282</td></tr>
-    <tr><td>Active days</td><td>285</td></tr>
+    <tr><td>Achievements</td><td>283</td></tr>
+    <tr><td>Active days</td><td>286</td></tr>
     <tr><td>Characters</td><td>27</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -254,7 +254,7 @@ Last checked: 21.10.2021 17:01:08 UTC
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Mori.png"></p></td>
 </tr>
 
 <tr>
@@ -275,9 +275,9 @@ Last checked: 21.10.2021 17:01:08 UTC
 <td>
 
 <table>
-    <tr><td>Name</td><td>Favonius Lance</td></tr>
+    <tr><td>Name</td><td>"The Catch"</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
     <tr><td>Refinement</td><td>3</td></tr>
 </table>
 
@@ -289,7 +289,7 @@ Last checked: 21.10.2021 17:01:08 UTC
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Proto.png"></p></td>
 </tr>
 
 <tr>
@@ -310,10 +310,10 @@ Last checked: 21.10.2021 17:01:08 UTC
 <td>
 
 <table>
-    <tr><td>Name</td><td>Sacrificial Sword</td></tr>
+    <tr><td>Name</td><td>Prototype Rancour</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>40</td></tr>
-    <tr><td>Refinement</td><td>2</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>
@@ -394,7 +394,7 @@ Last checked: 21.10.2021 17:01:08 UTC
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Proto.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"></p></td>
 </tr>
 
 <tr>
@@ -406,7 +406,7 @@ Last checked: 21.10.2021 17:01:08 UTC
     <tr><td>Level</td><td>70</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>5</td></tr>
-    <tr><td>Artifacts</td><td>2 x Wanderer's Troupe<br>2 x Heart of Depth<br>1 x Tenacity of the Millelith</td></tr>
+    <tr><td>Artifacts</td><td>2 x Wanderer's Troupe<br>1 x Tenacity of the Millelith<br>1 x Heart of Depth<br>1 x Emblem of Severed Fate</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -415,10 +415,10 @@ Last checked: 21.10.2021 17:01:08 UTC
 <td>
 
 <table>
-    <tr><td>Name</td><td>Prototype Rancour</td></tr>
+    <tr><td>Name</td><td>Sacrificial Sword</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>40</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
+    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Refinement</td><td>2</td></tr>
 </table>
 
 </td></tr>
@@ -494,6 +494,41 @@ Last checked: 21.10.2021 17:01:08 UTC
 </td></tr>
 </table>
 
+### Yanfei
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Feiyan.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Ludiharpastum.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Pyro</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>4 x Shimenawa's Reminiscence<br>1 x Maiden Beloved</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Dodoco Tales</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>40</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
+</table>
+
+</td></tr>
+</table>
+
 ### Xiangling
 
 <table>
@@ -523,41 +558,6 @@ Last checked: 21.10.2021 17:01:08 UTC
     <tr><td>Name</td><td>White Tassel</td></tr>
     <tr><td>Rarity</td><td>3</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Yanfei
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Feiyan.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Ludiharpastum.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Pyro</td></tr>
-    <tr><td>Level</td><td>60</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>4 x Shimenawa's Reminiscence<br>1 x Maiden Beloved</td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Dodoco Tales</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>40</td></tr>
     <tr><td>Refinement</td><td>5</td></tr>
 </table>
 

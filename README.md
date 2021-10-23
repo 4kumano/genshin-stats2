@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 21
+Total rewards claimed: 22
 \
-Last checked: 22.10.2021 16:51:31 UTC
+Last checked: 23.10.2021 16:49:56 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>283</td></tr>
-    <tr><td>Active days</td><td>286</td></tr>
+    <tr><td>Active days</td><td>287</td></tr>
     <tr><td>Characters</td><td>27</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -137,7 +137,7 @@ Last checked: 22.10.2021 16:51:31 UTC
 <table>
     <tr><td>Name</td><td>Harbinger of Dawn</td></tr>
     <tr><td>Rarity</td><td>3</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
     <tr><td>Refinement</td><td>5</td></tr>
 </table>
 

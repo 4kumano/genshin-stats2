@@ -1,21 +1,21 @@
 # My Genshin Stats
 
-Total rewards claimed: 24
+Total rewards claimed: 27
 \
-Last checked: 25.10.2021 16:51:13 UTC
+Last checked: 28.10.2021 06:11:34 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>283</td></tr>
-    <tr><td>Active days</td><td>288</td></tr>
+    <tr><td>Active days</td><td>290</td></tr>
     <tr><td>Characters</td><td>27</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>107</td></tr>
     <tr><td>Electroculi</td><td>151</td></tr>
-    <tr><td>Common chests</td><td>812</td></tr>
-    <tr><td>Exquisite chests</td><td>711</td></tr>
+    <tr><td>Common chests</td><td>817</td></tr>
+    <tr><td>Exquisite chests</td><td>715</td></tr>
     <tr><td>Precious chests</td><td>197</td></tr>
     <tr><td>Luxurious chests</td><td>79</td></tr>
     <tr><td>Unlocked waypoints</td><td>134</td></tr>
@@ -264,7 +264,7 @@ Last checked: 25.10.2021 16:51:13 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>7</td></tr>
+    <tr><td>Friendship</td><td>8</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Emblem of Severed Fate<br>1 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -592,7 +592,7 @@ Last checked: 25.10.2021 16:51:13 UTC
 <table>
     <tr><td>Name</td><td>Sacrificial Fragments</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Level</td><td>40</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 

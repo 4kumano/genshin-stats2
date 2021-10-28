@@ -15,8 +15,10 @@ gs.set_cookie(os.environ.get("COOKIE"))
 try:
     gs.hoyolab_check_in()
     print("Claimed exp for hoyolab.")
-except gs.SignInException as e:
+except gs.SignInException:
     print("Exp for hoyolab was already claimed.")
+except gs.AccountNotFound:
+    print("Servers down or account not found.")
 
 
 #%% get data

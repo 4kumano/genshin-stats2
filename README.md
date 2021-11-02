@@ -1,24 +1,24 @@
 # My Genshin Stats
 
-Total rewards claimed: 1
+Total rewards claimed: 2
 \
-Last checked: 01.11.2021 16:53:33 UTC
+Last checked: 02.11.2021 16:52:22 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>290</td></tr>
-    <tr><td>Active days</td><td>295</td></tr>
+    <tr><td>Achievements</td><td>298</td></tr>
+    <tr><td>Active days</td><td>296</td></tr>
     <tr><td>Characters</td><td>27</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>107</td></tr>
-    <tr><td>Electroculi</td><td>152</td></tr>
-    <tr><td>Common chests</td><td>853</td></tr>
-    <tr><td>Exquisite chests</td><td>734</td></tr>
-    <tr><td>Precious chests</td><td>199</td></tr>
-    <tr><td>Luxurious chests</td><td>79</td></tr>
-    <tr><td>Unlocked waypoints</td><td>134</td></tr>
+    <tr><td>Electroculi</td><td>180</td></tr>
+    <tr><td>Common chests</td><td>880</td></tr>
+    <tr><td>Exquisite chests</td><td>750</td></tr>
+    <tr><td>Precious chests</td><td>203</td></tr>
+    <tr><td>Luxurious chests</td><td>81</td></tr>
+    <tr><td>Unlocked waypoints</td><td>136</td></tr>
     <tr><td>Unlocked domains</td><td>30</td></tr>
 </table>
 
@@ -57,7 +57,7 @@ Last checked: 01.11.2021 16:53:33 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>85.0%</td>
+                    <td>97.3%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -474,7 +474,7 @@ Last checked: 01.11.2021 16:53:33 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Friendship</td><td>4</td></tr>
+    <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Crimson Witch of Flames</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -604,7 +604,7 @@ Last checked: 01.11.2021 16:53:33 UTC
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Dvalin.png"></p></td>
 </tr>
 
 <tr>
@@ -625,10 +625,10 @@ Last checked: 01.11.2021 16:53:33 UTC
 <td>
 
 <table>
-    <tr><td>Name</td><td>Thrilling Tales of Dragon Slayers</td></tr>
-    <tr><td>Rarity</td><td>3</td></tr>
+    <tr><td>Name</td><td>Skyward Atlas</td></tr>
+    <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>
@@ -650,7 +650,7 @@ Last checked: 01.11.2021 16:53:33 UTC
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>40</td></tr>
     <tr><td>Friendship</td><td>2</td></tr>
-    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>2</td></tr>
     <tr><td>Artifacts</td><td>2 x Gambler<br>1 x Instructor<br>1 x Berserker</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
@@ -739,41 +739,6 @@ Last checked: 01.11.2021 16:53:33 UTC
 </td></tr>
 </table>
 
-### Kujou Sara
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sara.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Electro</td></tr>
-    <tr><td>Level</td><td>20</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>3</td></tr>
-    <tr><td>Artifacts</td><td></td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Hunter's Bow</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
 ### Noelle
 
 <table>
@@ -790,7 +755,7 @@ Last checked: 01.11.2021 16:53:33 UTC
     <tr><td>Element</td><td>Geo</td></tr>
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Friendship</td><td>3</td></tr>
-    <tr><td>Constellation</td><td>2</td></tr>
+    <tr><td>Constellation</td><td>3</td></tr>
     <tr><td>Artifacts</td><td>2 x Lucky Dog<br>2 x Berserker<br>1 x The Exile</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
@@ -825,7 +790,7 @@ Last checked: 01.11.2021 16:53:33 UTC
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>2</td></tr>
+    <tr><td>Constellation</td><td>3</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
@@ -836,6 +801,41 @@ Last checked: 01.11.2021 16:53:33 UTC
 
 <table>
     <tr><td>Name</td><td>Waster Greatsword</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+### Kujou Sara
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sara.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Electro</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>3</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Hunter's Bow</td></tr>
     <tr><td>Rarity</td><td>1</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
@@ -919,7 +919,7 @@ Last checked: 01.11.2021 16:53:33 UTC
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Arjuna.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png"></p></td>
 </tr>
 
 <tr>
@@ -940,10 +940,10 @@ Last checked: 01.11.2021 16:53:33 UTC
 <td>
 
 <table>
-    <tr><td>Name</td><td>Sharpshooter's Oath</td></tr>
-    <tr><td>Rarity</td><td>3</td></tr>
+    <tr><td>Name</td><td>Elegy for the End</td></tr>
+    <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>

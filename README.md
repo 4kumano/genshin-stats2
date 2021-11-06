@@ -1,23 +1,23 @@
 # My Genshin Stats
 
-Total rewards claimed: 3
+Total rewards claimed: 6
 \
-Last checked: 03.11.2021 16:53:00 UTC
+Last checked: 06.11.2021 06:25:00 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>301</td></tr>
-    <tr><td>Active days</td><td>297</td></tr>
+    <tr><td>Achievements</td><td>306</td></tr>
+    <tr><td>Active days</td><td>299</td></tr>
     <tr><td>Characters</td><td>27</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
-    <tr><td>Geoculi</td><td>121</td></tr>
+    <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
-    <tr><td>Common chests</td><td>934</td></tr>
-    <tr><td>Exquisite chests</td><td>833</td></tr>
-    <tr><td>Precious chests</td><td>220</td></tr>
-    <tr><td>Luxurious chests</td><td>85</td></tr>
+    <tr><td>Common chests</td><td>980</td></tr>
+    <tr><td>Exquisite chests</td><td>875</td></tr>
+    <tr><td>Precious chests</td><td>226</td></tr>
+    <tr><td>Luxurious chests</td><td>91</td></tr>
     <tr><td>Unlocked waypoints</td><td>136</td></tr>
     <tr><td>Unlocked domains</td><td>30</td></tr>
 </table>
@@ -57,7 +57,7 @@ Last checked: 03.11.2021 16:53:00 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>98.5%</td>
+                    <td>100.0%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -69,7 +69,7 @@ Last checked: 03.11.2021 16:53:00 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>80.6%</td>
+                    <td>88.5%</td>
                 </tr>
                 <tr>
                     <td>Offering level</td>
@@ -81,7 +81,7 @@ Last checked: 03.11.2021 16:53:00 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>77.2%</td>
+                    <td>80.8%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -93,7 +93,7 @@ Last checked: 03.11.2021 16:53:00 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>85.7%</td>
+                    <td>85.9%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>

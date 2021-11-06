@@ -17,8 +17,8 @@ try:
     print("Claimed exp for hoyolab.")
 except gs.SignInException:
     print("Exp for hoyolab was already claimed.")
-except gs.AccountNotFound:
-    print("Servers down or account not found.")
+except gs.GenshinStatsException as e:
+    print("Got error code -1 and message: " + e.orig_msg)
 
 
 #%% get data

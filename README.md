@@ -1,23 +1,23 @@
 # My Genshin Stats
 
-Total rewards claimed: 6
+Total rewards claimed: 12
 \
-Last checked: 06.11.2021 06:25:00 UTC
+Last checked: 11.11.2021 16:54:33 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>306</td></tr>
-    <tr><td>Active days</td><td>299</td></tr>
+    <tr><td>Achievements</td><td>318</td></tr>
+    <tr><td>Active days</td><td>305</td></tr>
     <tr><td>Characters</td><td>27</td></tr>
-    <tr><td>Spiral abyss</td><td>8-3</td></tr>
+    <tr><td>Spiral abyss</td><td>10-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
-    <tr><td>Common chests</td><td>980</td></tr>
-    <tr><td>Exquisite chests</td><td>875</td></tr>
-    <tr><td>Precious chests</td><td>226</td></tr>
-    <tr><td>Luxurious chests</td><td>91</td></tr>
+    <tr><td>Common chests</td><td>1006</td></tr>
+    <tr><td>Exquisite chests</td><td>888</td></tr>
+    <tr><td>Precious chests</td><td>238</td></tr>
+    <tr><td>Luxurious chests</td><td>96</td></tr>
     <tr><td>Unlocked waypoints</td><td>136</td></tr>
     <tr><td>Unlocked domains</td><td>30</td></tr>
 </table>
@@ -25,15 +25,15 @@ Last checked: 06.11.2021 06:25:00 UTC
 ## Spiral Abys
 
 <table>
-    <tr><td>Total battles</td><td>0</td></tr>
-    <tr><td>Total wins</td><td>0</td></tr>
-    <tr><td>Max floor</td><td>0-0</td></tr>
-    <tr><td>Total stars</td><td>0</td></tr>
-    <tr><td>Strongest hit</td><td>no strongest strike this seasson -> no strongest strike this seasson DMG</td></tr>
-    <tr><td>Most kills</td><td>replace_this_with_abys_most_kills_name -> replace_this_with_abys_most_kills_value</td></tr>
-    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
-    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
-    <tr><td>Most bursts used</td><td>replace_this_with_abys_most_bursts_used_name -> replace_this_with_abys_most_bursts_used_value</td></tr>
+    <tr><td>Total battles</td><td>6</td></tr>
+    <tr><td>Total wins</td><td>6</td></tr>
+    <tr><td>Max floor</td><td>10-3</td></tr>
+    <tr><td>Total stars</td><td>17</td></tr>
+    <tr><td>Strongest hit</td><td>Eula -> 204772 DMG</td></tr>
+    <tr><td>Most kills</td><td>Eula -> 38</td></tr>
+    <tr><td>Most damage taken</td><td>Hu Tao -> 51275 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Eula -> 11</td></tr>
+    <tr><td>Most bursts used</td><td>Eula -> 55</td></tr>
 </table>
 
 
@@ -69,11 +69,11 @@ Last checked: 06.11.2021 06:25:00 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>88.5%</td>
+                    <td>100.0%</td>
                 </tr>
                 <tr>
                     <td>Offering level</td>
-                    <td>6</td>
+                    <td>8</td>
                 </tr>
             </table>
         </td>
@@ -81,7 +81,7 @@ Last checked: 06.11.2021 06:25:00 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>80.8%</td>
+                    <td>81.0%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -93,7 +93,7 @@ Last checked: 06.11.2021 06:25:00 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>85.9%</td>
+                    <td>86.0%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -264,7 +264,7 @@ Last checked: 06.11.2021 06:25:00 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>8</td></tr>
+    <tr><td>Friendship</td><td>9</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Emblem of Severed Fate<br>1 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -298,7 +298,7 @@ Last checked: 06.11.2021 06:25:00 UTC
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
-    <tr><td>Level</td><td>50</td></tr>
+    <tr><td>Level</td><td>60</td></tr>
     <tr><td>Friendship</td><td>6</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
     <tr><td>Artifacts</td><td>4 x Bloodstained Chivalry<br>1 x Maiden Beloved</td></tr>
@@ -418,7 +418,7 @@ Last checked: 06.11.2021 06:25:00 UTC
     <tr><td>Name</td><td>Sacrificial Sword</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>60</td></tr>
-    <tr><td>Refinement</td><td>2</td></tr>
+    <tr><td>Refinement</td><td>4</td></tr>
 </table>
 
 </td></tr>

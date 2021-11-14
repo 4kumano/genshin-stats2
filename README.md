@@ -1,23 +1,23 @@
 # My Genshin Stats
 
-Total rewards claimed: 13
+Total rewards claimed: 14
 \
-Last checked: 13.11.2021 16:50:42 UTC
+Last checked: 14.11.2021 16:50:43 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>319</td></tr>
-    <tr><td>Active days</td><td>306</td></tr>
+    <tr><td>Achievements</td><td>326</td></tr>
+    <tr><td>Active days</td><td>308</td></tr>
     <tr><td>Characters</td><td>27</td></tr>
     <tr><td>Spiral abyss</td><td>10-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
-    <tr><td>Common chests</td><td>1006</td></tr>
-    <tr><td>Exquisite chests</td><td>888</td></tr>
-    <tr><td>Precious chests</td><td>238</td></tr>
-    <tr><td>Luxurious chests</td><td>96</td></tr>
+    <tr><td>Common chests</td><td>1014</td></tr>
+    <tr><td>Exquisite chests</td><td>911</td></tr>
+    <tr><td>Precious chests</td><td>247</td></tr>
+    <tr><td>Luxurious chests</td><td>104</td></tr>
     <tr><td>Unlocked waypoints</td><td>136</td></tr>
     <tr><td>Unlocked domains</td><td>30</td></tr>
 </table>
@@ -81,7 +81,7 @@ Last checked: 13.11.2021 16:50:42 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>81.0%</td>
+                    <td>86.2%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -474,7 +474,7 @@ Last checked: 13.11.2021 16:50:42 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Friendship</td><td>5</td></tr>
+    <tr><td>Friendship</td><td>6</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Crimson Witch of Flames</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -604,7 +604,7 @@ Last checked: 13.11.2021 16:50:42 UTC
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Dvalin.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png"></p></td>
 </tr>
 
 <tr>
@@ -625,10 +625,10 @@ Last checked: 13.11.2021 16:50:42 UTC
 <td>
 
 <table>
-    <tr><td>Name</td><td>Skyward Atlas</td></tr>
-    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Name</td><td>Thrilling Tales of Dragon Slayers</td></tr>
+    <tr><td>Rarity</td><td>3</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>

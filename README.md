@@ -1,13 +1,13 @@
 # My Genshin Stats
 
-Total rewards claimed: 14
+Total rewards claimed: 15
 \
-Last checked: 14.11.2021 16:50:43 UTC
+Last checked: 15.11.2021 16:52:33 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>326</td></tr>
+    <tr><td>Achievements</td><td>329</td></tr>
     <tr><td>Active days</td><td>308</td></tr>
     <tr><td>Characters</td><td>27</td></tr>
     <tr><td>Spiral abyss</td><td>10-3</td></tr>
@@ -32,7 +32,7 @@ Last checked: 14.11.2021 16:50:43 UTC
     <tr><td>Strongest hit</td><td>Eula -> 204772 DMG</td></tr>
     <tr><td>Most kills</td><td>Eula -> 38</td></tr>
     <tr><td>Most damage taken</td><td>Hu Tao -> 51275 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Ganyu -> 11</td></tr>
+    <tr><td>Most skills used</td><td>Eula -> 11</td></tr>
     <tr><td>Most bursts used</td><td>Eula -> 55</td></tr>
 </table>
 

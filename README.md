@@ -1,23 +1,23 @@
 # My Genshin Stats
 
-Total rewards claimed: 15
+Total rewards claimed: 16
 \
-Last checked: 15.11.2021 16:52:33 UTC
+Last checked: 16.11.2021 16:44:04 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>329</td></tr>
-    <tr><td>Active days</td><td>308</td></tr>
+    <tr><td>Achievements</td><td>341</td></tr>
+    <tr><td>Active days</td><td>309</td></tr>
     <tr><td>Characters</td><td>27</td></tr>
-    <tr><td>Spiral abyss</td><td>10-3</td></tr>
+    <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
-    <tr><td>Common chests</td><td>1014</td></tr>
-    <tr><td>Exquisite chests</td><td>911</td></tr>
+    <tr><td>Common chests</td><td>1015</td></tr>
+    <tr><td>Exquisite chests</td><td>915</td></tr>
     <tr><td>Precious chests</td><td>247</td></tr>
-    <tr><td>Luxurious chests</td><td>104</td></tr>
+    <tr><td>Luxurious chests</td><td>106</td></tr>
     <tr><td>Unlocked waypoints</td><td>136</td></tr>
     <tr><td>Unlocked domains</td><td>30</td></tr>
 </table>
@@ -25,15 +25,15 @@ Last checked: 15.11.2021 16:52:33 UTC
 ## Spiral Abys
 
 <table>
-    <tr><td>Total battles</td><td>6</td></tr>
-    <tr><td>Total wins</td><td>6</td></tr>
-    <tr><td>Max floor</td><td>10-3</td></tr>
-    <tr><td>Total stars</td><td>17</td></tr>
-    <tr><td>Strongest hit</td><td>Eula -> 204772 DMG</td></tr>
-    <tr><td>Most kills</td><td>Eula -> 38</td></tr>
-    <tr><td>Most damage taken</td><td>Hu Tao -> 51275 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Eula -> 11</td></tr>
-    <tr><td>Most bursts used</td><td>Eula -> 55</td></tr>
+    <tr><td>Total battles</td><td>0</td></tr>
+    <tr><td>Total wins</td><td>0</td></tr>
+    <tr><td>Max floor</td><td>0-0</td></tr>
+    <tr><td>Total stars</td><td>0</td></tr>
+    <tr><td>Strongest hit</td><td>no strongest strike this seasson -> no strongest strike this seasson DMG</td></tr>
+    <tr><td>Most kills</td><td>replace_this_with_abys_most_kills_name -> replace_this_with_abys_most_kills_value</td></tr>
+    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
+    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
+    <tr><td>Most bursts used</td><td>replace_this_with_abys_most_bursts_used_name -> replace_this_with_abys_most_bursts_used_value</td></tr>
 </table>
 
 
@@ -93,7 +93,7 @@ Last checked: 15.11.2021 16:52:33 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>86.0%</td>
+                    <td>86.2%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -756,7 +756,7 @@ Last checked: 15.11.2021 16:52:33 UTC
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Friendship</td><td>3</td></tr>
     <tr><td>Constellation</td><td>3</td></tr>
-    <tr><td>Artifacts</td><td>2 x Lucky Dog<br>2 x Berserker<br>1 x The Exile</td></tr>
+    <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Bloodstained Chivalry</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 

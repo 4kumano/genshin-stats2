@@ -2,13 +2,13 @@
 
 Total rewards claimed: 17
 \
-Last checked: 17.11.2021 16:47:45 UTC
+Last checked: 18.11.2021 16:52:21 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>341</td></tr>
-    <tr><td>Active days</td><td>309</td></tr>
+    <tr><td>Active days</td><td>311</td></tr>
     <tr><td>Characters</td><td>27</td></tr>
     <tr><td>Spiral abyss</td><td>10-2</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -264,7 +264,7 @@ Last checked: 17.11.2021 16:47:45 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>9</td></tr>
+    <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Emblem of Severed Fate<br>1 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -942,7 +942,7 @@ Last checked: 17.11.2021 16:47:45 UTC
 <table>
     <tr><td>Name</td><td>Elegy for the End</td></tr>
     <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 

@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 18
+Total rewards claimed: 19
 \
-Last checked: 19.11.2021 16:51:07 UTC
+Last checked: 20.11.2021 16:51:01 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>341</td></tr>
-    <tr><td>Active days</td><td>311</td></tr>
+    <tr><td>Achievements</td><td>342</td></tr>
+    <tr><td>Active days</td><td>312</td></tr>
     <tr><td>Characters</td><td>27</td></tr>
     <tr><td>Spiral abyss</td><td>10-2</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -942,7 +942,7 @@ Last checked: 19.11.2021 16:51:07 UTC
 <table>
     <tr><td>Name</td><td>Elegy for the End</td></tr>
     <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 

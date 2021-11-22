@@ -1,8 +1,8 @@
 # My Genshin Stats
 
-Total rewards claimed: 20
+Total rewards claimed: 21
 \
-Last checked: 21.11.2021 16:50:56 UTC
+Last checked: 22.11.2021 16:53:48 UTC
 
 ## Stats
 
@@ -32,7 +32,7 @@ Last checked: 21.11.2021 16:50:56 UTC
     <tr><td>Strongest hit</td><td>Eula -> 251541 DMG</td></tr>
     <tr><td>Most kills</td><td>Eula -> 31</td></tr>
     <tr><td>Most damage taken</td><td>Hu Tao -> 37695 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Diona -> 9</td></tr>
+    <tr><td>Most skills used</td><td>Ganyu -> 9</td></tr>
     <tr><td>Most bursts used</td><td>Ganyu -> 37</td></tr>
 </table>
 
@@ -207,7 +207,7 @@ Last checked: 21.11.2021 16:50:56 UTC
 <table>
     <tr><td>Name</td><td>Staff of Homa</td></tr>
     <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 

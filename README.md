@@ -2,13 +2,13 @@
 
 Total rewards claimed: 22
 \
-Last checked: 24.11.2021 07:25:20 UTC
+Last checked: 24.11.2021 16:52:46 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>342</td></tr>
-    <tr><td>Active days</td><td>316</td></tr>
+    <tr><td>Active days</td><td>317</td></tr>
     <tr><td>Characters</td><td>27</td></tr>
     <tr><td>Spiral abyss</td><td>10-2</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -32,7 +32,7 @@ Last checked: 24.11.2021 07:25:20 UTC
     <tr><td>Strongest hit</td><td>Eula -> 251541 DMG</td></tr>
     <tr><td>Most kills</td><td>Eula -> 31</td></tr>
     <tr><td>Most damage taken</td><td>Hu Tao -> 37695 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Diona -> 9</td></tr>
+    <tr><td>Most skills used</td><td>Ganyu -> 9</td></tr>
     <tr><td>Most bursts used</td><td>Ganyu -> 37</td></tr>
 </table>
 
@@ -627,7 +627,7 @@ Last checked: 24.11.2021 07:25:20 UTC
 <table>
     <tr><td>Name</td><td>Thrilling Tales of Dragon Slayers</td></tr>
     <tr><td>Rarity</td><td>3</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Level</td><td>40</td></tr>
     <tr><td>Refinement</td><td>5</td></tr>
 </table>
 

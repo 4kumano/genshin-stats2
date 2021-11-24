@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 21
+Total rewards claimed: 22
 \
-Last checked: 22.11.2021 16:53:48 UTC
+Last checked: 24.11.2021 07:25:20 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>342</td></tr>
-    <tr><td>Active days</td><td>314</td></tr>
+    <tr><td>Active days</td><td>316</td></tr>
     <tr><td>Characters</td><td>27</td></tr>
     <tr><td>Spiral abyss</td><td>10-2</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -32,7 +32,7 @@ Last checked: 22.11.2021 16:53:48 UTC
     <tr><td>Strongest hit</td><td>Eula -> 251541 DMG</td></tr>
     <tr><td>Most kills</td><td>Eula -> 31</td></tr>
     <tr><td>Most damage taken</td><td>Hu Tao -> 37695 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Ganyu -> 9</td></tr>
+    <tr><td>Most skills used</td><td>Diona -> 9</td></tr>
     <tr><td>Most bursts used</td><td>Ganyu -> 37</td></tr>
 </table>
 
@@ -429,7 +429,7 @@ Last checked: 22.11.2021 16:53:48 UTC
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png"></p></td>
 </tr>
 
 <tr>
@@ -450,9 +450,9 @@ Last checked: 22.11.2021 16:53:48 UTC
 <td>
 
 <table>
-    <tr><td>Name</td><td>Sacrificial Bow</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>50</td></tr>
+    <tr><td>Name</td><td>Elegy for the End</td></tr>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
@@ -919,7 +919,7 @@ Last checked: 22.11.2021 16:53:48 UTC
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png"></p></td>
 </tr>
 
 <tr>
@@ -940,9 +940,9 @@ Last checked: 22.11.2021 16:53:48 UTC
 <td>
 
 <table>
-    <tr><td>Name</td><td>Elegy for the End</td></tr>
-    <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Name</td><td>Sacrificial Bow</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>50</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 

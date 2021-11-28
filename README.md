@@ -2,20 +2,20 @@
 
 Total rewards claimed: 25
 \
-Last checked: 27.11.2021 16:51:04 UTC
+Last checked: 28.11.2021 16:50:53 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>343</td></tr>
-    <tr><td>Active days</td><td>320</td></tr>
+    <tr><td>Active days</td><td>321</td></tr>
     <tr><td>Characters</td><td>27</td></tr>
     <tr><td>Spiral abyss</td><td>10-2</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
-    <tr><td>Common chests</td><td>1016</td></tr>
-    <tr><td>Exquisite chests</td><td>918</td></tr>
+    <tr><td>Common chests</td><td>1017</td></tr>
+    <tr><td>Exquisite chests</td><td>919</td></tr>
     <tr><td>Precious chests</td><td>247</td></tr>
     <tr><td>Luxurious chests</td><td>107</td></tr>
     <tr><td>Unlocked waypoints</td><td>136</td></tr>
@@ -32,7 +32,7 @@ Last checked: 27.11.2021 16:51:04 UTC
     <tr><td>Strongest hit</td><td>Eula -> 251541 DMG</td></tr>
     <tr><td>Most kills</td><td>Eula -> 31</td></tr>
     <tr><td>Most damage taken</td><td>Hu Tao -> 37695 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Diona -> 9</td></tr>
+    <tr><td>Most skills used</td><td>Ganyu -> 9</td></tr>
     <tr><td>Most bursts used</td><td>Ganyu -> 37</td></tr>
 </table>
 
@@ -93,7 +93,7 @@ Last checked: 27.11.2021 16:51:04 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>86.2%</td>
+                    <td>86.4%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>

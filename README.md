@@ -1,16 +1,16 @@
 # My Genshin Stats
 
-Total rewards claimed: 0
+Total rewards claimed: 1
 \
-Last checked: 30.11.2021 16:52:41 UTC
+Last checked: 01.12.2021 16:53:50 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>343</td></tr>
-    <tr><td>Active days</td><td>322</td></tr>
+    <tr><td>Active days</td><td>324</td></tr>
     <tr><td>Characters</td><td>27</td></tr>
-    <tr><td>Spiral abyss</td><td>10-2</td></tr>
+    <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
@@ -25,15 +25,15 @@ Last checked: 30.11.2021 16:52:41 UTC
 ## Spiral Abys
 
 <table>
-    <tr><td>Total battles</td><td>5</td></tr>
-    <tr><td>Total wins</td><td>5</td></tr>
-    <tr><td>Max floor</td><td>10-2</td></tr>
-    <tr><td>Total stars</td><td>15</td></tr>
-    <tr><td>Strongest hit</td><td>Eula -> 251541 DMG</td></tr>
-    <tr><td>Most kills</td><td>Eula -> 31</td></tr>
-    <tr><td>Most damage taken</td><td>Hu Tao -> 37695 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Ganyu -> 9</td></tr>
-    <tr><td>Most bursts used</td><td>Ganyu -> 37</td></tr>
+    <tr><td>Total battles</td><td>0</td></tr>
+    <tr><td>Total wins</td><td>0</td></tr>
+    <tr><td>Max floor</td><td>0-0</td></tr>
+    <tr><td>Total stars</td><td>0</td></tr>
+    <tr><td>Strongest hit</td><td>no strongest strike this seasson -> no strongest strike this seasson DMG</td></tr>
+    <tr><td>Most kills</td><td>replace_this_with_abys_most_kills_name -> replace_this_with_abys_most_kills_value</td></tr>
+    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
+    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
+    <tr><td>Most bursts used</td><td>replace_this_with_abys_most_bursts_used_name -> replace_this_with_abys_most_bursts_used_value</td></tr>
 </table>
 
 

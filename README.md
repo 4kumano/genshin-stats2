@@ -1,8 +1,8 @@
 # My Genshin Stats
 
-Total rewards claimed: 1
+Total rewards claimed: 2
 \
-Last checked: 01.12.2021 16:53:50 UTC
+Last checked: 02.12.2021 16:53:07 UTC
 
 ## Stats
 
@@ -510,7 +510,7 @@ Last checked: 01.12.2021 16:53:50 UTC
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>70</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>4 x Shimenawa's Reminiscence<br>1 x Maiden Beloved</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>

@@ -1,16 +1,16 @@
 # My Genshin Stats
 
-Total rewards claimed: 11
+Total rewards claimed: 12
 \
-Last checked: 14.12.2021 16:53:26 UTC
+Last checked: 15.12.2021 16:53:10 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>344</td></tr>
-    <tr><td>Active days</td><td>336</td></tr>
-    <tr><td>Characters</td><td>27</td></tr>
-    <tr><td>Spiral abyss</td><td>8-3</td></tr>
+    <tr><td>Active days</td><td>338</td></tr>
+    <tr><td>Characters</td><td>28</td></tr>
+    <tr><td>Spiral abyss</td><td>-</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
@@ -277,7 +277,7 @@ Last checked: 14.12.2021 16:53:26 UTC
 <table>
     <tr><td>Name</td><td>"The Catch"</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
     <tr><td>Refinement</td><td>3</td></tr>
 </table>
 
@@ -474,7 +474,7 @@ Last checked: 14.12.2021 16:53:26 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Friendship</td><td>7</td></tr>
+    <tr><td>Friendship</td><td>8</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Crimson Witch of Flames</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -615,7 +615,7 @@ Last checked: 14.12.2021 16:53:26 UTC
     <tr><td>Element</td><td>Hydro</td></tr>
     <tr><td>Level</td><td>40</td></tr>
     <tr><td>Friendship</td><td>5</td></tr>
-    <tr><td>Constellation</td><td>2</td></tr>
+    <tr><td>Constellation</td><td>4</td></tr>
     <tr><td>Artifacts</td><td>4 x Maiden Beloved<br>1 x Heart of Depth</td></tr>
     <tr><td>Outfits</td><td>Summertime Sparkle</td></tr>
 </table>
@@ -1046,6 +1046,41 @@ Last checked: 14.12.2021 16:53:26 UTC
 
 <table>
     <tr><td>Name</td><td>Beginner's Protector</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+### Gorou
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Gorou.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Geo</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Hunter's Bow</td></tr>
     <tr><td>Rarity</td><td>1</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>

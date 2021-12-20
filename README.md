@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 16
+Total rewards claimed: 17
 \
-Last checked: 19.12.2021 16:53:04 UTC
+Last checked: 20.12.2021 16:55:39 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>344</td></tr>
-    <tr><td>Active days</td><td>340</td></tr>
+    <tr><td>Active days</td><td>341</td></tr>
     <tr><td>Characters</td><td>28</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -16,7 +16,7 @@ Last checked: 19.12.2021 16:53:04 UTC
     <tr><td>Electroculi</td><td>180</td></tr>
     <tr><td>Common chests</td><td>1017</td></tr>
     <tr><td>Exquisite chests</td><td>919</td></tr>
-    <tr><td>Precious chests</td><td>247</td></tr>
+    <tr><td>Precious chests</td><td>248</td></tr>
     <tr><td>Luxurious chests</td><td>107</td></tr>
     <tr><td>Unlocked waypoints</td><td>136</td></tr>
     <tr><td>Unlocked domains</td><td>30</td></tr>
@@ -81,7 +81,7 @@ Last checked: 19.12.2021 16:53:04 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>86.2%</td>
+                    <td>86.3%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>

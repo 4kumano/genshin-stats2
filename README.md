@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 21
+Total rewards claimed: 22
 \
-Last checked: 24.12.2021 16:53:39 UTC
+Last checked: 25.12.2021 16:52:53 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>344</td></tr>
-    <tr><td>Active days</td><td>344</td></tr>
+    <tr><td>Active days</td><td>346</td></tr>
     <tr><td>Characters</td><td>28</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -615,7 +615,7 @@ Last checked: 24.12.2021 16:53:39 UTC
     <tr><td>Element</td><td>Hydro</td></tr>
     <tr><td>Level</td><td>40</td></tr>
     <tr><td>Friendship</td><td>5</td></tr>
-    <tr><td>Constellation</td><td>4</td></tr>
+    <tr><td>Constellation</td><td>5</td></tr>
     <tr><td>Artifacts</td><td>4 x Maiden Beloved<br>1 x Heart of Depth</td></tr>
     <tr><td>Outfits</td><td>Summertime Sparkle</td></tr>
 </table>

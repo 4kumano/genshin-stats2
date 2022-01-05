@@ -2,18 +2,18 @@
 
 Total rewards claimed: 4
 \
-Last checked: 04.01.2022 16:55:13 UTC
+Last checked: 05.01.2022 16:55:39 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>345</td></tr>
-    <tr><td>Active days</td><td>355</td></tr>
-    <tr><td>Characters</td><td>28</td></tr>
+    <tr><td>Active days</td><td>356</td></tr>
+    <tr><td>Characters</td><td>29</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
-    <tr><td>Anemoculi</td><td>65</td></tr>
-    <tr><td>Geoculi</td><td>130</td></tr>
-    <tr><td>Electroculi</td><td>180</td></tr>
+    <tr><td>Anemoculi</td><td>0</td></tr>
+    <tr><td>Geoculi</td><td>0</td></tr>
+    <tr><td>Electroculi</td><td>0</td></tr>
     <tr><td>Common chests</td><td>1018</td></tr>
     <tr><td>Exquisite chests</td><td>920</td></tr>
     <tr><td>Precious chests</td><td>248</td></tr>
@@ -1000,7 +1000,7 @@ Last checked: 04.01.2022 16:55:13 UTC
     <tr><td>Element</td><td>Geo</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>2</td></tr>
     <tr><td>Artifacts</td><td>3 x Berserker<br>1 x Gladiator's Finale</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
@@ -1083,6 +1083,41 @@ Last checked: 04.01.2022 16:55:13 UTC
     <tr><td>Name</td><td>Hunter's Bow</td></tr>
     <tr><td>Rarity</td><td>1</td></tr>
     <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+### Yun Jin
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yunjin.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Blackrock.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Geo</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Blackcliff Pole</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 

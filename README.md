@@ -1,25 +1,25 @@
 # My Genshin Stats
 
-Total rewards claimed: 5
+Total rewards claimed: 6
 \
-Last checked: 06.01.2022 16:55:36 UTC
+Last checked: 07.01.2022 16:55:34 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>345</td></tr>
-    <tr><td>Active days</td><td>357</td></tr>
-    <tr><td>Characters</td><td>29</td></tr>
+    <tr><td>Achievements</td><td>346</td></tr>
+    <tr><td>Active days</td><td>358</td></tr>
+    <tr><td>Characters</td><td>30</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
-    <tr><td>Anemoculi</td><td>0</td></tr>
-    <tr><td>Geoculi</td><td>0</td></tr>
-    <tr><td>Electroculi</td><td>0</td></tr>
+    <tr><td>Anemoculi</td><td>65</td></tr>
+    <tr><td>Geoculi</td><td>130</td></tr>
+    <tr><td>Electroculi</td><td>180</td></tr>
     <tr><td>Common chests</td><td>1018</td></tr>
     <tr><td>Exquisite chests</td><td>920</td></tr>
     <tr><td>Precious chests</td><td>248</td></tr>
     <tr><td>Luxurious chests</td><td>107</td></tr>
-    <tr><td>Unlocked waypoints</td><td>136</td></tr>
-    <tr><td>Unlocked domains</td><td>30</td></tr>
+    <tr><td>Unlocked waypoints</td><td>144</td></tr>
+    <tr><td>Unlocked domains</td><td>32</td></tr>
 </table>
 
 ## Spiral Abys
@@ -41,18 +41,32 @@ Last checked: 06.01.2022 16:55:36 UTC
 
 <table>
     <tr>
+        <th>Enkanomiya</th>
         <th>Inazuma</th>
         <th>Dragonspine</th>
         <th>Liyue</th>
         <th>Mondstadt</th>
     </tr>
     <tr>
+        <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Enkanomiya.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Daoqi.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Dragonspine.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Liyue.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Mengde.png" width="180"></p></td>
     </tr>
     <tr>
+        <td>
+            <table>
+                <tr>
+                    <td>Explored</td>
+                    <td>0.0%</td>
+                </tr>
+                <tr>
+                    <td>Offering level</td>
+                    <td>0</td>
+                </tr>
+            </table>
+        </td>
         <td>
             <table>
                 <tr>
@@ -389,6 +403,41 @@ Last checked: 06.01.2022 16:55:36 UTC
 </td></tr>
 </table>
 
+### Shenhe
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Cryo</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Beginner's Protector</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
 ### Xingqiu
 
 <table>
@@ -441,7 +490,7 @@ Last checked: 06.01.2022 16:55:36 UTC
     <tr><td>Level</td><td>70</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
-    <tr><td>Artifacts</td><td>5 x Tenacity of the Millelith</td></tr>
+    <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 

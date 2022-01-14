@@ -1,24 +1,24 @@
 # My Genshin Stats
 
-Total rewards claimed: 12
+Total rewards claimed: 13
 \
-Last checked: 13.01.2022 16:56:32 UTC
+Last checked: 14.01.2022 16:53:09 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>355</td></tr>
-    <tr><td>Active days</td><td>364</td></tr>
+    <tr><td>Achievements</td><td>356</td></tr>
+    <tr><td>Active days</td><td>365</td></tr>
     <tr><td>Characters</td><td>30</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
-    <tr><td>Common chests</td><td>1049</td></tr>
+    <tr><td>Common chests</td><td>1053</td></tr>
     <tr><td>Exquisite chests</td><td>930</td></tr>
-    <tr><td>Precious chests</td><td>250</td></tr>
+    <tr><td>Precious chests</td><td>251</td></tr>
     <tr><td>Luxurious chests</td><td>107</td></tr>
-    <tr><td>Unlocked waypoints</td><td>159</td></tr>
+    <tr><td>Unlocked waypoints</td><td>165</td></tr>
     <tr><td>Unlocked domains</td><td>32</td></tr>
 </table>
 
@@ -59,7 +59,7 @@ Last checked: 13.01.2022 16:56:32 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>34.9%</td>
+                    <td>44.4%</td>
                 </tr>
                 <tr>
                     <td>Offering level</td>
@@ -408,7 +408,7 @@ Last checked: 13.01.2022 16:56:32 UTC
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Maria.png"></p></td>
 </tr>
 
 <tr>
@@ -420,7 +420,7 @@ Last checked: 13.01.2022 16:56:32 UTC
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Artifacts</td><td>2 x Gladiator's Finale</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -429,10 +429,10 @@ Last checked: 13.01.2022 16:56:32 UTC
 <td>
 
 <table>
-    <tr><td>Name</td><td>Beginner's Protector</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Name</td><td>Wavebreaker's Fin</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>3</td></tr>
 </table>
 
 </td></tr>

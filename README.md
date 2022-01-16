@@ -1,25 +1,25 @@
 # My Genshin Stats
 
-Total rewards claimed: 13
+Total rewards claimed: 14
 \
-Last checked: 14.01.2022 16:53:09 UTC
+Last checked: 16.01.2022 15:18:08 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>356</td></tr>
-    <tr><td>Active days</td><td>365</td></tr>
+    <tr><td>Active days</td><td>367</td></tr>
     <tr><td>Characters</td><td>30</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
-    <tr><td>Anemoculi</td><td>65</td></tr>
-    <tr><td>Geoculi</td><td>130</td></tr>
-    <tr><td>Electroculi</td><td>180</td></tr>
+    <tr><td>Anemoculi</td><td>0</td></tr>
+    <tr><td>Geoculi</td><td>0</td></tr>
+    <tr><td>Electroculi</td><td>0</td></tr>
     <tr><td>Common chests</td><td>1053</td></tr>
     <tr><td>Exquisite chests</td><td>930</td></tr>
     <tr><td>Precious chests</td><td>251</td></tr>
     <tr><td>Luxurious chests</td><td>107</td></tr>
-    <tr><td>Unlocked waypoints</td><td>165</td></tr>
-    <tr><td>Unlocked domains</td><td>32</td></tr>
+    <tr><td>Unlocked waypoints</td><td>136</td></tr>
+    <tr><td>Unlocked domains</td><td>30</td></tr>
 </table>
 
 ## Spiral Abys
@@ -41,32 +41,20 @@ Last checked: 14.01.2022 16:53:09 UTC
 
 <table>
     <tr>
-        <th>Enkanomiya</th>
         <th>Inazuma</th>
         <th>Dragonspine</th>
         <th>Liyue</th>
         <th>Mondstadt</th>
+        <th></th>
     </tr>
     <tr>
-        <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Enkanomiya.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Daoqi.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Dragonspine.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Liyue.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Mengde.png" width="180"></p></td>
+        <td><p align="center"><img src="" width="180"></p></td>
     </tr>
     <tr>
-        <td>
-            <table>
-                <tr>
-                    <td>Explored</td>
-                    <td>44.4%</td>
-                </tr>
-                <tr>
-                    <td>Offering level</td>
-                    <td>0</td>
-                </tr>
-            </table>
-        </td>
         <td>
             <table>
                 <tr>
@@ -112,6 +100,18 @@ Last checked: 14.01.2022 16:53:09 UTC
                 <tr>
                     <td>Reputation level</td>
                     <td>2</td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td>Explored</td>
+                    <td>44.4%</td>
+                </tr>
+                <tr>
+                    <td>Offering level</td>
+                    <td>0</td>
                 </tr>
             </table>
         </td>

@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 14
+Total rewards claimed: 15
 \
-Last checked: 16.01.2022 16:53:55 UTC
+Last checked: 17.01.2022 16:55:46 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>356</td></tr>
-    <tr><td>Active days</td><td>367</td></tr>
+    <tr><td>Active days</td><td>368</td></tr>
     <tr><td>Characters</td><td>30</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -298,6 +298,41 @@ Last checked: 16.01.2022 16:53:55 UTC
 </td></tr>
 </table>
 
+### Shenhe
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Maria.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Cryo</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>2 x Gladiator's Finale</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Wavebreaker's Fin</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>3</td></tr>
+</table>
+
+</td></tr>
+</table>
+
 ### Qiqi
 
 <table>
@@ -398,41 +433,6 @@ Last checked: 16.01.2022 16:53:55 UTC
     <tr><td>Rarity</td><td>1</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Shenhe
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Maria.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Element</td><td>Cryo</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x Gladiator's Finale</td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Wavebreaker's Fin</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>3</td></tr>
 </table>
 
 </td></tr>

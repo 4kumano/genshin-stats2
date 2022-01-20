@@ -2,13 +2,13 @@
 
 Total rewards claimed: 16
 \
-Last checked: 19.01.2022 16:50:11 UTC
+Last checked: 20.01.2022 16:49:56 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>356</td></tr>
-    <tr><td>Active days</td><td>370</td></tr>
+    <tr><td>Active days</td><td>371</td></tr>
     <tr><td>Characters</td><td>30</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -75,7 +75,7 @@ Last checked: 19.01.2022 16:50:11 UTC
                 </tr>
                 <tr>
                     <td>Reputation level</td>
-                    <td>2</td>
+                    <td>3</td>
                 </tr>
             </table>
         </td>
@@ -315,7 +315,7 @@ Last checked: 19.01.2022 16:50:11 UTC
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x Gladiator's Finale</td></tr>
+    <tr><td>Artifacts</td><td>2 x Gladiator's Finale<br>1 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -326,7 +326,7 @@ Last checked: 19.01.2022 16:50:11 UTC
 <table>
     <tr><td>Name</td><td>Wavebreaker's Fin</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Level</td><td>60</td></tr>
     <tr><td>Refinement</td><td>3</td></tr>
 </table>
 

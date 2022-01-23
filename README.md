@@ -2,23 +2,23 @@
 
 Total rewards claimed: 18
 \
-Last checked: 22.01.2022 16:47:35 UTC
+Last checked: 23.01.2022 16:47:52 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>356</td></tr>
-    <tr><td>Active days</td><td>373</td></tr>
+    <tr><td>Achievements</td><td>363</td></tr>
+    <tr><td>Active days</td><td>374</td></tr>
     <tr><td>Characters</td><td>30</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
-    <tr><td>Common chests</td><td>1055</td></tr>
-    <tr><td>Exquisite chests</td><td>930</td></tr>
-    <tr><td>Precious chests</td><td>251</td></tr>
+    <tr><td>Common chests</td><td>1071</td></tr>
+    <tr><td>Exquisite chests</td><td>934</td></tr>
+    <tr><td>Precious chests</td><td>256</td></tr>
     <tr><td>Luxurious chests</td><td>107</td></tr>
-    <tr><td>Unlocked waypoints</td><td>165</td></tr>
+    <tr><td>Unlocked waypoints</td><td>168</td></tr>
     <tr><td>Unlocked domains</td><td>32</td></tr>
 </table>
 
@@ -59,7 +59,7 @@ Last checked: 22.01.2022 16:47:35 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>44.4%</td>
+                    <td>57.5%</td>
                 </tr>
                 <tr>
                     <td>Offering level</td>
@@ -315,7 +315,7 @@ Last checked: 22.01.2022 16:47:35 UTC
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x Gladiator's Finale<br>1 x Tenacity of the Millelith</td></tr>
+    <tr><td>Artifacts</td><td>2 x Shimenawa's Reminiscence<br>2 x Gladiator's Finale<br>1 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -326,7 +326,7 @@ Last checked: 22.01.2022 16:47:35 UTC
 <table>
     <tr><td>Name</td><td>Wavebreaker's Fin</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
     <tr><td>Refinement</td><td>3</td></tr>
 </table>
 

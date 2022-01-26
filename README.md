@@ -1,21 +1,21 @@
 # My Genshin Stats
 
-Total rewards claimed: 19
+Total rewards claimed: 20
 \
-Last checked: 25.01.2022 16:49:33 UTC
+Last checked: 26.01.2022 16:49:07 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>363</td></tr>
-    <tr><td>Active days</td><td>376</td></tr>
+    <tr><td>Active days</td><td>377</td></tr>
     <tr><td>Characters</td><td>30</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
-    <tr><td>Common chests</td><td>1071</td></tr>
-    <tr><td>Exquisite chests</td><td>934</td></tr>
+    <tr><td>Common chests</td><td>1074</td></tr>
+    <tr><td>Exquisite chests</td><td>935</td></tr>
     <tr><td>Precious chests</td><td>256</td></tr>
     <tr><td>Luxurious chests</td><td>107</td></tr>
     <tr><td>Unlocked waypoints</td><td>168</td></tr>
@@ -95,7 +95,7 @@ Last checked: 25.01.2022 16:49:33 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>86.5%</td>
+                    <td>86.8%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -122,6 +122,41 @@ Last checked: 25.01.2022 16:49:33 UTC
 
 ## Characters
 
+
+### Eula
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Theocrat.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Cryo</td></tr>
+    <tr><td>Level</td><td>81</td></tr>
+    <tr><td>Friendship</td><td>10</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>4 x Pale Flame<br>1 x Gladiator's Finale</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Royal Greatsword</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
 
 ### Jean
 
@@ -221,41 +256,6 @@ Last checked: 25.01.2022 16:49:33 UTC
 <table>
     <tr><td>Name</td><td>Staff of Homa</td></tr>
     <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Eula
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Theocrat.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Element</td><td>Cryo</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>10</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>4 x Pale Flame<br>1 x Gladiator's Finale</td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Royal Greatsword</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>90</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
@@ -454,7 +454,7 @@ Last checked: 25.01.2022 16:49:33 UTC
     <tr><td>Element</td><td>Hydro</td></tr>
     <tr><td>Level</td><td>70</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
-    <tr><td>Constellation</td><td>5</td></tr>
+    <tr><td>Constellation</td><td>6</td></tr>
     <tr><td>Artifacts</td><td>2 x Wanderer's Troupe<br>1 x Tenacity of the Millelith<br>1 x Heart of Depth<br>1 x Emblem of Severed Fate</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>

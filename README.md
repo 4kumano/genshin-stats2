@@ -1,21 +1,21 @@
 # My Genshin Stats
 
-Total rewards claimed: 22
+Total rewards claimed: 23
 \
-Last checked: 28.01.2022 16:48:13 UTC
+Last checked: 29.01.2022 16:47:02 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>363</td></tr>
-    <tr><td>Active days</td><td>378</td></tr>
+    <tr><td>Achievements</td><td>367</td></tr>
+    <tr><td>Active days</td><td>379</td></tr>
     <tr><td>Characters</td><td>30</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
     <tr><td>Common chests</td><td>1078</td></tr>
-    <tr><td>Exquisite chests</td><td>936</td></tr>
+    <tr><td>Exquisite chests</td><td>938</td></tr>
     <tr><td>Precious chests</td><td>257</td></tr>
     <tr><td>Luxurious chests</td><td>107</td></tr>
     <tr><td>Unlocked waypoints</td><td>168</td></tr>
@@ -75,7 +75,7 @@ Last checked: 28.01.2022 16:48:13 UTC
                 </tr>
                 <tr>
                     <td>Reputation level</td>
-                    <td>3</td>
+                    <td>4</td>
                 </tr>
             </table>
         </td>
@@ -95,7 +95,7 @@ Last checked: 28.01.2022 16:48:13 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>86.9%</td>
+                    <td>87.0%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -111,7 +111,7 @@ Last checked: 28.01.2022 16:48:13 UTC
                 </tr>
                 <tr>
                     <td>Reputation level</td>
-                    <td>2</td>
+                    <td>3</td>
                 </tr>
             </table>
         </td>
@@ -313,7 +313,7 @@ Last checked: 28.01.2022 16:48:13 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>3</td></tr>
+    <tr><td>Friendship</td><td>4</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>2 x Shimenawa's Reminiscence<br>2 x Gladiator's Finale<br>1 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -348,7 +348,7 @@ Last checked: 28.01.2022 16:48:13 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>60</td></tr>
-    <tr><td>Friendship</td><td>6</td></tr>
+    <tr><td>Friendship</td><td>7</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
     <tr><td>Artifacts</td><td>4 x Bloodstained Chivalry<br>1 x Maiden Beloved</td></tr>
     <tr><td>Outfits</td><td></td></tr>

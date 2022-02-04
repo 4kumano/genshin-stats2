@@ -2,7 +2,7 @@
 
 Total rewards claimed: 3
 \
-Last checked: 04.02.2022 16:40:49 UTC
+Last checked: 04.02.2022 17:11:33 UTC
 
 ## Stats
 
@@ -41,32 +41,20 @@ Last checked: 04.02.2022 16:40:49 UTC
 
 <table>
     <tr>
-        <th>Enkanomiya</th>
         <th>Inazuma</th>
         <th>Dragonspine</th>
         <th>Liyue</th>
         <th>Mondstadt</th>
+        <th></th>
     </tr>
     <tr>
-        <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Enkanomiya.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Daoqi.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Dragonspine.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Liyue.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Mengde.png" width="180"></p></td>
+        <td><p align="center"><img src="" width="180"></p></td>
     </tr>
     <tr>
-        <td>
-            <table>
-                <tr>
-                    <td>Explored</td>
-                    <td>57.5%</td>
-                </tr>
-                <tr>
-                    <td>Offering level</td>
-                    <td>0</td>
-                </tr>
-            </table>
-        </td>
         <td>
             <table>
                 <tr>
@@ -112,6 +100,18 @@ Last checked: 04.02.2022 16:40:49 UTC
                 <tr>
                     <td>Reputation level</td>
                     <td>3</td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td>Explored</td>
+                    <td>57.5%</td>
+                </tr>
+                <tr>
+                    <td>Offering level</td>
+                    <td>0</td>
                 </tr>
             </table>
         </td>

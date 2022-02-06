@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 4
+Total rewards claimed: 5
 \
-Last checked: 05.02.2022 16:38:02 UTC
+Last checked: 06.02.2022 16:45:59 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>370</td></tr>
-    <tr><td>Active days</td><td>385</td></tr>
+    <tr><td>Active days</td><td>387</td></tr>
     <tr><td>Characters</td><td>30</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -313,7 +313,7 @@ Last checked: 05.02.2022 16:38:02 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>4</td></tr>
+    <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>2 x Shimenawa's Reminiscence<br>2 x Gladiator's Finale<br>1 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -326,7 +326,7 @@ Last checked: 05.02.2022 16:38:02 UTC
 <table>
     <tr><td>Name</td><td>Wavebreaker's Fin</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
     <tr><td>Refinement</td><td>3</td></tr>
 </table>
 
@@ -523,7 +523,7 @@ Last checked: 05.02.2022 16:38:02 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Friendship</td><td>8</td></tr>
+    <tr><td>Friendship</td><td>9</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Crimson Witch of Flames</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -1051,7 +1051,7 @@ Last checked: 05.02.2022 16:38:02 UTC
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
     <tr><td>Artifacts</td><td>3 x Berserker<br>1 x Gladiator's Finale</td></tr>
-    <tr><td>Outfits</td><td></td></tr>
+    <tr><td>Outfits</td><td>Orchid's Evening Gown</td></tr>
 </table>
 
 </td>

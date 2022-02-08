@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 6
+Total rewards claimed: 7
 \
-Last checked: 07.02.2022 16:49:12 UTC
+Last checked: 08.02.2022 16:48:01 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>370</td></tr>
-    <tr><td>Active days</td><td>388</td></tr>
+    <tr><td>Active days</td><td>389</td></tr>
     <tr><td>Characters</td><td>30</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -699,7 +699,7 @@ Last checked: 07.02.2022 16:49:12 UTC
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>40</td></tr>
     <tr><td>Friendship</td><td>2</td></tr>
-    <tr><td>Constellation</td><td>2</td></tr>
+    <tr><td>Constellation</td><td>3</td></tr>
     <tr><td>Artifacts</td><td>2 x Gambler<br>1 x Instructor<br>1 x Berserker</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
@@ -1068,6 +1068,41 @@ Last checked: 07.02.2022 16:49:12 UTC
 </td></tr>
 </table>
 
+### Yun Jin
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yunjin.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Blackrock.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Geo</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Blackcliff Pole</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
 ### Rosaria
 
 <table>
@@ -1132,41 +1167,6 @@ Last checked: 07.02.2022 16:49:12 UTC
     <tr><td>Name</td><td>Hunter's Bow</td></tr>
     <tr><td>Rarity</td><td>1</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Yun Jin
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yunjin.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Blackrock.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Geo</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td></td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Blackcliff Pole</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 

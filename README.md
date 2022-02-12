@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 10
+Total rewards claimed: 11
 \
-Last checked: 11.02.2022 16:41:10 UTC
+Last checked: 12.02.2022 16:44:55 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>370</td></tr>
-    <tr><td>Active days</td><td>392</td></tr>
+    <tr><td>Active days</td><td>393</td></tr>
     <tr><td>Characters</td><td>30</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -513,7 +513,7 @@ Last checked: 11.02.2022 16:41:10 UTC
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dvalin.png"></p></td>
 </tr>
 
 <tr>
@@ -534,9 +534,9 @@ Last checked: 11.02.2022 16:41:10 UTC
 <td>
 
 <table>
-    <tr><td>Name</td><td>Favonius Sword</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Name</td><td>Skyward Blade</td></tr>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 

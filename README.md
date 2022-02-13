@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 11
+Total rewards claimed: 12
 \
-Last checked: 12.02.2022 16:44:55 UTC
+Last checked: 13.02.2022 16:46:08 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>370</td></tr>
-    <tr><td>Active days</td><td>393</td></tr>
+    <tr><td>Active days</td><td>394</td></tr>
     <tr><td>Characters</td><td>30</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -313,7 +313,7 @@ Last checked: 12.02.2022 16:44:55 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>5</td></tr>
+    <tr><td>Friendship</td><td>6</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>2 x Shimenawa's Reminiscence<br>2 x Gladiator's Finale<br>1 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -536,7 +536,7 @@ Last checked: 12.02.2022 16:44:55 UTC
 <table>
     <tr><td>Name</td><td>Skyward Blade</td></tr>
     <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 

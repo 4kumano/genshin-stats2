@@ -1,21 +1,21 @@
 # My Genshin Stats
 
-Total rewards claimed: 13
+Total rewards claimed: 14
 \
-Last checked: 14.02.2022 16:45:18 UTC
+Last checked: 15.02.2022 16:42:49 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>370</td></tr>
-    <tr><td>Active days</td><td>394</td></tr>
+    <tr><td>Active days</td><td>395</td></tr>
     <tr><td>Characters</td><td>30</td></tr>
-    <tr><td>Spiral abyss</td><td>8-3</td></tr>
+    <tr><td>Spiral abyss</td><td>10-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
     <tr><td>Common chests</td><td>1078</td></tr>
-    <tr><td>Exquisite chests</td><td>938</td></tr>
+    <tr><td>Exquisite chests</td><td>939</td></tr>
     <tr><td>Precious chests</td><td>257</td></tr>
     <tr><td>Luxurious chests</td><td>107</td></tr>
     <tr><td>Unlocked waypoints</td><td>168</td></tr>
@@ -25,15 +25,15 @@ Last checked: 14.02.2022 16:45:18 UTC
 ## Spiral Abys
 
 <table>
-    <tr><td>Total battles</td><td>0</td></tr>
-    <tr><td>Total wins</td><td>0</td></tr>
-    <tr><td>Max floor</td><td>0-0</td></tr>
-    <tr><td>Total stars</td><td>0</td></tr>
-    <tr><td>Strongest hit</td><td>no strongest strike this seasson -> no strongest strike this seasson DMG</td></tr>
-    <tr><td>Most kills</td><td>replace_this_with_abys_most_kills_name -> replace_this_with_abys_most_kills_value</td></tr>
-    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
-    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
-    <tr><td>Most bursts used</td><td>replace_this_with_abys_most_bursts_used_name -> replace_this_with_abys_most_bursts_used_value</td></tr>
+    <tr><td>Total battles</td><td>6</td></tr>
+    <tr><td>Total wins</td><td>6</td></tr>
+    <tr><td>Max floor</td><td>10-3</td></tr>
+    <tr><td>Total stars</td><td>18</td></tr>
+    <tr><td>Strongest hit</td><td>Hu Tao -> 120148 DMG</td></tr>
+    <tr><td>Most kills</td><td>Eula -> 27</td></tr>
+    <tr><td>Most damage taken</td><td>Eula -> 48738 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Bennett -> 11</td></tr>
+    <tr><td>Most bursts used</td><td>Eula -> 33</td></tr>
 </table>
 
 

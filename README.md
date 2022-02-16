@@ -1,23 +1,23 @@
 # My Genshin Stats
 
-Total rewards claimed: 14
+Total rewards claimed: 15
 \
-Last checked: 15.02.2022 16:42:49 UTC
+Last checked: 16.02.2022 16:46:24 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>370</td></tr>
-    <tr><td>Active days</td><td>395</td></tr>
-    <tr><td>Characters</td><td>30</td></tr>
-    <tr><td>Spiral abyss</td><td>10-3</td></tr>
+    <tr><td>Achievements</td><td>377</td></tr>
+    <tr><td>Active days</td><td>396</td></tr>
+    <tr><td>Characters</td><td>31</td></tr>
+    <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
-    <tr><td>Common chests</td><td>1078</td></tr>
-    <tr><td>Exquisite chests</td><td>939</td></tr>
-    <tr><td>Precious chests</td><td>257</td></tr>
-    <tr><td>Luxurious chests</td><td>107</td></tr>
+    <tr><td>Common chests</td><td>1106</td></tr>
+    <tr><td>Exquisite chests</td><td>959</td></tr>
+    <tr><td>Precious chests</td><td>261</td></tr>
+    <tr><td>Luxurious chests</td><td>112</td></tr>
     <tr><td>Unlocked waypoints</td><td>168</td></tr>
     <tr><td>Unlocked domains</td><td>32</td></tr>
 </table>
@@ -25,15 +25,15 @@ Last checked: 15.02.2022 16:42:49 UTC
 ## Spiral Abys
 
 <table>
-    <tr><td>Total battles</td><td>6</td></tr>
-    <tr><td>Total wins</td><td>6</td></tr>
-    <tr><td>Max floor</td><td>10-3</td></tr>
-    <tr><td>Total stars</td><td>18</td></tr>
-    <tr><td>Strongest hit</td><td>Hu Tao -> 120148 DMG</td></tr>
-    <tr><td>Most kills</td><td>Eula -> 27</td></tr>
-    <tr><td>Most damage taken</td><td>Eula -> 48738 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Bennett -> 11</td></tr>
-    <tr><td>Most bursts used</td><td>Eula -> 33</td></tr>
+    <tr><td>Total battles</td><td>0</td></tr>
+    <tr><td>Total wins</td><td>0</td></tr>
+    <tr><td>Max floor</td><td>0-0</td></tr>
+    <tr><td>Total stars</td><td>0</td></tr>
+    <tr><td>Strongest hit</td><td>no strongest strike this seasson -> no strongest strike this seasson DMG</td></tr>
+    <tr><td>Most kills</td><td>replace_this_with_abys_most_kills_name -> replace_this_with_abys_most_kills_value</td></tr>
+    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
+    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
+    <tr><td>Most bursts used</td><td>replace_this_with_abys_most_bursts_used_name -> replace_this_with_abys_most_bursts_used_value</td></tr>
 </table>
 
 
@@ -59,7 +59,7 @@ Last checked: 15.02.2022 16:42:49 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>57.5%</td>
+                    <td>82.3%</td>
                 </tr>
                 <tr>
                     <td>Offering level</td>
@@ -338,7 +338,7 @@ Last checked: 15.02.2022 16:42:49 UTC
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Proto.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Troupe.png"></p></td>
 </tr>
 
 <tr>
@@ -359,9 +359,9 @@ Last checked: 15.02.2022 16:42:49 UTC
 <td>
 
 <table>
-    <tr><td>Name</td><td>Prototype Rancour</td></tr>
+    <tr><td>Name</td><td>The Flute</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>40</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
@@ -489,7 +489,7 @@ Last checked: 15.02.2022 16:42:49 UTC
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>70</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
-    <tr><td>Constellation</td><td>2</td></tr>
+    <tr><td>Constellation</td><td>5</td></tr>
     <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
@@ -503,6 +503,41 @@ Last checked: 15.02.2022 16:42:49 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Level</td><td>90</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+### Yanfei
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Feiyan.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Ludiharpastum.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Pyro</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>2</td></tr>
+    <tr><td>Artifacts</td><td>4 x Shimenawa's Reminiscence<br>1 x Maiden Beloved</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Dodoco Tales</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>40</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -538,41 +573,6 @@ Last checked: 15.02.2022 16:42:49 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Level</td><td>90</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Yanfei
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Feiyan.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Ludiharpastum.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Pyro</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>1</td></tr>
-    <tr><td>Artifacts</td><td>4 x Shimenawa's Reminiscence<br>1 x Maiden Beloved</td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Dodoco Tales</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>40</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -909,7 +909,7 @@ Last checked: 15.02.2022 16:42:49 UTC
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>2</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
@@ -1060,6 +1060,41 @@ Last checked: 15.02.2022 16:42:49 UTC
 
 <table>
     <tr><td>Name</td><td>Apprentice's Notes</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+### Thoma
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tohma.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Pyro</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Beginner's Protector</td></tr>
     <tr><td>Rarity</td><td>1</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>

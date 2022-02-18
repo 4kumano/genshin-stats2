@@ -2,13 +2,13 @@
 
 Total rewards claimed: 16
 \
-Last checked: 17.02.2022 16:47:04 UTC
+Last checked: 18.02.2022 16:46:04 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>378</td></tr>
-    <tr><td>Active days</td><td>397</td></tr>
+    <tr><td>Active days</td><td>398</td></tr>
     <tr><td>Characters</td><td>31</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -347,7 +347,7 @@ Last checked: 17.02.2022 16:47:04 UTC
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
-    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
     <tr><td>Friendship</td><td>7</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
     <tr><td>Artifacts</td><td>4 x Bloodstained Chivalry<br>1 x Maiden Beloved</td></tr>
@@ -452,7 +452,7 @@ Last checked: 17.02.2022 16:47:04 UTC
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Hydro</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>6</td></tr>
     <tr><td>Artifacts</td><td>2 x Wanderer's Troupe<br>1 x Tenacity of the Millelith<br>1 x Heart of Depth<br>1 x Emblem of Severed Fate</td></tr>
@@ -503,6 +503,41 @@ Last checked: 17.02.2022 16:47:04 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Level</td><td>90</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+### Barbara
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Hydro</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Friendship</td><td>5</td></tr>
+    <tr><td>Constellation</td><td>5</td></tr>
+    <tr><td>Artifacts</td><td>4 x Maiden Beloved<br>1 x Tenacity of the Millelith</td></tr>
+    <tr><td>Outfits</td><td>Summertime Sparkle</td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Thrilling Tales of Dragon Slayers</td></tr>
+    <tr><td>Rarity</td><td>3</td></tr>
+    <tr><td>Level</td><td>40</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -607,41 +642,6 @@ Last checked: 17.02.2022 16:47:04 UTC
     <tr><td>Name</td><td>White Tassel</td></tr>
     <tr><td>Rarity</td><td>3</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Barbara
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Hydro</td></tr>
-    <tr><td>Level</td><td>60</td></tr>
-    <tr><td>Friendship</td><td>5</td></tr>
-    <tr><td>Constellation</td><td>5</td></tr>
-    <tr><td>Artifacts</td><td>4 x Maiden Beloved<br>1 x Tenacity of the Millelith</td></tr>
-    <tr><td>Outfits</td><td>Summertime Sparkle</td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Thrilling Tales of Dragon Slayers</td></tr>
-    <tr><td>Rarity</td><td>3</td></tr>
-    <tr><td>Level</td><td>40</td></tr>
     <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
@@ -922,7 +922,7 @@ Last checked: 17.02.2022 16:47:04 UTC
     <tr><td>Name</td><td>Rust</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>4</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>

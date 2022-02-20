@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 17
+Total rewards claimed: 18
 \
-Last checked: 19.02.2022 16:45:20 UTC
+Last checked: 20.02.2022 16:44:49 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>379</td></tr>
-    <tr><td>Active days</td><td>399</td></tr>
+    <tr><td>Achievements</td><td>380</td></tr>
+    <tr><td>Active days</td><td>400</td></tr>
     <tr><td>Characters</td><td>31</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -152,6 +152,41 @@ Last checked: 19.02.2022 16:45:20 UTC
     <tr><td>Name</td><td>Royal Greatsword</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+### Qiqi
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Troupe.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Cryo</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Friendship</td><td>7</td></tr>
+    <tr><td>Constellation</td><td>3</td></tr>
+    <tr><td>Artifacts</td><td>4 x Bloodstained Chivalry<br>1 x Maiden Beloved</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>The Flute</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>40</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
@@ -333,41 +368,6 @@ Last checked: 19.02.2022 16:45:20 UTC
 </td></tr>
 </table>
 
-### Qiqi
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Troupe.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Element</td><td>Cryo</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Friendship</td><td>7</td></tr>
-    <tr><td>Constellation</td><td>2</td></tr>
-    <tr><td>Artifacts</td><td>4 x Bloodstained Chivalry<br>1 x Maiden Beloved</td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>The Flute</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
 ### Traveler
 
 <table>
@@ -536,7 +536,7 @@ Last checked: 19.02.2022 16:45:20 UTC
 <table>
     <tr><td>Name</td><td>Thrilling Tales of Dragon Slayers</td></tr>
     <tr><td>Rarity</td><td>3</td></tr>
-    <tr><td>Level</td><td>40</td></tr>
+    <tr><td>Level</td><td>50</td></tr>
     <tr><td>Refinement</td><td>5</td></tr>
 </table>
 

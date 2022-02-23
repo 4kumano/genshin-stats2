@@ -1,23 +1,23 @@
 # My Genshin Stats
 
-Total rewards claimed: 20
+Total rewards claimed: 21
 \
-Last checked: 22.02.2022 16:47:22 UTC
+Last checked: 23.02.2022 16:48:48 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>380</td></tr>
-    <tr><td>Active days</td><td>402</td></tr>
+    <tr><td>Active days</td><td>403</td></tr>
     <tr><td>Characters</td><td>31</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
-    <tr><td>Common chests</td><td>1106</td></tr>
-    <tr><td>Exquisite chests</td><td>959</td></tr>
-    <tr><td>Precious chests</td><td>264</td></tr>
-    <tr><td>Luxurious chests</td><td>112</td></tr>
+    <tr><td>Common chests</td><td>1113</td></tr>
+    <tr><td>Exquisite chests</td><td>962</td></tr>
+    <tr><td>Precious chests</td><td>265</td></tr>
+    <tr><td>Luxurious chests</td><td>113</td></tr>
     <tr><td>Unlocked waypoints</td><td>168</td></tr>
     <tr><td>Unlocked domains</td><td>32</td></tr>
 </table>
@@ -59,7 +59,7 @@ Last checked: 22.02.2022 16:47:22 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>82.3%</td>
+                    <td>86.9%</td>
                 </tr>
                 <tr>
                     <td>Offering level</td>
@@ -473,6 +473,41 @@ Last checked: 22.02.2022 16:47:22 UTC
 </td></tr>
 </table>
 
+### Barbara
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Hydro</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Friendship</td><td>5</td></tr>
+    <tr><td>Constellation</td><td>5</td></tr>
+    <tr><td>Artifacts</td><td>4 x Maiden Beloved<br>1 x Tenacity of the Millelith</td></tr>
+    <tr><td>Outfits</td><td>Summertime Sparkle</td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Thrilling Tales of Dragon Slayers</td></tr>
+    <tr><td>Rarity</td><td>3</td></tr>
+    <tr><td>Level</td><td>50</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
+</table>
+
+</td></tr>
+</table>
+
 ### Diona
 
 <table>
@@ -503,41 +538,6 @@ Last checked: 22.02.2022 16:47:22 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Level</td><td>90</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Barbara
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Hydro</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Friendship</td><td>5</td></tr>
-    <tr><td>Constellation</td><td>5</td></tr>
-    <tr><td>Artifacts</td><td>4 x Maiden Beloved<br>1 x Tenacity of the Millelith</td></tr>
-    <tr><td>Outfits</td><td>Summertime Sparkle</td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Thrilling Tales of Dragon Slayers</td></tr>
-    <tr><td>Rarity</td><td>3</td></tr>
-    <tr><td>Level</td><td>50</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -630,7 +630,7 @@ Last checked: 22.02.2022 16:47:22 UTC
     <tr><td>Level</td><td>60</td></tr>
     <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>6</td></tr>
-    <tr><td>Artifacts</td><td>2 x Gladiator's Finale<br>2 x Crimson Witch of Flames<br>1 x Adventurer</td></tr>
+    <tr><td>Artifacts</td><td>4 x Crimson Witch of Flames<br>1 x Emblem of Severed Fate</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 

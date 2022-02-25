@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 22
+Total rewards claimed: 23
 \
-Last checked: 24.02.2022 16:46:46 UTC
+Last checked: 25.02.2022 16:49:02 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>380</td></tr>
-    <tr><td>Active days</td><td>404</td></tr>
+    <tr><td>Achievements</td><td>381</td></tr>
+    <tr><td>Active days</td><td>405</td></tr>
     <tr><td>Characters</td><td>31</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -280,7 +280,7 @@ Last checked: 24.02.2022 16:46:46 UTC
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x Noblesse Oblige<br>2 x Crimson Witch of Flames<br>1 x Viridescent Venerer</td></tr>
+    <tr><td>Artifacts</td><td>2 x Noblesse Oblige<br>2 x Crimson Witch of Flames<br>1 x Husk of Opulent Dreams</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -523,7 +523,7 @@ Last checked: 24.02.2022 16:46:46 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Pyro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>9</td></tr>
+    <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Crimson Witch of Flames</td></tr>
     <tr><td>Outfits</td><td></td></tr>

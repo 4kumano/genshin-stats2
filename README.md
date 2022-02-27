@@ -2,20 +2,20 @@
 
 Total rewards claimed: 24
 \
-Last checked: 26.02.2022 16:45:06 UTC
+Last checked: 27.02.2022 16:45:14 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>381</td></tr>
-    <tr><td>Active days</td><td>405</td></tr>
+    <tr><td>Active days</td><td>407</td></tr>
     <tr><td>Characters</td><td>31</td></tr>
-    <tr><td>Spiral abyss</td><td>8-3</td></tr>
+    <tr><td>Spiral abyss</td><td>9-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
     <tr><td>Common chests</td><td>1113</td></tr>
-    <tr><td>Exquisite chests</td><td>962</td></tr>
+    <tr><td>Exquisite chests</td><td>963</td></tr>
     <tr><td>Precious chests</td><td>265</td></tr>
     <tr><td>Luxurious chests</td><td>113</td></tr>
     <tr><td>Unlocked waypoints</td><td>168</td></tr>
@@ -25,15 +25,15 @@ Last checked: 26.02.2022 16:45:06 UTC
 ## Spiral Abys
 
 <table>
-    <tr><td>Total battles</td><td>0</td></tr>
-    <tr><td>Total wins</td><td>0</td></tr>
-    <tr><td>Max floor</td><td>0-0</td></tr>
-    <tr><td>Total stars</td><td>0</td></tr>
-    <tr><td>Strongest hit</td><td>no strongest strike this seasson -> no strongest strike this seasson DMG</td></tr>
-    <tr><td>Most kills</td><td>replace_this_with_abys_most_kills_name -> replace_this_with_abys_most_kills_value</td></tr>
-    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
-    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
-    <tr><td>Most bursts used</td><td>replace_this_with_abys_most_bursts_used_name -> replace_this_with_abys_most_bursts_used_value</td></tr>
+    <tr><td>Total battles</td><td>3</td></tr>
+    <tr><td>Total wins</td><td>3</td></tr>
+    <tr><td>Max floor</td><td>9-3</td></tr>
+    <tr><td>Total stars</td><td>9</td></tr>
+    <tr><td>Strongest hit</td><td>Eula -> 179850 DMG</td></tr>
+    <tr><td>Most kills</td><td>Eula -> 19</td></tr>
+    <tr><td>Most damage taken</td><td>Hu Tao -> 32590 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Bennett -> 8</td></tr>
+    <tr><td>Most bursts used</td><td>Eula -> 22</td></tr>
 </table>
 
 
@@ -95,7 +95,7 @@ Last checked: 26.02.2022 16:45:06 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>87.0%</td>
+                    <td>87.1%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -1068,6 +1068,41 @@ Last checked: 26.02.2022 16:45:06 UTC
 </td></tr>
 </table>
 
+### Rosaria
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Cryo</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>1</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td>To the Church's Free Spirit</td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Beginner's Protector</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
 ### Thoma
 
 <table>
@@ -1132,41 +1167,6 @@ Last checked: 26.02.2022 16:45:06 UTC
     <tr><td>Name</td><td>Blackcliff Pole</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Rosaria
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Rosaria.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Cryo</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td></td></tr>
-    <tr><td>Outfits</td><td>To the Church's Free Spirit</td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Beginner's Protector</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 

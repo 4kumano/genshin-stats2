@@ -1,8 +1,8 @@
 # My Genshin Stats
 
-Total rewards claimed: 3
+Total rewards claimed: 4
 \
-Last checked: 03.03.2022 16:48:52 UTC
+Last checked: 04.03.2022 16:47:20 UTC
 
 ## Stats
 
@@ -256,7 +256,7 @@ Last checked: 03.03.2022 16:48:52 UTC
 <table>
     <tr><td>Name</td><td>Blackcliff Warbow</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 

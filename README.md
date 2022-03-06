@@ -1,16 +1,16 @@
 # My Genshin Stats
 
-Total rewards claimed: 5
+Total rewards claimed: 6
 \
-Last checked: 05.03.2022 16:45:16 UTC
+Last checked: 06.03.2022 16:45:28 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>381</td></tr>
-    <tr><td>Active days</td><td>412</td></tr>
+    <tr><td>Active days</td><td>414</td></tr>
     <tr><td>Characters</td><td>31</td></tr>
-    <tr><td>Spiral abyss</td><td>8-3</td></tr>
+    <tr><td>Spiral abyss</td><td>10-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
@@ -25,15 +25,15 @@ Last checked: 05.03.2022 16:45:16 UTC
 ## Spiral Abys
 
 <table>
-    <tr><td>Total battles</td><td>0</td></tr>
-    <tr><td>Total wins</td><td>0</td></tr>
-    <tr><td>Max floor</td><td>0-0</td></tr>
-    <tr><td>Total stars</td><td>0</td></tr>
-    <tr><td>Strongest hit</td><td>no strongest strike this seasson -> no strongest strike this seasson DMG</td></tr>
-    <tr><td>Most kills</td><td>replace_this_with_abys_most_kills_name -> replace_this_with_abys_most_kills_value</td></tr>
-    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
-    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
-    <tr><td>Most bursts used</td><td>replace_this_with_abys_most_bursts_used_name -> replace_this_with_abys_most_bursts_used_value</td></tr>
+    <tr><td>Total battles</td><td>6</td></tr>
+    <tr><td>Total wins</td><td>6</td></tr>
+    <tr><td>Max floor</td><td>10-3</td></tr>
+    <tr><td>Total stars</td><td>18</td></tr>
+    <tr><td>Strongest hit</td><td>Hu Tao -> 217752 DMG</td></tr>
+    <tr><td>Most kills</td><td>Hu Tao -> 30</td></tr>
+    <tr><td>Most damage taken</td><td>Hu Tao -> 95399 DMG</td></tr>
+    <tr><td>Most skills used</td><td>Bennett -> 14</td></tr>
+    <tr><td>Most bursts used</td><td>Bennett -> 51</td></tr>
 </table>
 
 
@@ -977,7 +977,7 @@ Last checked: 05.03.2022 16:45:16 UTC
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Pyro</td></tr>
-    <tr><td>Level</td><td>17</td></tr>
+    <tr><td>Level</td><td>18</td></tr>
     <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>3 x Traveling Doctor<br>1 x Lucky Dog<br>1 x Adventurer</td></tr>

@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 9
+Total rewards claimed: 10
 \
-Last checked: 09.03.2022 16:47:59 UTC
+Last checked: 10.03.2022 16:47:49 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>381</td></tr>
-    <tr><td>Active days</td><td>416</td></tr>
+    <tr><td>Active days</td><td>418</td></tr>
     <tr><td>Characters</td><td>31</td></tr>
     <tr><td>Spiral abyss</td><td>10-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -383,7 +383,7 @@ Last checked: 09.03.2022 16:47:59 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Geo</td></tr>
     <tr><td>Level</td><td>20</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>0</td></tr>
     <tr><td>Constellation</td><td>6</td></tr>
     <tr><td>Artifacts</td><td>2 x Adventurer<br>1 x Traveling Doctor<br>1 x Noblesse Oblige</td></tr>
     <tr><td>Outfits</td><td></td></tr>

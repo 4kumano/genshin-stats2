@@ -1,8 +1,8 @@
 # My Genshin Stats
 
-Total rewards claimed: 12
+Total rewards claimed: 13
 \
-Last checked: 12.03.2022 16:45:28 UTC
+Last checked: 13.03.2022 16:46:19 UTC
 
 ## Stats
 
@@ -348,7 +348,7 @@ Last checked: 12.03.2022 16:45:28 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>6</td></tr>
+    <tr><td>Friendship</td><td>7</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>2 x Shimenawa's Reminiscence<br>2 x Gladiator's Finale<br>1 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>

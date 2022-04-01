@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 0
+Total rewards claimed: 1
 \
-Last checked: 31.03.2022 16:49:19 UTC
+Last checked: 01.04.2022 16:51:14 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>381</td></tr>
-    <tr><td>Active days</td><td>437</td></tr>
+    <tr><td>Active days</td><td>439</td></tr>
     <tr><td>Characters</td><td>31</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -245,7 +245,7 @@ Last checked: 31.03.2022 16:49:19 UTC
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>2 x Gladiator's Finale<br>2 x Blizzard Strayer<br>1 x Pale Flame</td></tr>
+    <tr><td>Artifacts</td><td>4 x Wanderer's Troupe<br>1 x Blizzard Strayer</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 

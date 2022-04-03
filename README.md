@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 2
+Total rewards claimed: 3
 \
-Last checked: 02.04.2022 16:46:22 UTC
+Last checked: 03.04.2022 16:46:21 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>388</td></tr>
-    <tr><td>Active days</td><td>440</td></tr>
+    <tr><td>Achievements</td><td>389</td></tr>
+    <tr><td>Active days</td><td>441</td></tr>
     <tr><td>Characters</td><td>31</td></tr>
     <tr><td>Spiral abyss</td><td>10-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -663,7 +663,7 @@ Last checked: 02.04.2022 16:46:22 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Anemo</td></tr>
     <tr><td>Level</td><td>50</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>3</td></tr>
     <tr><td>Artifacts</td><td>4 x Viridescent Venerer<br>1 x Shimenawa's Reminiscence</td></tr>
     <tr><td>Outfits</td><td></td></tr>

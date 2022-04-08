@@ -1,22 +1,22 @@
 # My Genshin Stats
 
-Total rewards claimed: 5
+Total rewards claimed: 6
 \
-Last checked: 07.04.2022 16:48:06 UTC
+Last checked: 08.04.2022 16:50:25 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>404</td></tr>
-    <tr><td>Active days</td><td>445</td></tr>
+    <tr><td>Achievements</td><td>405</td></tr>
+    <tr><td>Active days</td><td>446</td></tr>
     <tr><td>Characters</td><td>31</td></tr>
     <tr><td>Spiral abyss</td><td>10-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
-    <tr><td>Common chests</td><td>1197</td></tr>
-    <tr><td>Exquisite chests</td><td>1004</td></tr>
-    <tr><td>Precious chests</td><td>283</td></tr>
+    <tr><td>Common chests</td><td>1204</td></tr>
+    <tr><td>Exquisite chests</td><td>1008</td></tr>
+    <tr><td>Precious chests</td><td>285</td></tr>
     <tr><td>Luxurious chests</td><td>118</td></tr>
     <tr><td>Unlocked waypoints</td><td>168</td></tr>
     <tr><td>Unlocked domains</td><td>33</td></tr>
@@ -32,7 +32,7 @@ Last checked: 07.04.2022 16:48:06 UTC
     <tr><td>Strongest hit</td><td>Eula -> 218570 DMG</td></tr>
     <tr><td>Most kills</td><td>Eula -> 31</td></tr>
     <tr><td>Most damage taken</td><td>Hu Tao -> 50426 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Diona -> 8</td></tr>
+    <tr><td>Most skills used</td><td>Bennett -> 8</td></tr>
     <tr><td>Most bursts used</td><td>Bennett -> 40</td></tr>
 </table>
 

@@ -1,21 +1,21 @@
 # My Genshin Stats
 
-Total rewards claimed: 9
+Total rewards claimed: 10
 \
-Last checked: 11.04.2022 16:50:50 UTC
+Last checked: 12.04.2022 16:49:13 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>407</td></tr>
-    <tr><td>Active days</td><td>449</td></tr>
-    <tr><td>Characters</td><td>31</td></tr>
+    <tr><td>Achievements</td><td>411</td></tr>
+    <tr><td>Active days</td><td>450</td></tr>
+    <tr><td>Characters</td><td>32</td></tr>
     <tr><td>Spiral abyss</td><td>10-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
-    <tr><td>Common chests</td><td>1204</td></tr>
-    <tr><td>Exquisite chests</td><td>1008</td></tr>
+    <tr><td>Common chests</td><td>1210</td></tr>
+    <tr><td>Exquisite chests</td><td>1011</td></tr>
     <tr><td>Precious chests</td><td>285</td></tr>
     <tr><td>Luxurious chests</td><td>118</td></tr>
     <tr><td>Unlocked waypoints</td><td>168</td></tr>
@@ -32,7 +32,7 @@ Last checked: 11.04.2022 16:50:50 UTC
     <tr><td>Strongest hit</td><td>Eula -> 218570 DMG</td></tr>
     <tr><td>Most kills</td><td>Eula -> 31</td></tr>
     <tr><td>Most damage taken</td><td>Hu Tao -> 50426 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Diona -> 8</td></tr>
+    <tr><td>Most skills used</td><td>Bennett -> 8</td></tr>
     <tr><td>Most bursts used</td><td>Bennett -> 40</td></tr>
 </table>
 
@@ -368,6 +368,41 @@ Last checked: 11.04.2022 16:50:50 UTC
 </td></tr>
 </table>
 
+### Kamisato Ayato
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dvalin.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Hydro</td></tr>
+    <tr><td>Level</td><td>50</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>3 x Gladiator's Finale<br>1 x Shimenawa's Reminiscence<br>1 x Pale Flame</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Skyward Blade</td></tr>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
 ### Traveler
 
 <table>
@@ -513,7 +548,7 @@ Last checked: 11.04.2022 16:50:50 UTC
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dvalin.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"></p></td>
 </tr>
 
 <tr>
@@ -534,9 +569,9 @@ Last checked: 11.04.2022 16:50:50 UTC
 <td>
 
 <table>
-    <tr><td>Name</td><td>Skyward Blade</td></tr>
-    <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Name</td><td>Dull Blade</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 

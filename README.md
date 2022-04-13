@@ -2,19 +2,19 @@
 
 Total rewards claimed: 10
 \
-Last checked: 12.04.2022 16:49:13 UTC
+Last checked: 13.04.2022 16:50:33 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>411</td></tr>
-    <tr><td>Active days</td><td>450</td></tr>
+    <tr><td>Active days</td><td>451</td></tr>
     <tr><td>Characters</td><td>32</td></tr>
     <tr><td>Spiral abyss</td><td>10-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
-    <tr><td>Common chests</td><td>1210</td></tr>
+    <tr><td>Common chests</td><td>1212</td></tr>
     <tr><td>Exquisite chests</td><td>1011</td></tr>
     <tr><td>Precious chests</td><td>285</td></tr>
     <tr><td>Luxurious chests</td><td>118</td></tr>
@@ -32,7 +32,7 @@ Last checked: 12.04.2022 16:49:13 UTC
     <tr><td>Strongest hit</td><td>Eula -> 218570 DMG</td></tr>
     <tr><td>Most kills</td><td>Eula -> 31</td></tr>
     <tr><td>Most damage taken</td><td>Hu Tao -> 50426 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Bennett -> 8</td></tr>
+    <tr><td>Most skills used</td><td>Diona -> 8</td></tr>
     <tr><td>Most bursts used</td><td>Bennett -> 40</td></tr>
 </table>
 

@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 11
+Total rewards claimed: 12
 \
-Last checked: 14.04.2022 16:51:23 UTC
+Last checked: 15.04.2022 16:51:19 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>411</td></tr>
-    <tr><td>Active days</td><td>452</td></tr>
+    <tr><td>Active days</td><td>453</td></tr>
     <tr><td>Characters</td><td>32</td></tr>
     <tr><td>Spiral abyss</td><td>10-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -758,7 +758,7 @@ Last checked: 14.04.2022 16:51:23 UTC
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Lisa.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"></p></td>
 </tr>
 
 <tr>
@@ -779,10 +779,10 @@ Last checked: 14.04.2022 16:51:23 UTC
 <td>
 
 <table>
-    <tr><td>Name</td><td>Apprentice's Notes</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Name</td><td>The Widsith</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>2</td></tr>
 </table>
 
 </td></tr>
@@ -816,7 +816,7 @@ Last checked: 14.04.2022 16:51:23 UTC
 <table>
     <tr><td>Name</td><td>Cool Steel</td></tr>
     <tr><td>Rarity</td><td>3</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
     <tr><td>Refinement</td><td>5</td></tr>
 </table>
 

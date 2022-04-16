@@ -1,16 +1,16 @@
 # My Genshin Stats
 
-Total rewards claimed: 12
+Total rewards claimed: 13
 \
-Last checked: 15.04.2022 16:51:19 UTC
+Last checked: 16.04.2022 16:47:14 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>411</td></tr>
-    <tr><td>Active days</td><td>453</td></tr>
+    <tr><td>Active days</td><td>454</td></tr>
     <tr><td>Characters</td><td>32</td></tr>
-    <tr><td>Spiral abyss</td><td>10-3</td></tr>
+    <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
@@ -25,15 +25,15 @@ Last checked: 15.04.2022 16:51:19 UTC
 ## Spiral Abys
 
 <table>
-    <tr><td>Total battles</td><td>6</td></tr>
-    <tr><td>Total wins</td><td>6</td></tr>
-    <tr><td>Max floor</td><td>10-3</td></tr>
-    <tr><td>Total stars</td><td>18</td></tr>
-    <tr><td>Strongest hit</td><td>Eula -> 218570 DMG</td></tr>
-    <tr><td>Most kills</td><td>Eula -> 31</td></tr>
-    <tr><td>Most damage taken</td><td>Hu Tao -> 50426 DMG</td></tr>
-    <tr><td>Most skills used</td><td>Bennett -> 8</td></tr>
-    <tr><td>Most bursts used</td><td>Bennett -> 40</td></tr>
+    <tr><td>Total battles</td><td>0</td></tr>
+    <tr><td>Total wins</td><td>0</td></tr>
+    <tr><td>Max floor</td><td>0-0</td></tr>
+    <tr><td>Total stars</td><td>0</td></tr>
+    <tr><td>Strongest hit</td><td>no strongest strike this seasson -> no strongest strike this seasson DMG</td></tr>
+    <tr><td>Most kills</td><td>replace_this_with_abys_most_kills_name -> replace_this_with_abys_most_kills_value</td></tr>
+    <tr><td>Most damage taken</td><td>no most damage taken this seasson -> no most damage taken this seasson DMG</td></tr>
+    <tr><td>Most skills used</td><td>no most skills used this seasson -> no most skills used this seasson</td></tr>
+    <tr><td>Most bursts used</td><td>replace_this_with_abys_most_bursts_used_name -> replace_this_with_abys_most_bursts_used_value</td></tr>
 </table>
 
 
@@ -348,7 +348,7 @@ Last checked: 15.04.2022 16:51:19 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>7</td></tr>
+    <tr><td>Friendship</td><td>8</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>2 x Shimenawa's Reminiscence<br>2 x Gladiator's Finale<br>1 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>

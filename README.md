@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 14
+Total rewards claimed: 15
 \
-Last checked: 17.04.2022 16:47:03 UTC
+Last checked: 18.04.2022 16:52:00 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>411</td></tr>
-    <tr><td>Active days</td><td>455</td></tr>
+    <tr><td>Active days</td><td>456</td></tr>
     <tr><td>Characters</td><td>32</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -17,7 +17,7 @@ Last checked: 17.04.2022 16:47:03 UTC
     <tr><td>Common chests</td><td>1212</td></tr>
     <tr><td>Exquisite chests</td><td>1011</td></tr>
     <tr><td>Precious chests</td><td>285</td></tr>
-    <tr><td>Luxurious chests</td><td>118</td></tr>
+    <tr><td>Luxurious chests</td><td>119</td></tr>
     <tr><td>Unlocked waypoints</td><td>168</td></tr>
     <tr><td>Unlocked domains</td><td>33</td></tr>
 </table>
@@ -41,6 +41,8 @@ Last checked: 17.04.2022 16:47:03 UTC
 
 <table>
     <tr>
+        <th>The Chasm: Underground Mines</th>
+        <th>The Chasm</th>
         <th>Enkanomiya</th>
         <th>Inazuma</th>
         <th>Dragonspine</th>
@@ -48,6 +50,8 @@ Last checked: 17.04.2022 16:47:03 UTC
         <th>Mondstadt</th>
     </tr>
     <tr>
+        <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_ChasmsMaw.png" width="180"></p></td>
+        <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_ChasmsMaw.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Enkanomiya.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Daoqi.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Dragonspine.png" width="180"></p></td>
@@ -55,6 +59,30 @@ Last checked: 17.04.2022 16:47:03 UTC
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Mengde.png" width="180"></p></td>
     </tr>
     <tr>
+        <td>
+            <table>
+                <tr>
+                    <td>Explored</td>
+                    <td>68.6%</td>
+                </tr>
+                <tr>
+                    <td>Offering level</td>
+                    <td>7</td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td>Explored</td>
+                    <td>25.6%</td>
+                </tr>
+                <tr>
+                    <td>Offering level</td>
+                    <td>7</td>
+                </tr>
+            </table>
+        </td>
         <td>
             <table>
                 <tr>
@@ -769,7 +797,7 @@ Last checked: 17.04.2022 16:47:03 UTC
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>38</td></tr>
     <tr><td>Friendship</td><td>3</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Constellation</td><td>1</td></tr>
     <tr><td>Artifacts</td><td>2 x The Exile<br>2 x Berserker<br>1 x Traveling Doctor</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>

@@ -1,23 +1,23 @@
 # My Genshin Stats
 
-Total rewards claimed: 16
+Total rewards claimed: 17
 \
-Last checked: 19.04.2022 16:54:46 UTC
+Last checked: 20.04.2022 16:56:59 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>411</td></tr>
-    <tr><td>Active days</td><td>457</td></tr>
+    <tr><td>Achievements</td><td>421</td></tr>
+    <tr><td>Active days</td><td>458</td></tr>
     <tr><td>Characters</td><td>32</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
-    <tr><td>Common chests</td><td>1212</td></tr>
-    <tr><td>Exquisite chests</td><td>1011</td></tr>
-    <tr><td>Precious chests</td><td>285</td></tr>
-    <tr><td>Luxurious chests</td><td>119</td></tr>
+    <tr><td>Common chests</td><td>1249</td></tr>
+    <tr><td>Exquisite chests</td><td>1025</td></tr>
+    <tr><td>Precious chests</td><td>294</td></tr>
+    <tr><td>Luxurious chests</td><td>121</td></tr>
     <tr><td>Unlocked waypoints</td><td>168</td></tr>
     <tr><td>Unlocked domains</td><td>33</td></tr>
 </table>
@@ -63,11 +63,11 @@ Last checked: 19.04.2022 16:54:46 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>68.6%</td>
+                    <td>97.6%</td>
                 </tr>
                 <tr>
                     <td>Offering level</td>
-                    <td>7</td>
+                    <td>10</td>
                 </tr>
             </table>
         </td>
@@ -75,11 +75,11 @@ Last checked: 19.04.2022 16:54:46 UTC
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>25.6%</td>
+                    <td>26.5%</td>
                 </tr>
                 <tr>
                     <td>Offering level</td>
-                    <td>7</td>
+                    <td>10</td>
                 </tr>
             </table>
         </td>
@@ -410,8 +410,8 @@ Last checked: 19.04.2022 16:54:46 UTC
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Hydro</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Gladiator's Finale<br>1 x Shimenawa's Reminiscence</td></tr>
     <tr><td>Outfits</td><td></td></tr>

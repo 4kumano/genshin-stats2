@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 19
+Total rewards claimed: 20
 \
-Last checked: 23.04.2022 16:47:58 UTC
+Last checked: 24.04.2022 16:47:45 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>421</td></tr>
-    <tr><td>Active days</td><td>461</td></tr>
+    <tr><td>Active days</td><td>462</td></tr>
     <tr><td>Characters</td><td>32</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -576,7 +576,7 @@ Last checked: 23.04.2022 16:47:58 UTC
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png"></p></td>
 </tr>
 
 <tr>
@@ -597,10 +597,10 @@ Last checked: 23.04.2022 16:47:58 UTC
 <td>
 
 <table>
-    <tr><td>Name</td><td>Dull Blade</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
+    <tr><td>Name</td><td>Favonius Sword</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Refinement</td><td>3</td></tr>
 </table>
 
 </td></tr>

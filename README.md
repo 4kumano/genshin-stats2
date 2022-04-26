@@ -2,13 +2,13 @@
 
 Total rewards claimed: 21
 \
-Last checked: 25.04.2022 16:50:51 UTC
+Last checked: 26.04.2022 16:52:45 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>421</td></tr>
-    <tr><td>Active days</td><td>463</td></tr>
+    <tr><td>Active days</td><td>464</td></tr>
     <tr><td>Characters</td><td>32</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -529,7 +529,7 @@ Last checked: 25.04.2022 16:50:51 UTC
 <table>
     <tr><td>Name</td><td>Sacrificial Sword</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
     <tr><td>Refinement</td><td>4</td></tr>
 </table>
 
@@ -599,7 +599,7 @@ Last checked: 25.04.2022 16:50:51 UTC
 <table>
     <tr><td>Name</td><td>Favonius Sword</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>60</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
     <tr><td>Refinement</td><td>3</td></tr>
 </table>
 

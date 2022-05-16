@@ -2,13 +2,13 @@
 
 Total rewards claimed: 13
 \
-Last checked: 15.05.2022 16:52:27 UTC
+Last checked: 16.05.2022 16:54:09 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>422</td></tr>
-    <tr><td>Active days</td><td>479</td></tr>
+    <tr><td>Active days</td><td>481</td></tr>
     <tr><td>Characters</td><td>32</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -411,7 +411,7 @@ Last checked: 15.05.2022 16:52:27 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Hydro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>6</td></tr>
+    <tr><td>Friendship</td><td>7</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Gladiator's Finale<br>1 x Shimenawa's Reminiscence</td></tr>
     <tr><td>Outfits</td><td></td></tr>

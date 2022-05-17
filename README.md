@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 13
+Total rewards claimed: 14
 \
-Last checked: 16.05.2022 16:54:09 UTC
+Last checked: 17.05.2022 16:54:56 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>422</td></tr>
-    <tr><td>Active days</td><td>481</td></tr>
+    <tr><td>Active days</td><td>482</td></tr>
     <tr><td>Characters</td><td>32</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -308,7 +308,7 @@ Last checked: 16.05.2022 16:54:09 UTC
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>3 x Wanderer's Troupe<br>1 x Tenacity of the Millelith<br>1 x Blizzard Strayer</td></tr>
+    <tr><td>Artifacts</td><td>4 x Wanderer's Troupe<br>1 x Blizzard Strayer</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -518,7 +518,7 @@ Last checked: 16.05.2022 16:54:09 UTC
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>6</td></tr>
-    <tr><td>Artifacts</td><td>2 x Heart of Depth<br>2 x Emblem of Severed Fate<br>1 x Wanderer's Troupe</td></tr>
+    <tr><td>Artifacts</td><td>2 x Heart of Depth<br>2 x Emblem of Severed Fate<br>1 x Tenacity of the Millelith</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 

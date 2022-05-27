@@ -2,7 +2,7 @@
 
 Total rewards claimed: 22
 \
-Last checked: 26.05.2022 16:53:07 UTC
+Last checked: 27.05.2022 16:53:16 UTC
 
 ## Stats
 

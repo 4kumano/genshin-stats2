@@ -2,13 +2,13 @@
 
 Total rewards claimed: 2
 \
-Last checked: 02.06.2022 16:56:28 UTC
+Last checked: 03.06.2022 16:49:22 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>423</td></tr>
-    <tr><td>Active days</td><td>487</td></tr>
+    <tr><td>Active days</td><td>488</td></tr>
     <tr><td>Characters</td><td>32</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>

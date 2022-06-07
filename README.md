@@ -1,8 +1,8 @@
 # My Genshin Stats
 
-Total rewards claimed: 3
+Total rewards claimed: 4
 \
-Last checked: 06.06.2022 16:51:34 UTC
+Last checked: 07.06.2022 16:51:47 UTC
 
 ## Stats
 
@@ -18,8 +18,8 @@ Last checked: 06.06.2022 16:51:34 UTC
     <tr><td>Exquisite chests</td><td>1025</td></tr>
     <tr><td>Precious chests</td><td>294</td></tr>
     <tr><td>Luxurious chests</td><td>121</td></tr>
-    <tr><td>Unlocked waypoints</td><td>168</td></tr>
-    <tr><td>Unlocked domains</td><td>33</td></tr>
+    <tr><td>Unlocked waypoints</td><td>189</td></tr>
+    <tr><td>Unlocked domains</td><td>35</td></tr>
 </table>
 
 ## Spiral Abys

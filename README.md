@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 5
+Total rewards claimed: 6
 \
-Last checked: 08.06.2022 16:48:13 UTC
+Last checked: 09.06.2022 16:51:45 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>423</td></tr>
-    <tr><td>Active days</td><td>488</td></tr>
+    <tr><td>Achievements</td><td>424</td></tr>
+    <tr><td>Active days</td><td>489</td></tr>
     <tr><td>Characters</td><td>32</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -411,7 +411,7 @@ Last checked: 08.06.2022 16:48:13 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Hydro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>7</td></tr>
+    <tr><td>Friendship</td><td>8</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Gladiator's Finale<br>1 x Shimenawa's Reminiscence</td></tr>
     <tr><td>Outfits</td><td></td></tr>

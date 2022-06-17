@@ -1,22 +1,22 @@
 # My Genshin Stats
 
-Total rewards claimed: 12
+Total rewards claimed: 13
 \
-Last checked: 16.06.2022 16:51:07 UTC
+Last checked: 17.06.2022 16:48:50 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>424</td></tr>
-    <tr><td>Active days</td><td>490</td></tr>
+    <tr><td>Active days</td><td>491</td></tr>
     <tr><td>Characters</td><td>32</td></tr>
-    <tr><td>Spiral abyss</td><td>-</td></tr>
+    <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
     <tr><td>Common chests</td><td>1249</td></tr>
-    <tr><td>Exquisite chests</td><td>1025</td></tr>
-    <tr><td>Precious chests</td><td>294</td></tr>
+    <tr><td>Exquisite chests</td><td>1026</td></tr>
+    <tr><td>Precious chests</td><td>295</td></tr>
     <tr><td>Luxurious chests</td><td>121</td></tr>
     <tr><td>Unlocked waypoints</td><td>189</td></tr>
     <tr><td>Unlocked domains</td><td>35</td></tr>
@@ -851,6 +851,41 @@ Last checked: 16.06.2022 16:51:07 UTC
 </td></tr>
 </table>
 
+### Noelle
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Noel.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Troupe.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Geo</td></tr>
+    <tr><td>Level</td><td>20</td></tr>
+    <tr><td>Friendship</td><td>3</td></tr>
+    <tr><td>Constellation</td><td>4</td></tr>
+    <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Bloodstained Chivalry</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>The Bell</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>3</td></tr>
+</table>
+
+</td></tr>
+</table>
+
 ### Fischl
 
 <table>
@@ -916,41 +951,6 @@ Last checked: 16.06.2022 16:51:07 UTC
     <tr><td>Rarity</td><td>1</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Noelle
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Noel.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Troupe.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Geo</td></tr>
-    <tr><td>Level</td><td>20</td></tr>
-    <tr><td>Friendship</td><td>3</td></tr>
-    <tr><td>Constellation</td><td>3</td></tr>
-    <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Bloodstained Chivalry</td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>The Bell</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>3</td></tr>
 </table>
 
 </td></tr>

@@ -1,14 +1,14 @@
 # My Genshin Stats
 
-Total rewards claimed: 5
+Total rewards claimed: 6
 \
-Last checked: 05.07.2022 16:54:21 UTC
+Last checked: 06.07.2022 16:52:53 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>430</td></tr>
-    <tr><td>Active days</td><td>495</td></tr>
+    <tr><td>Active days</td><td>496</td></tr>
     <tr><td>Characters</td><td>32</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -151,6 +151,76 @@ Last checked: 05.07.2022 16:54:21 UTC
 ## Characters
 
 
+### Jean
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dawn.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Anemo</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Friendship</td><td>10</td></tr>
+    <tr><td>Constellation</td><td>2</td></tr>
+    <tr><td>Artifacts</td><td>2 x Viridescent Venerer<br>2 x Gladiator's Finale<br>1 x Maiden Beloved</td></tr>
+    <tr><td>Outfits</td><td>Gunnhildr's Legacy</td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Harbinger of Dawn</td></tr>
+    <tr><td>Rarity</td><td>3</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+### Kamisato Ayato
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dvalin.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Hydro</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Friendship</td><td>8</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>4 x Gladiator's Finale<br>1 x Shimenawa's Reminiscence</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Skyward Blade</td></tr>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
 ### Eula
 
 <table>
@@ -251,41 +321,6 @@ Last checked: 05.07.2022 16:54:21 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>40</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Jean
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dawn.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Element</td><td>Anemo</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>10</td></tr>
-    <tr><td>Constellation</td><td>2</td></tr>
-    <tr><td>Artifacts</td><td>2 x Viridescent Venerer<br>2 x Gladiator's Finale<br>1 x Maiden Beloved</td></tr>
-    <tr><td>Outfits</td><td>Gunnhildr's Legacy</td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Harbinger of Dawn</td></tr>
-    <tr><td>Rarity</td><td>3</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -396,41 +431,6 @@ Last checked: 05.07.2022 16:54:21 UTC
 </td></tr>
 </table>
 
-### Kamisato Ayato
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dvalin.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Element</td><td>Hydro</td></tr>
-    <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>8</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>4 x Gladiator's Finale<br>1 x Shimenawa's Reminiscence</td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Skyward Blade</td></tr>
-    <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
 ### Traveler
 
 <table>
@@ -536,6 +536,41 @@ Last checked: 05.07.2022 16:54:21 UTC
 </td></tr>
 </table>
 
+### Diona
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Cryo</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
+    <tr><td>Friendship</td><td>10</td></tr>
+    <tr><td>Constellation</td><td>5</td></tr>
+    <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Elegy for the End</td></tr>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
 ### Barbara
 
 <table>
@@ -601,41 +636,6 @@ Last checked: 05.07.2022 16:54:21 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>70</td></tr>
     <tr><td>Refinement</td><td>3</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Diona
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Cryo</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
-    <tr><td>Friendship</td><td>10</td></tr>
-    <tr><td>Constellation</td><td>5</td></tr>
-    <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Elegy for the End</td></tr>
-    <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>
@@ -867,7 +867,7 @@ Last checked: 05.07.2022 16:54:21 UTC
     <tr><td>Element</td><td>Geo</td></tr>
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Friendship</td><td>3</td></tr>
-    <tr><td>Constellation</td><td>4</td></tr>
+    <tr><td>Constellation</td><td>5</td></tr>
     <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Bloodstained Chivalry</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>

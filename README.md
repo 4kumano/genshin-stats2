@@ -1,8 +1,8 @@
 # My Genshin Stats
 
-Total rewards claimed: 18
+Total rewards claimed: 19
 \
-Last checked: 24.07.2022 16:48:06 UTC
+Last checked: 25.07.2022 16:50:12 UTC
 
 ## Stats
 

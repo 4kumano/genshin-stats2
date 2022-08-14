@@ -2,20 +2,20 @@
 
 Total rewards claimed: 6
 \
-Last checked: 13.08.2022 16:45:27 UTC
+Last checked: 14.08.2022 16:45:41 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>430</td></tr>
-    <tr><td>Active days</td><td>498</td></tr>
+    <tr><td>Active days</td><td>499</td></tr>
     <tr><td>Characters</td><td>33</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
-    <tr><td>Common chests</td><td>1282</td></tr>
-    <tr><td>Exquisite chests</td><td>1048</td></tr>
+    <tr><td>Common chests</td><td>1286</td></tr>
+    <tr><td>Exquisite chests</td><td>1052</td></tr>
     <tr><td>Precious chests</td><td>302</td></tr>
     <tr><td>Luxurious chests</td><td>121</td></tr>
     <tr><td>Unlocked waypoints</td><td>189</td></tr>
@@ -506,7 +506,7 @@ Last checked: 13.08.2022 16:45:27 UTC
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png"></p></td>
 </tr>
 
 <tr>
@@ -518,7 +518,7 @@ Last checked: 13.08.2022 16:45:27 UTC
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Artifacts</td><td>1 x Shimenawa's Reminiscence<br>1 x Heart of Depth</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
 
@@ -527,10 +527,10 @@ Last checked: 13.08.2022 16:45:27 UTC
 <td>
 
 <table>
-    <tr><td>Name</td><td>Hunter's Bow</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Name</td><td>Rust</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -961,7 +961,7 @@ Last checked: 13.08.2022 16:45:27 UTC
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"></p></td>
 </tr>
 
 <tr>
@@ -982,10 +982,10 @@ Last checked: 13.08.2022 16:45:27 UTC
 <td>
 
 <table>
-    <tr><td>Name</td><td>Rust</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Name</td><td>Hunter's Bow</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
     <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>

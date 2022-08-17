@@ -2,13 +2,13 @@
 
 Total rewards claimed: 6
 \
-Last checked: 16.08.2022 16:49:22 UTC
+Last checked: 17.08.2022 16:54:15 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>430</td></tr>
-    <tr><td>Active days</td><td>501</td></tr>
+    <tr><td>Active days</td><td>502</td></tr>
     <tr><td>Characters</td><td>33</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -431,6 +431,41 @@ Last checked: 16.08.2022 16:49:22 UTC
 </td></tr>
 </table>
 
+### Yoimiya
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>5</td></tr>
+    <tr><td>Element</td><td>Pyro</td></tr>
+    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td>3 x Shimenawa's Reminiscence<br>1 x Heart of Depth</td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Rust</td></tr>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
+</table>
+
+</td></tr>
+</table>
+
 ### Traveler
 
 <table>
@@ -461,41 +496,6 @@ Last checked: 16.08.2022 16:49:22 UTC
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>20</td></tr>
     <tr><td>Refinement</td><td>2</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-### Yoimiya
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Element</td><td>Pyro</td></tr>
-    <tr><td>Level</td><td>20</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td>3 x Shimenawa's Reminiscence<br>1 x Heart of Depth</td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Rust</td></tr>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>

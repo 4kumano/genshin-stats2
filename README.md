@@ -2,22 +2,22 @@
 
 Total rewards claimed: 6
 \
-Last checked: 19.08.2022 16:52:41 UTC
+Last checked: 20.08.2022 16:45:53 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>430</td></tr>
-    <tr><td>Active days</td><td>502</td></tr>
+    <tr><td>Active days</td><td>504</td></tr>
     <tr><td>Characters</td><td>33</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
-    <tr><td>Common chests</td><td>1286</td></tr>
-    <tr><td>Exquisite chests</td><td>1052</td></tr>
-    <tr><td>Precious chests</td><td>302</td></tr>
-    <tr><td>Luxurious chests</td><td>121</td></tr>
+    <tr><td>Common chests</td><td>1318</td></tr>
+    <tr><td>Exquisite chests</td><td>1084</td></tr>
+    <tr><td>Precious chests</td><td>314</td></tr>
+    <tr><td>Luxurious chests</td><td>128</td></tr>
     <tr><td>Unlocked waypoints</td><td>189</td></tr>
     <tr><td>Unlocked domains</td><td>35</td></tr>
 </table>
@@ -331,7 +331,7 @@ Last checked: 19.08.2022 16:52:41 UTC
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Blackrock.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png"></p></td>
 </tr>
 
 <tr>
@@ -352,10 +352,10 @@ Last checked: 19.08.2022 16:52:41 UTC
 <td>
 
 <table>
-    <tr><td>Name</td><td>Blackcliff Warbow</td></tr>
+    <tr><td>Name</td><td>Rust</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>5</td></tr>
 </table>
 
 </td></tr>
@@ -436,7 +436,7 @@ Last checked: 19.08.2022 16:52:41 UTC
 <table>
 <tr>
     <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Blackrock.png"></p></td>
 </tr>
 
 <tr>
@@ -445,7 +445,7 @@ Last checked: 19.08.2022 16:52:41 UTC
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Pyro</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>3 x Shimenawa's Reminiscence<br>1 x Heart of Depth</td></tr>
@@ -457,10 +457,10 @@ Last checked: 19.08.2022 16:52:41 UTC
 <td>
 
 <table>
-    <tr><td>Name</td><td>Rust</td></tr>
+    <tr><td>Name</td><td>Blackcliff Warbow</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>5</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
 </td></tr>
@@ -974,7 +974,7 @@ Last checked: 19.08.2022 16:52:41 UTC
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>4</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
-    <tr><td>Outfits</td><td></td></tr>
+    <tr><td>Outfits</td><td>Ein Immernachtstraum</td></tr>
 </table>
 
 </td>

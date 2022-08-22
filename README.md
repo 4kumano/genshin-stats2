@@ -2,22 +2,22 @@
 
 Total rewards claimed: 6
 \
-Last checked: 21.08.2022 16:46:33 UTC
+Last checked: 22.08.2022 16:48:15 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>430</td></tr>
-    <tr><td>Active days</td><td>505</td></tr>
+    <tr><td>Active days</td><td>506</td></tr>
     <tr><td>Characters</td><td>33</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>180</td></tr>
-    <tr><td>Common chests</td><td>1318</td></tr>
-    <tr><td>Exquisite chests</td><td>1084</td></tr>
-    <tr><td>Precious chests</td><td>314</td></tr>
-    <tr><td>Luxurious chests</td><td>128</td></tr>
+    <tr><td>Common chests</td><td>1364</td></tr>
+    <tr><td>Exquisite chests</td><td>1106</td></tr>
+    <tr><td>Precious chests</td><td>316</td></tr>
+    <tr><td>Luxurious chests</td><td>129</td></tr>
     <tr><td>Unlocked waypoints</td><td>189</td></tr>
     <tr><td>Unlocked domains</td><td>35</td></tr>
 </table>

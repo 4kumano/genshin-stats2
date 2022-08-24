@@ -2,14 +2,14 @@
 
 Total rewards claimed: 6
 \
-Last checked: 23.08.2022 16:49:02 UTC
+Last checked: 24.08.2022 16:47:22 UTC
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>430</td></tr>
-    <tr><td>Active days</td><td>507</td></tr>
-    <tr><td>Characters</td><td>33</td></tr>
+    <tr><td>Active days</td><td>508</td></tr>
+    <tr><td>Characters</td><td>34</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
@@ -48,6 +48,7 @@ Last checked: 23.08.2022 16:49:02 UTC
         <th>Dragonspine</th>
         <th>Liyue</th>
         <th>Mondstadt</th>
+        <th>Sumeru</th>
     </tr>
     <tr>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_ChasmsMaw.png" width="180"></p></td>
@@ -57,6 +58,7 @@ Last checked: 23.08.2022 16:49:02 UTC
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Dragonspine.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Liyue.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Mengde.png" width="180"></p></td>
+        <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Xumi.png" width="180"></p></td>
     </tr>
     <tr>
         <td>
@@ -143,6 +145,18 @@ Last checked: 23.08.2022 16:49:02 UTC
                 </tr>
             </table>
         </td>
+        <td>
+            <table>
+                <tr>
+                    <td>Explored</td>
+                    <td>0.0%</td>
+                </tr>
+                <tr>
+                    <td>Reputation level</td>
+                    <td>1</td>
+                </tr>
+            </table>
+        </td>
     </tr>
 </table>
 
@@ -201,7 +215,7 @@ Last checked: 23.08.2022 16:49:02 UTC
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Hydro</td></tr>
     <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Friendship</td><td>9</td></tr>
+    <tr><td>Friendship</td><td>10</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>4 x Gladiator's Finale<br>1 x Shimenawa's Reminiscence</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -587,7 +601,7 @@ Last checked: 23.08.2022 16:49:02 UTC
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>10</td></tr>
-    <tr><td>Constellation</td><td>5</td></tr>
+    <tr><td>Constellation</td><td>6</td></tr>
     <tr><td>Artifacts</td><td>4 x Tenacity of the Millelith<br>1 x Gladiator's Finale</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
@@ -1285,6 +1299,41 @@ Last checked: 23.08.2022 16:49:02 UTC
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Geo</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Friendship</td><td>1</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Hunter's Bow</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+### Collei
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Collei.png"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Dendro</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Friendship</td><td>1</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>

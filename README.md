@@ -2,13 +2,13 @@
 
 Total rewards claimed: 0
 \
-Last checked: 03.09.2022 16:47:08 UTC
+Last checked: 04.09.2022 16:47:30 UTC
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>431</td></tr>
-    <tr><td>Active days</td><td>513</td></tr>
+    <tr><td>Achievements</td><td>437</td></tr>
+    <tr><td>Active days</td><td>514</td></tr>
     <tr><td>Characters</td><td>34</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -18,7 +18,7 @@ Last checked: 03.09.2022 16:47:08 UTC
     <tr><td>Exquisite chests</td><td>1107</td></tr>
     <tr><td>Precious chests</td><td>316</td></tr>
     <tr><td>Luxurious chests</td><td>129</td></tr>
-    <tr><td>Unlocked waypoints</td><td>195</td></tr>
+    <tr><td>Unlocked waypoints</td><td>200</td></tr>
     <tr><td>Unlocked domains</td><td>35</td></tr>
 </table>
 
@@ -41,6 +41,7 @@ Last checked: 03.09.2022 16:47:08 UTC
 
 <table>
     <tr>
+        <th>Sumeru</th>
         <th>The Chasm: Underground Mines</th>
         <th>The Chasm</th>
         <th>Enkanomiya</th>
@@ -48,9 +49,9 @@ Last checked: 03.09.2022 16:47:08 UTC
         <th>Dragonspine</th>
         <th>Liyue</th>
         <th>Mondstadt</th>
-        <th>Sumeru</th>
     </tr>
     <tr>
+        <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Xumi.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_ChasmsMaw.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_ChasmsMaw.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Enkanomiya.png" width="180"></p></td>
@@ -58,9 +59,20 @@ Last checked: 03.09.2022 16:47:08 UTC
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Dragonspine.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Liyue.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Mengde.png" width="180"></p></td>
-        <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Xumi.png" width="180"></p></td>
     </tr>
     <tr>
+        <td>
+            <table>
+                <tr>
+                    <td>Explored</td>
+                    <td>1.0%</td>
+                </tr>
+                <tr>
+                    <td>Reputation level</td>
+                    <td>1</td>
+                </tr>
+            </table>
+        </td>
         <td>
             <table>
                 <tr>
@@ -142,18 +154,6 @@ Last checked: 03.09.2022 16:47:08 UTC
                 <tr>
                     <td>Reputation level</td>
                     <td>3</td>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <table>
-                <tr>
-                    <td>Explored</td>
-                    <td>0.0%</td>
-                </tr>
-                <tr>
-                    <td>Reputation level</td>
-                    <td>1</td>
                 </tr>
             </table>
         </td>

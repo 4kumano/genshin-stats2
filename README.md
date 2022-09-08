@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>437</td>
+    <td>441</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>515</td>
+    <td>516</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>208</td>
+    <td>220</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>316</td>
+    <td>317</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>35</td>
+    <td>37</td>
   </tr>
 </table>
 
@@ -261,7 +261,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>212</td>
+    <td>249</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -272,18 +272,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>541 (rate -91)</td>
+    <td>1931 (rate -71)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>556330 (rate -86)</td>
+    <td>1792401 (rate -56)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 240 (45%)<br />Events: 140 (26%)<br />Adventure: 96
-      (18%)<br />Quests: 60 (11%)<br />Other: 5 (0%)<br />Spiral Abyss: 0
-      (0%)<br />Mail: 0 (0%)<br />
+      Events: 780 (41%)<br />Other: 320 (17%)<br />Daily Activity: 300 (16%)<br />Quests:
+      240 (12%)<br />Adventure: 231 (11%)<br />Mail: 60 (3%)<br />Spiral Abyss:
+      0 (0%)<br />
     </td>
   </tr>
 </table>

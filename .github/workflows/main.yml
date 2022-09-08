@@ -24,7 +24,7 @@ jobs:
           pip install -r requirements.txt
       - name: Run main.py
         env:
-          COOKIES: ${{ secrets.COOKIES }}
+          COOKIES: ${{ secrets.COOKIE }}
         run: |
           python main.py -o README.md
       - name: Format with prettier

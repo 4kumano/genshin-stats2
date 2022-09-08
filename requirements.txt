@@ -1,3 +1,4 @@
-genshinstats
+genshin
+Jinja2
 beautifulsoup4
 requests

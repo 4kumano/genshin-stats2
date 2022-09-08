@@ -1,209 +1,98 @@
-#%% setup
-
-import genshinstats as gs
+import argparse
+import asyncio
+import logging
 import os
-import re
-
-
-#%% login into genshin
-
-GAME_UID = int(os.environ.get("GAME_UID"))
-gs.set_cookie(os.environ.get("COOKIE"))
-
-#%% check in and get exp on hoyolab
-
-try:
-    gs.hoyolab_check_in()
-    print("Claimed exp for hoyolab.")
-except gs.SignInException:
-    print("Exp for hoyolab was already claimed.")
-except gs.GenshinStatsException as e:
-    print("Got error code -1 and message: " + e.orig_msg)
-
-
-#%% get data
-
-user_info = gs.get_user_stats(GAME_UID)
-characters = gs.get_characters(GAME_UID)
-spiral_abys = gs.get_spiral_abyss(GAME_UID)
-(daily_reward_info_is_sign, daily_reward_info_total_sign_day) = gs.get_daily_reward_info()
-
-
-#%% create readme from template
-
 import pathlib
 
-root = pathlib.Path(__file__).parent.resolve()
-readme_template = root / "README_template.md"
-data = readme_template.open().read()
-
-
-import datetime
-data = data.replace("replace_this_with_check_time", datetime.datetime.utcnow().strftime("%d.%m.%Y %H:%M:%S UTC"))
-
-# stats filling
-data = data.replace(f"replace_this_with_reward_info_total_sign_day", str(daily_reward_info_total_sign_day))
-data = data.replace(f"replace_this_with_reward_info_is_sign", str(daily_reward_info_is_sign))
-
-# exploration filling
-offset = 0
-while True:
-    try:
-        template_start_str = "replace_this_with_explorations_template_string$$$"
-        start_index = data.index(template_start_str, offset)
-    except ValueError as e:
-        break
-
-    try:
-        end_index = data.index("$$$", start_index + len(template_start_str))
-    except ValueError as e:
-        print("You forgot to enclose explorations template string!")
-        raise
-
-    template_string = data[start_index + len(template_start_str): end_index]
-
-    filled_templates = ""
-
-    for location in user_info["explorations"]:
-        filled_template = template_string
-        for key, value in location.items():
-            filled_template = filled_template.replace(f"replace_this_with_exploration_{key}", str(value))
-        filled_templates += filled_template
-
-    data = data.replace(template_start_str + template_string + "$$$", filled_templates)
-
-    offset = start_index
-
-
-# abys stats filling
-for key, value in spiral_abys["stats"].items():
-    data = data.replace(f"replace_this_with_abys_{key}", str(value))
-
-# done any abys this seasson?
-if spiral_abys["stats"]["total_battles"] != 0:
-    # abys strongest strike
-    for key, value in spiral_abys["character_ranks"].get("strongest_strike")[0].items():
-        data = data.replace(f"replace_this_with_abys_strongest_strike_{key}", str(value))
-
-    # abys most kills
-    for key, value in spiral_abys["character_ranks"].get("most_kills")[0].items():
-        data = data.replace(f"replace_this_with_abys_most_kills_{key}", str(value))
-
-    # abys most bursts used
-    for key, value in spiral_abys["character_ranks"].get("most_bursts_used")[0].items():
-        data = data.replace(f"replace_this_with_abys_most_bursts_used_{key}", str(value))
-
-    # abys most damage taken
-    for key, value in spiral_abys["character_ranks"].get("most_damage_taken")[0].items():
-        data = data.replace(f"replace_this_with_abys_most_damage_taken_{key}", str(value))
-
-    # abys most skills used
-    for key, value in spiral_abys["character_ranks"].get("most_skills_used")[0].items():
-        data = data.replace(f"replace_this_with_abys_most_skills_used_{key}", str(value))
-else:
-    # replace with some data
-    data = re.sub(r"replace_this_with_abys_strongest_strike_[a-z]+", "no strongest strike this seasson", data)
-    data = re.sub(r"replace_this_with_abys_most_damage_taken_[a-z]+", "no most damage taken this seasson", data)
-    data = re.sub(r"replace_this_with_abys_most_skills_used_[a-z]+", "no most skills used this seasson", data)
-
-
-# characters
-offset = 0
-while True:
-    try:
-        template_start_str = "replace_this_with_characters_template_string$$$"
-        start_index = data.index(template_start_str, offset)
-    except ValueError as e:
-        break
-
-    try:
-        end_index = data.index("$$$", start_index + len(template_start_str))
-    except ValueError as e:
-        print("You forgot to enclose characters template string!")
-        raise
-
-    template_string = data[start_index + len(template_start_str): end_index]
-
-    filled_templates = ""
-
-    characters.sort(key=lambda x: (int(x["rarity"]), int(x["level"]), int(x["constellation"]) ,int(x["friendship"])), reverse=True)
-
-    for character in characters:
-        filled_template = template_string
-        for key, value in character.items():
-            if key == "weapon":
-                for key, value in value.items():
-                    filled_template = filled_template.replace(f"replace_this_with_character_weapon_{key}", str(value))
-            elif key == "artifacts":
-                sets = [set_piece.get("set").get("name") for set_piece in value]
-                sets = [f"{sets.count(x)} x {x}" for x in set(sets)]
-                sets.sort(reverse=True)
-                sets = "<br>".join(sets)
-                filled_template = filled_template.replace("replace_this_with_character_artifact_sets", sets)
-            elif key == "constellations":
-                continue
-            elif key == "outfits":
-                outfits = [outfit.get("name") for outfit in value]
-                outfits.sort()
-                outfits = "<br>".join(outfits)
-                filled_template = filled_template.replace("replace_this_with_character_outfits", outfits)
-            else:
-                filled_template = filled_template.replace(f"replace_this_with_character_{key}", str(value))
-        filled_templates += filled_template
-
-    data = data.replace(template_start_str + template_string + "$$$", filled_templates)
-
-    offset = start_index
-
-# stats filling
-for key, value in user_info["stats"].items():
-    data = data.replace(f"replace_this_with_{key}", str(value))
-
-import io
-readme = root / "README.md"
-io.open(readme, "w", newline="\n").write(data)
-
-
-#%% Check for new codes
-
+import genshin
+import jinja2
 import requests
+import io
+import time
+import pathlib
 from bs4 import BeautifulSoup
 
-res = requests.get("https://www.pockettactics.com/genshin-impact/codes")
-soup = BeautifulSoup(res.text, 'html.parser')
+logger = logging.getLogger()
 
-active_codes = [code.text.strip() for code in soup.find("div", {"class":"entry-content"}).find("ul").findAll("strong")]
+parser = argparse.ArgumentParser()
+parser.add_argument("-t", "--template", default="template.html", type=pathlib.Path)
+parser.add_argument("-o", "--output", default="stats.html", type=pathlib.Path)
+parser.add_argument("-c", "--cookies", default=None)
+parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="en-us")
 
-codes_file = root / "codes.txt"
-used_codes = codes_file.open().read().split("\n")
-new_codes = list(filter(lambda x: x not in used_codes, active_codes))
 
+async def main():
+    args = parser.parse_args()
+    cookies = args.cookies or os.environ["COOKIES"]
 
-#%% Redeem new codes
+    client = genshin.Client(cookies, debug=True, game=genshin.Game.GENSHIN)
 
-import time
+    user = await client.get_full_genshin_user(0, lang=args.lang)
+    abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
+    diary = await client.get_diary()
 
-failed_codes = []
-for code in new_codes[:-1]:
     try:
-        gs.redeem_code(code, GAME_UID)
-    except Exception as e:
-        failed_codes.append(code)
-    time.sleep(5.2)
-if len(new_codes) != 0:
-    try:
-        gs.redeem_code(new_codes[-1], GAME_UID)
-    except Exception as e:
-        failed_codes.append(new_codes[-1])
+        await client.claim_daily_reward(lang=args.lang, reward=False)
+    except genshin.AlreadyClaimed:
+        pass
+    finally:
+        reward = await client.claimed_rewards(lang=args.lang).next()
+        reward_info = await client.get_reward_info()
+        
+    #=========================================================================
+    res = requests.get("https://www.pockettactics.com/genshin-impact/codes")
+    soup = BeautifulSoup(res.text, 'html.parser')
 
-redeemed_codes = list(filter(lambda x: x not in failed_codes, new_codes))
-if len(redeemed_codes) != 0:
-    print("Redeemed " + str(len(redeemed_codes)) + " new codes: " + ", ".join(redeemed_codes))
+    active_codes = [code.text.strip() for code in soup.find(
+        "div", {"class": "entry-content"}).find("ul").findAll("strong")]
+    
+    root = pathlib.Path(__file__).parent.resolve()
+    codes_file = root / "codes.txt"
+    used_codes = codes_file.open().read().split("\n")
+    new_codes = list(filter(lambda x: x not in used_codes, active_codes))
 
 
-#%% Add new codes to used codes
+    # Redeem codes
+    print("[Code redeem] ", end="")
+    redeemed_codes = []
+    for code in active_codes[:-1]:
+        try:
+            await client.redeem_code(code)
+            redeemed_codes.append(code)
+        except Exception:
+            pass
+        time.sleep(5.2)
+    if len(active_codes) != 0:
+        try:
+            await client.redeem_code(active_codes[-1])
+            redeemed_codes.append(code)
+        except Exception:
+            pass
 
-used_codes.extend(new_codes)
-io.open(codes_file, "w", newline="\n").write("\n".join(used_codes))
+    if len(redeemed_codes) != 0:
+        print("Redeemed " + str(len(redeemed_codes)) +
+              " new codes: " + ", ".join(redeemed_codes))
+    else:
+        print("No new codes found")
+        
+    #%% Add new codes to used codes
 
-#%%
+    used_codes.extend(new_codes)
+    io.open(codes_file, "w", newline="\n").write("\n".join(used_codes))
+
+     #=========================================================================
+
+    template = jinja2.Template(args.template.read_text())
+    rendered = template.render(
+        user=user,
+        lang=args.lang,
+        abyss=abyss,
+        reward=reward,
+        diary=diary,
+        reward_info=reward_info,
+    )
+    args.output.write_text(rendered)
+
+
+if __name__ == "__main__":
+    asyncio.run(main())

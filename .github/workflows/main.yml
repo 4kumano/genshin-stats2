@@ -36,5 +36,6 @@ jobs:
           git config --global user.name "Noël"
           git config --global user.emai "noel@github.com"
           git add README.md
+          git add -A
           git commit -m "Updated stats" || exit 0
           git push

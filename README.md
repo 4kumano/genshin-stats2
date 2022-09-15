@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3318 (rate -50)</td>
+    <td>3378 (rate -49)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2749856 (rate -32)</td>
+    <td>2794331 (rate -31)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1200 (37%)<br />Adventure: 606 (19%)<br />Other: 562 (17%)<br />Daily
-      Activity: 540 (16%)<br />Quests: 330 (9%)<br />Mail: 80 (2%)<br />Spiral
+      Events: 1200 (36%)<br />Adventure: 606 (18%)<br />Daily Activity: 600
+      (18%)<br />Other: 562 (17%)<br />Quests: 330 (9%)<br />Mail: 80 (2%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -601,7 +601,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png"
         />
       </p>
     </td>
@@ -643,19 +643,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Rust</td>
+          <td>Amos' Bow</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>70</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>5</td>
+          <td>1</td>
         </tr>
       </table>
     </td>

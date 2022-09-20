@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>443</td>
+    <td>444</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>524</td>
+    <td>525</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -243,7 +243,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3974 (rate -40)</td>
+    <td>4059 (rate -39)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3057068 (rate -24)</td>
+    <td>3276535 (rate -19)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1240 (32%)<br />Daily Activity: 780 (20%)<br />Adventure: 632
-      (16%)<br />Other: 562 (14%)<br />Mail: 430 (10%)<br />Quests: 330 (8%)<br />Spiral
+      Events: 1240 (31%)<br />Daily Activity: 840 (21%)<br />Adventure: 637
+      (16%)<br />Other: 562 (13%)<br />Mail: 450 (11%)<br />Quests: 330 (8%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -483,7 +483,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>5 x Pale Flame<br /></td>
+          <td>4 x Pale Flame<br />1 x Wanderer's Troupe<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -631,7 +631,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Wanderer's Troupe<br />1 x Blizzard Strayer<br /></td>
+          <td>4 x Wanderer's Troupe<br />1 x Echoes of an Offering<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1218,7 +1218,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>

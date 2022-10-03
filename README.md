@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>530</td>
+    <td>531</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>227</td>
+    <td>230</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1397</td>
+    <td>1399</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1118</td>
+    <td>1119</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -64,11 +64,11 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>46</td>
+    <td>47</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>39</td>
+    <td>40</td>
   </tr>
 </table>
 
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>4.0%</td>
+          <td>6.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -272,18 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>0 (rate -100)</td>
+    <td>954 (rate -83)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>0 (rate -100)</td>
+    <td>106590 (rate -97)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
-      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0
-      (0%)<br />
+      Mail: 840 (89%)<br />Daily Activity: 60 (6%)<br />Adventure: 54 (5%)<br />Events:
+      0 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1291,7 +1290,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -1299,7 +1298,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>1 x Viridescent Venerer<br />1 x Pale Flame<br /></td>
+          <td>2 x Viridescent Venerer<br />1 x Pale Flame<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>

@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>451</td>
+    <td>452</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>532</td>
+    <td>533</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>233</td>
+    <td>234</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>3</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1410</td>
+    <td>1414</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>48</td>
+    <td>49</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>7.0%</td>
+          <td>8.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -272,18 +272,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1398 (rate -76)</td>
+    <td>1625 (rate -72)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>648096 (rate -82)</td>
+    <td>860734 (rate -76)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 920 (66%)<br />Daily Activity: 180 (13%)<br />Adventure: 158
-      (11%)<br />Quests: 140 (10%)<br />Events: 0 (0%)<br />Spiral Abyss: 0
-      (0%)<br />Other: 0 (0%)<br />
+      Mail: 990 (61%)<br />Quests: 220 (14%)<br />Daily Activity: 220 (14%)<br />Adventure:
+      194 (11%)<br />Other: 1 (0%)<br />Events: 0 (0%)<br />Spiral Abyss: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
@@ -1287,11 +1287,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>70</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Constellation</td>

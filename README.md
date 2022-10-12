@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fried Radish Balls</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>455</td>
+    <td>456</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>535</td>
+    <td>536</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -261,7 +261,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>249</td>
+    <td>265</td>
   </tr>
   <tr>
     <td>Visitors</td>

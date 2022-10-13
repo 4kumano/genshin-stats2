@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2746 (rate -53)</td>
+    <td>2806 (rate -52)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2793585 (rate -23)</td>
+    <td>2853540 (rate -22)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1010 (37%)<br />Events: 880 (33%)<br />Daily Activity: 340 (12%)<br />Adventure:
-      294 (10%)<br />Quests: 220 (8%)<br />Other: 2 (0%)<br />Spiral Abyss: 0
+      Mail: 1010 (36%)<br />Events: 880 (32%)<br />Daily Activity: 400 (15%)<br />Adventure:
+      294 (10%)<br />Quests: 220 (7%)<br />Other: 2 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
@@ -1299,7 +1299,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>2 x Viridescent Venerer<br />1 x Pale Flame<br /></td>
+          <td>4 x Viridescent Venerer<br />1 x Pale Flame<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>

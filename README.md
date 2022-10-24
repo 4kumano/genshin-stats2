@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>457</td>
+    <td>466</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>543</td>
+    <td>544</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>234</td>
+    <td>236</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>13</td>
+    <td>48</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,23 +48,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1414</td>
+    <td>1441</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1121</td>
+    <td>1138</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>322</td>
+    <td>325</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>132</td>
+    <td>136</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>51</td>
+    <td>55</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>9.0%</td>
+          <td>15.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>

@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5187 (rate -12)</td>
+    <td>6057 (rate 1)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4435546 (rate 20)</td>
+    <td>4973380 (rate 35)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1600 (31%)<br />Mail: 1330 (26%)<br />Daily Activity: 860 (17%)<br />Quests:
-      790 (15%)<br />Adventure: 593 (11%)<br />Other: 14 (0%)<br />Spiral Abyss:
+      Events: 2300 (38%)<br />Mail: 1370 (23%)<br />Daily Activity: 980 (17%)<br />Quests:
+      790 (13%)<br />Adventure: 603 (9%)<br />Other: 14 (0%)<br />Spiral Abyss:
       0 (0%)<br />
     </td>
   </tr>
@@ -899,7 +899,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png"
         />
       </p>
     </td>
@@ -943,15 +943,15 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Hunter's Bow</td>
+          <td>Sacrificial Bow</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>50</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -1861,7 +1861,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
         />
       </p>
     </td>
@@ -1905,7 +1905,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Sacrificial Bow</td>
+          <td>Favonius Warbow</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1913,11 +1913,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>50</td>
+          <td>20</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
       </table>
     </td>

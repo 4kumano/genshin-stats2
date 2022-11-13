@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>468</td>
+    <td>475</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>557</td>
+    <td>559</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>236</td>
+    <td>241</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>48</td>
+    <td>67</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,23 +48,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1441</td>
+    <td>1461</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1138</td>
+    <td>1146</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>325</td>
+    <td>328</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>136</td>
+    <td>137</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>55</td>
+    <td>58</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>15.0%</td>
+          <td>19.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -272,17 +272,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1160 (rate -81)</td>
+    <td>2545 (rate -59)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>436007 (rate -91)</td>
+    <td>1234973 (rate -76)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 700 (61%)<br />Daily Activity: 420 (36%)<br />Events: 40 (3%)<br />Adventure:
-      0 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0 (0%)<br />
+      Mail: 700 (28%)<br />Daily Activity: 540 (22%)<br />Events: 460 (18%)<br />Quests:
+      440 (17%)<br />Adventure: 405 (15%)<br />Spiral Abyss: 0 (0%)<br />Other:
+      0 (0%)<br />
     </td>
   </tr>
 </table>

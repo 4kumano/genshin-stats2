@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>573</td>
+    <td>574</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>38</td>
+    <td>39</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -272,17 +272,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>520 (rate -88)</td>
+    <td>1950 (rate -58)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>342859 (rate -89)</td>
+    <td>355859 (rate -89)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 460 (89%)<br />Daily Activity: 60 (11%)<br />Adventure: 0 (0%)<br />Quests:
-      0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+      Mail: 1420 (73%)<br />Events: 460 (24%)<br />Daily Activity: 60 (3%)<br />Adventure:
+      10 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
@@ -2825,7 +2826,7 @@
         </tr>
         <tr>
           <td>Element</td>
-          <td>Anemo</td>
+          <td>Geo</td>
         </tr>
         <tr>
           <td>Level</td>

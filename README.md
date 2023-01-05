@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Sweet Madame</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>493</td>
+    <td>494</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>581</td>
+    <td>583</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -159,7 +159,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>1</td>
+          <td>3</td>
         </tr>
       </table>
     </td>
@@ -268,21 +268,69 @@
     <td>1</td>
   </tr>
 </table>
+<h2>Spiral Abyss</h2>
+<table>
+  <tr>
+    <td>Season</td>
+    <td>61</td>
+  </tr>
+  <tr>
+    <td>Total Battles</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Total Wins</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>Max Floor</td>
+    <td>11-2</td>
+  </tr>
+  <tr>
+    <td>Total Stars</td>
+    <td>24</td>
+  </tr>
+  <tr>
+    <td>Most Played Characters</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Most Defeats</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Strongest Single Strike</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Most Damage Taken</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Elemental Bursts Unleashed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Elemental Skills Cast</td>
+    <td></td>
+  </tr>
+</table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>60 (rate -98)</td>
+    <td>1322 (rate -73)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>97975 (rate -96)</td>
+    <td>1216089 (rate -58)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 60 (100%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests:
-      0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+      Events: 720 (55%)<br />Spiral Abyss: 400 (31%)<br />Daily Activity: 180
+      (13%)<br />Mail: 20 (1%)<br />Other: 2 (0%)<br />Adventure: 0 (0%)<br />Quests:
+      0 (0%)<br />
     </td>
   </tr>
 </table>

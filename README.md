@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>494</td>
+    <td>495</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>583</td>
+    <td>584</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -294,26 +294,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
-      Kamisato Ayato (8)<br /><img
+      Ganyu (8)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
       Xingqiu (8)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
         ,
         height="18"
       />
-      Raiden Shogun (8)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+      Shenhe (8)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Ganyu (8)<br />
+      Bennett (8)<br />
     </td>
   </tr>
   <tr>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1462 (rate -71)</td>
+    <td>1902 (rate -62)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1339221 (rate -54)</td>
+    <td>1518235 (rate -48)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 800 (55%)<br />Spiral Abyss: 400 (28%)<br />Daily Activity: 240
-      (16%)<br />Mail: 20 (1%)<br />Other: 2 (0%)<br />Adventure: 0 (0%)<br />Quests:
+      Events: 880 (47%)<br />Spiral Abyss: 400 (22%)<br />Mail: 320 (16%)<br />Daily
+      Activity: 300 (15%)<br />Other: 2 (0%)<br />Adventure: 0 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>

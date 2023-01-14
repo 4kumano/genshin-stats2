@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>586</td>
+    <td>587</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>241</td>
+    <td>242</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>67</td>
+    <td>71</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1152</td>
+    <td>1153</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>19.0%</td>
+          <td>20.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -299,21 +299,21 @@
         height="18"
       />
       Shenhe (8)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Ganyu (8)<br /><img
+      Bennett (8)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
         ,
         height="18"
       />
       Kamisato Ayato (8)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
-      Raiden Shogun (8)<br />
+      Ganyu (8)<br />
     </td>
   </tr>
   <tr>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1962 (rate -61)</td>
+    <td>1992 (rate -60)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1559815 (rate -47)</td>
+    <td>1582440 (rate -46)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 880 (45%)<br />Spiral Abyss: 400 (21%)<br />Daily Activity: 360
-      (18%)<br />Mail: 320 (16%)<br />Other: 2 (0%)<br />Adventure: 0 (0%)<br />Quests:
+      Events: 880 (45%)<br />Spiral Abyss: 400 (20%)<br />Daily Activity: 360
+      (18%)<br />Mail: 340 (17%)<br />Adventure: 10 (0%)<br />Other: 2 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>

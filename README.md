@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Adventurer's Experience</td>
+    <td>5 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>495</td>
+    <td>497</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>587</td>
+    <td>588</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>71</td>
+    <td>75</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1467</td>
+    <td>1477</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1153</td>
+    <td>1154</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -64,11 +64,11 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>59</td>
+    <td>60</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>40</td>
+    <td>41</td>
   </tr>
 </table>
 
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>20.0%</td>
+          <td>22.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -294,6 +294,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (8)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        ,
+        height="18"
+      />
+      Ganyu (8)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
         ,
         height="18"
@@ -303,17 +313,7 @@
         ,
         height="18"
       />
-      Bennett (8)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayato (8)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
-        ,
-        height="18"
-      />
-      Ganyu (8)<br />
+      Bennett (8)<br />
     </td>
   </tr>
   <tr>
@@ -376,18 +376,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1992 (rate -60)</td>
+    <td>2142 (rate -57)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1582440 (rate -46)</td>
+    <td>1671422 (rate -43)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 880 (45%)<br />Spiral Abyss: 400 (20%)<br />Daily Activity: 360
-      (18%)<br />Mail: 340 (17%)<br />Adventure: 10 (0%)<br />Other: 2 (0%)<br />Quests:
-      0 (0%)<br />
+      Events: 880 (42%)<br />Daily Activity: 420 (20%)<br />Spiral Abyss: 400
+      (19%)<br />Mail: 340 (16%)<br />Quests: 60 (2%)<br />Adventure: 40 (1%)<br />Other:
+      2 (0%)<br />
     </td>
   </tr>
 </table>
@@ -881,7 +881,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>1 x Shimenawa's Reminiscence<br />1 x Heart of Depth<br /></td>
+          <td>4 x Shimenawa's Reminiscence<br />1 x Heart of Depth<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1621,7 +1621,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Shimenawa's Reminiscence<br />1 x Maiden Beloved<br /></td>
+          <td>1 x Shimenawa's Reminiscence<br />1 x Maiden Beloved<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>

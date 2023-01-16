@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -294,6 +294,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
+        ,
+        height="18"
+      />
+      Shenhe (8)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -304,16 +309,11 @@
         height="18"
       />
       Ganyu (8)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Shenhe (8)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (8)<br />
+      Xingqiu (8)<br />
     </td>
   </tr>
   <tr>
@@ -1621,7 +1621,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>1 x Shimenawa's Reminiscence<br />1 x Maiden Beloved<br /></td>
+          <td>
+            2 x Shimenawa's Reminiscence<br />2 x Viridescent Venerer<br />1 x
+            Maiden Beloved<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -3310,7 +3313,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td></td>
+          <td>4 x Noblesse Oblige<br />1 x Shimenawa's Reminiscence<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>

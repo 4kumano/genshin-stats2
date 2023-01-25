@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>3 x Almond Tofu</td>
   </tr>
 </table>
 
@@ -294,26 +294,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
+        ,
+        height="18"
+      />
+      Shenhe (8)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
       Ganyu (8)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (8)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (8)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
         ,
         height="18"
       />
-      Kamisato Ayato (8)<br />
+      Kamisato Ayato (8)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (8)<br />
     </td>
   </tr>
   <tr>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2142 (rate -57)</td>
+    <td>2642 (rate -47)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1671422 (rate -43)</td>
+    <td>1776359 (rate -39)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 880 (42%)<br />Daily Activity: 420 (20%)<br />Spiral Abyss: 400
-      (19%)<br />Mail: 340 (16%)<br />Quests: 60 (2%)<br />Adventure: 40 (1%)<br />Other:
+      Events: 880 (34%)<br />Mail: 780 (30%)<br />Daily Activity: 480 (18%)<br />Spiral
+      Abyss: 400 (15%)<br />Quests: 60 (2%)<br />Adventure: 40 (1%)<br />Other:
       2 (0%)<br />
     </td>
   </tr>

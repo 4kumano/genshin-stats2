@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>593</td>
+    <td>595</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -268,126 +268,21 @@
     <td>1</td>
   </tr>
 </table>
-<h2>Spiral Abyss</h2>
-<table>
-  <tr>
-    <td>Season</td>
-    <td>61</td>
-  </tr>
-  <tr>
-    <td>Total Battles</td>
-    <td>10</td>
-  </tr>
-  <tr>
-    <td>Total Wins</td>
-    <td>8</td>
-  </tr>
-  <tr>
-    <td>Max Floor</td>
-    <td>11-2</td>
-  </tr>
-  <tr>
-    <td>Total Stars</td>
-    <td>24</td>
-  </tr>
-  <tr>
-    <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (8)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (8)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
-        ,
-        height="18"
-      />
-      Ganyu (8)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (8)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayato (31)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Eula.png"
-        ,
-        height="18"
-      />
-      Eula (156383)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayato.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayato (53894)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (22)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (41)<br />
-    </td>
-  </tr>
-</table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2882 (rate -42)</td>
+    <td>120 (rate -95)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2137862 (rate -27)</td>
+    <td>107722 (rate -94)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 880 (31%)<br />Mail: 780 (28%)<br />Daily Activity: 720 (25%)<br />Spiral
-      Abyss: 400 (13%)<br />Quests: 60 (2%)<br />Adventure: 40 (1%)<br />Other:
-      2 (0%)<br />
+      Daily Activity: 120 (100%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests:
+      0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>

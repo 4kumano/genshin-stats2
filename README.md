@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>595</td>
+    <td>596</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>262</td>
+    <td>254</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>120 (rate -95)</td>
+    <td>230 (rate -92)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>107722 (rate -94)</td>
+    <td>222697 (rate -89)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 120 (100%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests:
-      0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+      Daily Activity: 180 (79%)<br />Mail: 50 (21%)<br />Events: 0 (0%)<br />Adventure:
+      0 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1360,7 +1360,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Constellation</td>

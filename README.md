@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>596</td>
+    <td>597</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -272,16 +272,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>230 (rate -92)</td>
+    <td>290 (rate -89)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>222697 (rate -89)</td>
+    <td>279945 (rate -86)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 180 (79%)<br />Mail: 50 (21%)<br />Events: 0 (0%)<br />Adventure:
+      Daily Activity: 240 (83%)<br />Mail: 50 (17%)<br />Events: 0 (0%)<br />Adventure:
       0 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
@@ -1218,7 +1218,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -2764,7 +2764,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -2985,7 +2985,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>0</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Artifacts</td>

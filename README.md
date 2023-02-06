@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>599</td>
+    <td>600</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1564 (rate -45)</td>
+    <td>1604 (rate -44)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1988219 (rate -6)</td>
+    <td>2014871 (rate -5)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 930 (60%)<br />Daily Activity: 360 (24%)<br />Mail: 140 (9%)<br />Quests:
-      60 (4%)<br />Other: 60 (3%)<br />Adventure: 14 (0%)<br />Spiral Abyss: 0
+      Events: 930 (58%)<br />Daily Activity: 400 (25%)<br />Mail: 140 (9%)<br />Quests:
+      60 (4%)<br />Other: 60 (4%)<br />Adventure: 14 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
@@ -1094,7 +1094,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>70</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -1253,6 +1253,82 @@
     </td>
   </tr>
 </table>
+<h3>Wanderer</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Wanderer.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Dvalin.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Anemo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            2 x Shimenawa's Reminiscence<br />2 x Viridescent Venerer<br />1 x
+            Maiden Beloved<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Skyward Atlas</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Barbara</h3>
 <table>
   <tr>
@@ -1321,82 +1397,6 @@
         <tr>
           <td>Refinement</td>
           <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Wanderer</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Wanderer.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Dvalin.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Anemo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>70</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            2 x Shimenawa's Reminiscence<br />2 x Viridescent Venerer<br />1 x
-            Maiden Beloved<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Skyward Atlas</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
         </tr>
       </table>
     </td>
@@ -3226,6 +3226,79 @@
         <tr>
           <td>Rarity</td>
           <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Yaoyao</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Dendro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Beginner's Protector</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Level</td>

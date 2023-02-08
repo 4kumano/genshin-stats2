@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1604 (rate -44)</td>
+    <td>1684 (rate -41)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2022871 (rate -5)</td>
+    <td>2064284 (rate -3)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 930 (58%)<br />Daily Activity: 400 (25%)<br />Mail: 140 (9%)<br />Quests:
-      60 (4%)<br />Other: 60 (4%)<br />Adventure: 14 (0%)<br />Spiral Abyss: 0
+      Events: 950 (57%)<br />Daily Activity: 460 (28%)<br />Mail: 140 (9%)<br />Quests:
+      60 (3%)<br />Other: 60 (3%)<br />Adventure: 14 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
@@ -1664,7 +1664,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -2765,7 +2765,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -3278,7 +3278,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>0</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Artifacts</td>

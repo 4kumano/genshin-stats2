@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -272,16 +272,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1684 (rate -41)</td>
+    <td>1804 (rate -37)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2064284 (rate -3)</td>
+    <td>2218419 (rate 3)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 950 (57%)<br />Daily Activity: 460 (28%)<br />Mail: 140 (9%)<br />Quests:
+      Events: 950 (53%)<br />Daily Activity: 580 (33%)<br />Mail: 140 (8%)<br />Quests:
       60 (3%)<br />Other: 60 (3%)<br />Adventure: 14 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
@@ -332,7 +332,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>2 x Viridescent Venerer<br />2 x Gladiator's Finale<br /></td>
+          <td>
+            2 x Viridescent Venerer<br />2 x Gladiator's Finale<br />1 x Husk of
+            Opulent Dreams<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1288,7 +1291,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Constellation</td>

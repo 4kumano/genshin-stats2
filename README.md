@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>497</td>
+    <td>498</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>601</td>
+    <td>604</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -243,7 +243,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -272,18 +272,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1804 (rate -37)</td>
+    <td>2595 (rate -9)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2218419 (rate 3)</td>
+    <td>2946554 (rate 37)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 950 (53%)<br />Daily Activity: 580 (33%)<br />Mail: 140 (8%)<br />Quests:
-      60 (3%)<br />Other: 60 (3%)<br />Adventure: 14 (0%)<br />Spiral Abyss: 0
-      (0%)<br />
+      Events: 1350 (53%)<br />Daily Activity: 640 (25%)<br />Adventure: 251
+      (9%)<br />Mail: 140 (5%)<br />Quests: 130 (5%)<br />Other: 84 (3%)<br />Spiral
+      Abyss: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1097,7 +1097,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>90</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -1750,7 +1750,7 @@
         </tr>
         <tr>
           <td>Outfits</td>
-          <td></td>
+          <td>A Sobriquet Under Shade</td>
         </tr>
       </table>
     </td>

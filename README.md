@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>605</td>
+    <td>606</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1517</td>
+    <td>1531</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1175</td>
+    <td>1184</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2818 (rate -2)</td>
+    <td>3323 (rate 15)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3079261 (rate 44)</td>
+    <td>3509189 (rate 64)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1370 (49%)<br />Daily Activity: 760 (27%)<br />Adventure: 314
-      (12%)<br />Mail: 160 (6%)<br />Quests: 130 (4%)<br />Other: 84 (2%)<br />Spiral
+      Events: 1550 (47%)<br />Daily Activity: 820 (25%)<br />Adventure: 539
+      (17%)<br />Mail: 160 (5%)<br />Quests: 130 (3%)<br />Other: 124 (3%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -2450,7 +2450,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png"
         />
       </p>
     </td>
@@ -2480,7 +2480,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td></td>
+          <td>3 x Gladiator's Finale<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2492,19 +2492,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Beginner's Protector</td>
+          <td>Favonius Lance</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>60</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>5</td>
         </tr>
       </table>
     </td>

@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Adventurer's Experience</td>
+    <td>5 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>504</td>
+    <td>506</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>606</td>
+    <td>608</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>86</td>
+    <td>90</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,19 +48,19 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1531</td>
+    <td>1541</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1184</td>
+    <td>1189</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>336</td>
+    <td>338</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>138</td>
+    <td>139</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>26.0%</td>
+          <td>27.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3323 (rate 15)</td>
+    <td>3919 (rate 35)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3509189 (rate 64)</td>
+    <td>3917495 (rate 83)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1550 (47%)<br />Daily Activity: 820 (25%)<br />Adventure: 539
-      (17%)<br />Mail: 160 (5%)<br />Quests: 130 (3%)<br />Other: 124 (3%)<br />Spiral
+      Events: 1730 (45%)<br />Daily Activity: 880 (23%)<br />Adventure: 745
+      (19%)<br />Quests: 250 (6%)<br />Mail: 160 (4%)<br />Other: 154 (3%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -773,7 +773,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>0</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Artifacts</td>

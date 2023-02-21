@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fisherman's Toast</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>517</td>
+    <td>518</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>610</td>
+    <td>612</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>260</td>
+    <td>273</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>33.0%</td>
+          <td>34.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4667 (rate 61)</td>
+    <td>4883 (rate 69)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4538754 (rate 112)</td>
+    <td>4680797 (rate 118)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1730 (38%)<br />Adventure: 1011 (22%)<br />Daily Activity: 1000
-      (22%)<br />Mail: 460 (9%)<br />Quests: 310 (6%)<br />Other: 156 (3%)<br />Spiral
+      Events: 1730 (36%)<br />Daily Activity: 1120 (23%)<br />Adventure: 1086
+      (23%)<br />Mail: 480 (9%)<br />Quests: 310 (6%)<br />Other: 157 (3%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -949,7 +949,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>70</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -2902,7 +2902,7 @@
         </tr>
         <tr>
           <td>Element</td>
-          <td>Anemo</td>
+          <td>Geo</td>
         </tr>
         <tr>
           <td>Level</td>

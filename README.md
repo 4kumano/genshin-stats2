@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>3 x Almond Tofu</td>
   </tr>
 </table>
 
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4943 (rate 71)</td>
+    <td>5424 (rate 88)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4760672 (rate 122)</td>
+    <td>5151454 (rate 140)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1730 (35%)<br />Daily Activity: 1180 (24%)<br />Adventure: 1086
-      (22%)<br />Mail: 480 (10%)<br />Quests: 310 (6%)<br />Other: 157 (3%)<br />Spiral
+      Events: 2130 (40%)<br />Daily Activity: 1240 (23%)<br />Adventure: 1086
+      (21%)<br />Mail: 480 (8%)<br />Quests: 310 (5%)<br />Other: 178 (3%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>

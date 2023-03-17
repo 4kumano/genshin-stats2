@@ -46,25 +46,40 @@ async def main():
     active_codes = [code.text.strip() for code in soup.find(
         "div", {"class": "entry-content"}).find("ul").findAll("strong")]
     
+    kode = []
+    for tag in soup.select("div ul li strong"):
+        #print(tag.text)
+        kode.append(tag.text)
+    o = 1
+    while o <= 5:
+        #print(i)
+        kode.pop(0)
+        o += 1
+    i = 1
+    while i <= 8:
+        #print(i)
+        kode.pop(4)
+        i += 1
+
     root = pathlib.Path(__file__).parent.resolve()
     codes_file = root / "codes.txt"
     used_codes = codes_file.open().read().split("\n")
-    new_codes = list(filter(lambda x: x not in used_codes, active_codes))
+    new_codes = list(filter(lambda x: x not in used_codes, kode))
 
 
     # Redeem codes
     print("[Code redeem] ", end="")
     redeemed_codes = []
-    for code in active_codes[:-1]:
+    for code in kode[:-1]:
         try:
             await client.redeem_code(code)
             redeemed_codes.append(code)
         except Exception:
             pass
         time.sleep(5.2)
-    if len(active_codes) != 0:
+    if len(kode) != 0:
         try:
-            await client.redeem_code(active_codes[-1])
+            await client.redeem_code(kode[-1])
             redeemed_codes.append(code)
         except Exception:
             pass

@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>617</td>
+    <td>618</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>107</td>
+    <td>109</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1597</td>
+    <td>1603</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1206</td>
+    <td>1210</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -60,11 +60,11 @@
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>140</td>
+    <td>141</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>67</td>
+    <td>70</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>34.0%</td>
+          <td>35.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -239,7 +239,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>87.3%</td>
+          <td>87.5%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -272,17 +272,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1982 (rate -63)</td>
+    <td>2006 (rate -63)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1475621 (rate -71)</td>
+    <td>1485385 (rate -71)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1400 (71%)<br />Mail: 420 (21%)<br />Daily Activity: 160 (8%)<br />Adventure:
-      2 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0 (0%)<br />
+      Events: 1400 (70%)<br />Mail: 420 (21%)<br />Daily Activity: 170 (9%)<br />Adventure:
+      16 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
+      (0%)<br />
     </td>
   </tr>
 </table>

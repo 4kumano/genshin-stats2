@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Almond Tofu</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>618</td>
+    <td>619</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2139 (rate -60)</td>
+    <td>2740 (rate -49)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1769520 (rate -65)</td>
+    <td>2303144 (rate -55)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1440 (68%)<br />Mail: 420 (20%)<br />Daily Activity: 220 (10%)<br />Adventure:
-      59 (2%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
+      Events: 1980 (73%)<br />Mail: 420 (15%)<br />Daily Activity: 280 (10%)<br />Adventure:
+      59 (2%)<br />Other: 1 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>

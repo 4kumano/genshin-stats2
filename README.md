@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Sweet Madame</td>
   </tr>
 </table>
 
@@ -1321,7 +1321,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>40</td>
+          <td>70</td>
         </tr>
         <tr>
           <td>Refinement</td>

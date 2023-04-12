@@ -58,7 +58,7 @@ async def main():
     i = 1
     while i <= 8:
         #print(i)
-        #kode.pop(4)
+        kode.pop(3)
         i += 1
 
     root = pathlib.Path(__file__).parent.resolve()

@@ -116,3 +116,7 @@ Mail: 
 Starglitter and Stardust: 
 4BQYGWQ9HTR5
 Achievements: 
+Test Run: 
+Quests: 
+Chests: 
+Shrines: 

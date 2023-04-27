@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -16,15 +16,15 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>524</td>
+    <td>525</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>623</td>
+    <td>624</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>41</td>
+    <td>42</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>901 (rate -67)</td>
+    <td>1821 (rate -33)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>539471 (rate -76)</td>
+    <td>828971 (rate -64)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 420 (47%)<br />Daily Activity: 220 (25%)<br />Quests: 140 (16%)<br />Adventure:
-      98 (10%)<br />Events: 20 (2%)<br />Other: 3 (0%)<br />Spiral Abyss: 0
+      Mail: 820 (46%)<br />Other: 423 (24%)<br />Daily Activity: 280 (15%)<br />Quests:
+      140 (7%)<br />Adventure: 98 (5%)<br />Events: 60 (3%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
